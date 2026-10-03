@@ -4,8 +4,8 @@ export interface User {
   full_name: string;
   role: 'Admin' | 'Analyst' | 'Viewer';
   workspace_id?: number;
-  is_active: boolean;
-  created_at: string;
+  is_active?: boolean;
+  created_at?: string;
 }
 
 export interface AuthState {

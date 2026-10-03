@@ -22,6 +22,8 @@ const defaultUser: User = {
   email: 'admin@biplatform.com',
   full_name: 'Admin User',
   role: 'Admin',
+  is_active: true,
+  created_at: new Date().toISOString(),
 };
 
 export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
