@@ -1,0 +1,1201 @@
+Order ID,Order Date,Customer ID,Customer Name,Segment,Category,Product,Region,City,Quantity,Sales,Cost,Profit,Discount
+ORD-2025-10700,2024-01-02,CUST-300,Customer_300,Consumer,Office Supplies,Heavy Duty Stapler,North,Jaipur,8,225.92,150.8,75.12,0.0
+ORD-2026-10242,2024-01-03,CUST-405,Customer_405,Home Office,Clothing,Breathable Running Shoes,West,Mumbai,11,1326.38,971.63,354.75,0.0
+ORD-2025-11051,2024-01-03,CUST-420,Customer_420,Consumer,Electronics,Wireless Noise-Canceling Headphones,South,Hyderabad,8,3430.72,3112.4,318.32,0.2
+ORD-2024-11179,2024-01-03,CUST-446,Customer_446,Corporate,Clothing,Breathable Running Shoes,West,Ahmedabad,7,1118.46,760.9,357.56,0.0
+ORD-2026-10029,2024-01-04,CUST-229,Customer_229,Consumer,Furniture,Ergonomic Executive Chair,South,Chennai,8,3007.78,2181.44,826.34,0.05
+ORD-2024-10945,2024-01-05,CUST-341,Customer_341,Consumer,Clothing,Cotton Oxford Shirt,East,Kolkata,7,631.47,542.64,88.83,0.25
+ORD-2026-10272,2024-01-07,CUST-117,Customer_117,Enterprise,Electronics,Smartwatch Series X,Central,Bhopal,8,5636.24,4032.4,1603.84,0.0
+ORD-2026-10641,2024-01-07,CUST-369,Customer_369,Enterprise,Furniture,Nordic Dining Table,East,Guwahati,5,3219.36,2821.2,398.16,0.2
+ORD-2025-10721,2024-01-07,CUST-168,Customer_168,Corporate,Furniture,Ergonomic Executive Chair,South,Bengaluru,15,10569.0,7165.05,3403.95,0.0
+ORD-2024-10300,2024-01-08,CUST-421,Customer_421,Consumer,Office Supplies,Desktop Document Organizer,Central,Indore,11,371.62,322.08,49.54,0.2
+ORD-2026-10389,2024-01-08,CUST-434,Customer_434,Home Office,Furniture,Ergonomic Executive Chair,West,Mumbai,12,4305.12,3194.88,1110.24,0.0
+ORD-2025-10826,2024-01-08,CUST-234,Customer_234,Enterprise,Electronics,Smartphone Pro Max,South,Hyderabad,9,3574.69,2526.3,1048.39,0.1
+ORD-2025-11162,2024-01-08,CUST-232,Customer_232,Corporate,Clothing,Winter Knit Beanie,West,Surat,2,296.86,179.08,117.78,0.0
+ORD-2026-11037,2024-01-09,CUST-151,Customer_151,Home Office,Furniture,Ergonomic Executive Chair,Central,Indore,8,4565.89,3627.44,938.45,0.2
+ORD-2025-10286,2024-01-11,CUST-258,Customer_258,Enterprise,Electronics,Mechanical Gaming Keyboard,North,Delhi,9,2552.73,2173.86,378.87,0.15
+ORD-2026-10581,2024-01-12,CUST-267,Customer_267,Enterprise,Furniture,Ergonomic Executive Chair,Central,Raipur,2,539.0,388.22,150.78,0.0
+ORD-2026-10674,2024-01-12,CUST-118,Customer_118,Home Office,Office Supplies,Gel Pen Box (Set of 12),West,Ahmedabad,8,169.04,114.72,54.32,0.0
+ORD-2026-10230,2024-01-13,CUST-364,Customer_364,Home Office,Clothing,Winter Knit Beanie,South,Hyderabad,14,2441.32,1700.16,-680.06,0.0
+ORD-2026-11001,2024-01-13,CUST-379,Customer_379,Consumer,Office Supplies,Heavy Duty Stapler,North,Lucknow,11,654.06,456.06,198.0,0.0
+ORD-2025-10553,2024-01-14,CUST-386,Customer_386,Corporate,Clothing,Slim Fit Denim Jeans,South,Kochi,13,361.09,277.03,84.06,0.2
+ORD-2024-11107,2024-01-15,CUST-440,Customer_440,Corporate,Electronics,Smartphone Pro Max,West,Mumbai,9,6244.65,3900.33,2344.32,0.0
+ORD-2026-11175,2024-01-16,CUST-396,Customer_396,Consumer,Clothing,Breathable Running Shoes,South,Hyderabad,9,1023.12,653.49,369.63,0.0
+ORD-2024-10003,2024-01-17,CUST-320,Customer_320,Enterprise,Electronics,Mechanical Gaming Keyboard,Central,Raipur,10,9619.7,6612.3,3007.4,0.0
+ORD-2026-10278,2024-01-17,CUST-344,Customer_344,Consumer,Furniture,Standing Height-Adjustable Desk,Central,Raipur,13,6980.57,5129.41,1851.16,0.1
+ORD-2025-11069,2024-01-18,CUST-357,Customer_357,Enterprise,Furniture,Standing Height-Adjustable Desk,North,Chandigarh,2,472.02,262.74,209.28,0.0
+ORD-2025-11084,2024-01-18,CUST-165,Customer_165,Corporate,Electronics,Ergonomic Wireless Mouse,North,Delhi,10,3486.67,2680.7,805.97,0.25
+ORD-2025-10526,2024-01-19,CUST-220,Customer_220,Home Office,Clothing,Cotton Oxford Shirt,West,Mumbai,4,106.0,78.0,28.0,0.0
+ORD-2025-10379,2024-01-20,CUST-259,Customer_259,Home Office,Electronics,Smartphone Pro Max,South,Bengaluru,5,663.91,510.35,153.56,0.05
+ORD-2024-10654,2024-01-21,CUST-406,Customer_406,Consumer,Clothing,Cotton Oxford Shirt,Central,Raipur,1,142.84,84.01,58.83,0.05
+ORD-2025-10973,2024-01-21,CUST-128,Customer_128,Home Office,Office Supplies,Premium Notebook Pack,West,Pune,5,54.01,35.55,18.46,0.05
+ORD-2024-10423,2024-01-22,CUST-333,Customer_333,Corporate,Furniture,Ergonomic Executive Chair,South,Bengaluru,4,3321.32,2036.88,1284.44,0.0
+ORD-2024-10663,2024-01-22,CUST-108,Customer_108,Enterprise,Furniture,Nordic Dining Table,North,Delhi,5,3756.05,2087.6,1668.45,0.0
+ORD-2024-10525,2024-01-24,CUST-243,Customer_243,Consumer,Furniture,Leather Recliner Sofa,South,Chennai,2,1306.44,799.7,506.74,0.1
+ORD-2024-10642,2024-01-24,CUST-380,Customer_380,Corporate,Furniture,Modern Bookshelf 5-Tier,East,Guwahati,10,4527.04,4023.6,503.44,0.2
+ORD-2024-10894,2024-01-24,CUST-189,Customer_189,Consumer,Furniture,Modern Bookshelf 5-Tier,West,Ahmedabad,4,1772.44,1106.92,665.52,0.0
+ORD-2026-10638,2024-01-25,CUST-308,Customer_308,Home Office,Furniture,Ergonomic Executive Chair,East,Guwahati,6,4003.99,2462.64,1541.35,0.1
+ORD-2026-10647,2024-01-25,CUST-126,Customer_126,Enterprise,Clothing,Performance Thermal Jacket,South,Chennai,8,1244.09,944.88,299.21,0.1
+ORD-2026-10221,2024-01-26,CUST-237,Customer_237,Enterprise,Furniture,Ergonomic Executive Chair,Central,Indore,3,1866.1,1305.9,560.2,0.1
+ORD-2025-10439,2024-01-26,CUST-186,Customer_186,Home Office,Furniture,Modern Bookshelf 5-Tier,East,Kolkata,10,6054.0,3677.1,2376.9,0.0
+ORD-2024-10900,2024-01-26,CUST-175,Customer_175,Consumer,Electronics,Wireless Noise-Canceling Headphones,South,Hyderabad,11,9984.26,6594.83,3389.43,
+ORD-2026-10908,2024-01-29,CUST-144,Customer_144,Consumer,Clothing,Winter Knit Beanie,South,Hyderabad,10,575.28,357.0,218.28,0.1
+ORD-2026-10053,2024-01-30,CUST-445,Customer_445,Home Office,Furniture,Modern Bookshelf 5-Tier,East,Kolkata,11,6970.37,4276.69,2693.68,0.0
+ORD-2024-10606,2024-01-30,CUST-277,Customer_277,Consumer,Office Supplies,Gel Pen Box (Set of 12),East,Kolkata,6,209.19,139.86,69.33,0.05
+ORD-2025-10787,2024-01-30,CUST-442,Customer_442,Home Office,Office Supplies,Desktop Document Organizer,North,Lucknow,1,20.64,14.1,6.54,0.1
+ORD-2024-10960,2024-01-30,CUST-335,Customer_335,Home Office,Office Supplies,Whiteboard Marker Kit,West,Surat,7,288.81,190.19,98.62,0.05
+ORD-2025-10484,2024-01-31,CUST-278,Customer_278,Enterprise,Clothing,Cotton Oxford Shirt,West,Surat,9,419.17,365.58,53.59,0.25
+ORD-2024-10720,2024-02-03,CUST-327,Customer_327,Home Office,Clothing,Slim Fit Denim Jeans,South,Chennai,3,423.03,303.24,119.79,
+ORD-2025-11111,2024-02-03,CUST-181,Customer_181,Consumer,Clothing,Cotton Oxford Shirt,West,Pune,8,513.46,385.2,128.26,0.05
+ORD-2026-10386,2024-02-04,CUST-289,Customer_289,Enterprise,Electronics,4K Ultra Monitor 32-inch,North,Delhi,6,414.19,359.7,54.49,0.2
+ORD-2025-10250,2024-02-06,CUST-353,Customer_353,,Electronics,Smartwatch Series X,North,Lucknow,10,5761.92,5197.6,564.32,0.2
+ORD-2026-10317,2024-02-08,CUST-235,Customer_235,Consumer,Electronics,4K Ultra Monitor 32-inch,North,Delhi,14,8099.84,6382.74,1717.1,0.2
+ORD-2025-10496,2024-02-08,CUST-347,Customer_347,Corporate,Clothing,Cotton Oxford Shirt,South,Chennai,10,1434.6,806.1,628.5,0.0
+ORD-2024-11146,2024-02-08,CUST-414,Customer_414,Consumer,Electronics,4K Ultra Monitor 32-inch,West,Mumbai,9,5941.55,5607.27,334.28,0.25
+ORD-2024-10561,2024-02-09,CUST-284,Customer_284,Home Office,Electronics,Mechanical Gaming Keyboard,North,Chandigarh,5,5903.6,3984.9,1918.7,0.0
+ORD-2024-11011,2024-02-09,CUST-307,Customer_307,Home Office,Office Supplies,Gel Pen Box (Set of 12),South,Chennai,9,139.14,82.98,56.16,0.0
+ORD-2026-10239,2024-02-10,CUST-281,Customer_281,Home Office,Office Supplies,Heavy Duty Stapler,South,Hyderabad,8,363.33,327.12,36.21,0.2
+ORD-2026-10653,2024-02-10,CUST-441,Customer_441,Corporate,Furniture,Ergonomic Executive Chair,Central,Raipur,5,2726.95,1909.9,817.05,0.1
+ORD-2025-10025,2024-02-11,CUST-396,Customer_396,Corporate,Furniture,Modern Bookshelf 5-Tier,East,Patna,4,2162.94,1430.88,732.06,0.15
+ORD-2024-10339,2024-02-11,CUST-310,Customer_310,Enterprise,Furniture,Modern Bookshelf 5-Tier,South,Kochi,2,354.86,200.66,154.2,0.0
+ORD-2026-10587,2024-02-11,CUST-362,Customer_362,Home Office,Electronics,Mechanical Gaming Keyboard,Central,Raipur,4,2234.08,1550.4,683.68,0.0
+ORD-2026-11157,2024-02-11,CUST-136,Customer_136,Corporate,Office Supplies,Premium Notebook Pack,West,Pune,4,200.38,174.6,25.78,0.2
+ORD-2025-10229,2024-02-12,CUST-185,Customer_185,Enterprise,Electronics,4K Ultra Monitor 32-inch,West,Pune,1,882.42,746.16,136.26,0.2
+ORD-2025-10895,2024-02-12,CUST-117,Customer_117,Home Office,Office Supplies,Premium Notebook Pack,South,Kochi,1,56.64,37.05,19.59,0.0
+ORD-2025-10472,2024-02-14,CUST-386,Customer_386,Enterprise,Furniture,Leather Recliner Sofa,East,Guwahati,4,2376.84,1495.84,881.0,0.0
+ORD-2025-10532,2024-02-15,CUST-405,Customer_405,Enterprise,Electronics,Mechanical Gaming Keyboard,Central,Nagpur,14,11970.84,10969.56,1001.28,0.25
+ORD-2024-10534,2024-02-17,CUST-234,Customer_234,Enterprise,Clothing,Breathable Running Shoes,North,Chandigarh,7,299.34,251.23,48.11,0.15
+ORD-2025-10622,2024-02-17,CUST-300,Customer_300,Home Office,Electronics,4K Ultra Monitor 32-inch,West,Pune,7,3419.06,2919.0,500.06,0.25
+ORD-2025-10868,2024-02-17,CUST-231,Customer_231,Corporate,Furniture,Nordic Dining Table,Central,Indore,14,4116.98,2477.72,1639.26,0.0
+ORD-2025-10136,2024-02-21,CUST-124,Customer_124,Corporate,Clothing,Slim Fit Denim Jeans,West,Surat,10,1386.4,1061.1,325.3,0.2
+ORD-2025-10175,2024-02-21,CUST-264,Customer_264,Home Office,Office Supplies,Heavy Duty Stapler,East,Kolkata,1,25.6,15.9,9.7,0.0
+ORD-2025-10262,2024-02-21,CUST-375,Customer_375,Consumer,Furniture,Nordic Dining Table,East,Bhubaneswar,5,1960.28,1488.65,471.63,0.05
+ORD-2026-10593,2024-02-21,CUST-420,Customer_420,Consumer,Furniture,Ergonomic Executive Chair,East,Guwahati,8,4016.64,2746.88,1269.76,0.0
+ORD-2024-10585,2024-02-23,CUST-264,Customer_264,Consumer,Clothing,Breathable Running Shoes,North,Delhi,11,768.9,513.37,255.53,0.0
+ORD-2024-11161,2024-02-23,CUST-448,Customer_448,Corporate,Clothing,Slim Fit Denim Jeans,South,Hyderabad,15,2094.79,1475.25,619.54,0.1
+ORD-2026-10107,2024-02-24,CUST-421,Customer_421,Enterprise,Office Supplies,Whiteboard Marker Kit,Central,Bhopal,5,304.25,172.35,131.9,0.0
+ORD-2025-10541,2024-02-24,CUST-357,Customer_357,Home Office,Office Supplies,Whiteboard Marker Kit,North,Lucknow,12,400.03,316.2,83.83,0.2
+ORD-2024-10831,2024-02-24,CUST-266,Customer_266,Corporate,Office Supplies,Gel Pen Box (Set of 12),Central,Nagpur,10,626.31,471.7,154.61,0.1
+ORD-2026-10323,2024-02-25,CUST-123,Customer_123,Corporate,Clothing,Winter Knit Beanie,East,Kolkata,11,846.23,574.64,271.59,0.0
+ORD-2026-11199,2024-02-25,CUST-224,Customer_224,Corporate,Furniture,Modern Bookshelf 5-Tier,North,Jaipur,10,8181.7,5144.9,3036.8,0.0
+ORD-2024-10057,2024-02-26,CUST-115,Customer_115,Home Office,Electronics,Smartwatch Series X,West,Surat,4,3523.43,2430.12,1093.31,0.1
+ORD-2025-10046,2024-02-29,CUST-365,Customer_365,Enterprise,Electronics,Ergonomic Wireless Mouse,Central,Indore,2,432.72,283.06,149.66,0.0
+ORD-2026-10986,2024-02-29,CUST-387,Customer_387,Consumer,Electronics,Smartwatch Series X,North,Chandigarh,10,8972.8,6403.1,2569.7,0.0
+ORD-2026-10794,2024-03-01,CUST-417,Customer_417,Enterprise,Office Supplies,Heavy Duty Stapler,East,Bhubaneswar,4,223.14,138.08,85.06,0.05
+ORD-2025-10937,2024-03-02,CUST-172,Customer_172,Consumer,Furniture,Standing Height-Adjustable Desk,North,Delhi,10,5094.4,3846.9,1247.5,0.2
+ORD-2025-10961,2024-03-02,CUST-253,Customer_253,Corporate,Furniture,Modern Bookshelf 5-Tier,Central,Bhopal,4,2167.05,1834.36,332.69,0.25
+ORD-2025-11114,2024-03-02,CUST-322,Customer_322,Corporate,Office Supplies,Premium Notebook Pack,West,Mumbai,13,489.45,297.57,191.88,0.0
+ORD-2026-10485,2024-03-03,CUST-420,Customer_420,Home Office,Furniture,Nordic Dining Table,North,Chandigarh,8,4802.36,3808.4,993.96,0.15
+ORD-2026-11136,2024-03-04,CUST-338,Customer_338,Corporate,Office Supplies,Gel Pen Box (Set of 12),South,Chennai,1,44.1,30.87,13.23,0.0
+ORD-2026-10263,2024-03-06,CUST-390,Customer_390,Enterprise,Clothing,Slim Fit Denim Jeans,South,Bengaluru,15,2294.1,1368.15,925.95,0.0
+ORD-2025-10265,2024-03-06,CUST-283,Customer_283,Home Office,Electronics,Ergonomic Wireless Mouse,Central,Bhopal,3,1743.61,1272.57,471.04,0.1
+ORD-2025-11171,2024-03-06,CUST-447,Customer_447,Enterprise,Furniture,Modern Bookshelf 5-Tier,Central,Nagpur,14,9103.0,6433.42,2669.58,0.1
+ORD-2025-10643,2024-03-08,CUST-268,Customer_268,Home Office,Office Supplies,Gel Pen Box (Set of 12),North,Chandigarh,14,201.6,185.5,16.1,0.2
+ORD-2026-10716,2024-03-11,CUST-418,Customer_418,Home Office,Electronics,Mechanical Gaming Keyboard,West,Pune,6,4870.88,3465.48,1405.4,0.05
+ORD-2024-10843,2024-03-11,CUST-244,Customer_244,Enterprise,Office Supplies,Whiteboard Marker Kit,South,Bengaluru,11,269.78,200.64,69.14,0.1
+ORD-2026-10011,2024-03-12,CUST-251,Customer_251,Corporate,Office Supplies,Whiteboard Marker Kit,West,Surat,2,55.86,41.62,14.24,0.05
+ORD-2025-10565,2024-03-13,CUST-118,Customer_118,Home Office,Furniture,Modern Bookshelf 5-Tier,West,Surat,5,1024.45,726.2,298.25,0.0
+ORD-2025-10613,2024-03-14,CUST-368,Customer_368,Enterprise,Electronics,Wireless Noise-Canceling Headphones,Central,Nagpur,15,6349.35,4150.8,2198.55,0.0
+ORD-2026-10740,2024-03-14,CUST-304,Customer_304,Home Office,Office Supplies,Whiteboard Marker Kit,East,Bhubaneswar,6,354.88,234.96,119.92,0.05
+ORD-2024-10027,2024-03-15,CUST-224,Customer_224,Corporate,Electronics,Ergonomic Wireless Mouse,East,Guwahati,2,1449.83,1026.14,423.69,0.05
+ORD-2025-10199,2024-03-15,CUST-438,Customer_438,Corporate,Office Supplies,Gel Pen Box (Set of 12),West,Mumbai,8,487.52,283.36,204.16,0.0
+ORD-2026-10479,2024-03-15,CUST-443,Customer_443,Consumer,Office Supplies,Desktop Document Organizer,East,Kolkata,2,114.44,83.88,30.56,0.0
+ORD-2025-10877,2024-03-15,CUST-260,Customer_260,Enterprise,Office Supplies,Whiteboard Marker Kit,South,Bengaluru,1,35.61,22.88,12.73,0.0
+ORD-2024-10408,2024-03-16,CUST-355,Customer_355,Consumer,Electronics,Smartphone Pro Max,Central,Indore,13,2219.1,1437.15,781.95,0.0
+ORD-2026-10827,2024-03-16,CUST-331,Customer_331,Consumer,Furniture,Nordic Dining Table,West,Pune,5,2106.35,1271.25,835.1,0.0
+ORD-2024-10555,2024-03-17,CUST-147,Customer_147,Corporate,Electronics,Smartwatch Series X,West,Mumbai,2,1585.76,1176.06,409.7,0.05
+ORD-2025-10559,2024-03-17,CUST-178,Customer_178,Home Office,Office Supplies,Whiteboard Marker Kit,North,Delhi,4,50.62,32.68,17.94,0.05
+ORD-2024-11113,2024-03-18,CUST-211,Customer_211,Corporate,Office Supplies,Whiteboard Marker Kit,Central,Bhopal,14,653.24,395.78,257.46,0.0
+ORD-2026-11163,2024-03-18,CUST-123,Customer_123,Enterprise,Office Supplies,Gel Pen Box (Set of 12),West,Ahmedabad,8,286.8,165.2,121.6,0.0
+ORD-2024-10042,2024-03-20,CUST-414,Customer_414,Consumer,Clothing,Slim Fit Denim Jeans,North,Jaipur,4,345.25,263.72,81.53,0.2
+ORD-2025-10169,2024-03-20,CUST-393,Customer_393,Consumer,Furniture,Ergonomic Executive Chair,East,Kolkata,10,2281.1,1426.3,854.8,0.0
+ORD-2026-10101,2024-03-21,CUST-448,Customer_448,Consumer,Electronics,Smartphone Pro Max,Central,Raipur,3,2419.2,1638.42,780.78,0.0
+ORD-2024-11176,2024-03-21,CUST-440,Customer_440,Enterprise,Office Supplies,Heavy Duty Stapler,South,Chennai,14,654.78,406.42,248.36,0.0
+ORD-2024-10009,2024-03-22,CUST-340,Customer_340,Consumer,Office Supplies,Heavy Duty Stapler,Central,Bhopal,2,43.3,27.88,15.42,0.0
+ORD-2024-10624,2024-03-22,CUST-198,Customer_198,Corporate,Furniture,Nordic Dining Table,West,Ahmedabad,8,4401.72,3660.56,741.16,0.1
+ORD-2026-10110,2024-03-23,CUST-137,Customer_137,Home Office,Office Supplies,Desktop Document Organizer,West,Surat,12,523.37,393.48,129.89,0.05
+ORD-2024-10279,2024-03-23,CUST-218,Customer_218,Home Office,Office Supplies,Gel Pen Box (Set of 12),South,Kochi,5,208.3,130.3,78.0,0.0
+ORD-2025-10538,2024-03-23,CUST-130,Customer_130,Home Office,Furniture,Modern Bookshelf 5-Tier,North,Delhi,12,4066.56,2825.28,1241.28,0.0
+ORD-2026-10824,2024-03-23,CUST-175,Customer_175,Enterprise,Electronics,Smartwatch Series X,East,Kolkata,1,373.5,295.31,78.19,0.2
+ORD-2026-10164,2024-03-24,CUST-385,Customer_385,Consumer,Electronics,Ergonomic Wireless Mouse,Central,Nagpur,15,13915.8,9751.95,4163.85,0.0
+ORD-2024-10207,2024-03-24,CUST-342,Customer_342,Consumer,Office Supplies,Heavy Duty Stapler,North,Delhi,11,330.5,260.04,70.46,0.25
+ORD-2026-10212,2024-03-24,CUST-102,Customer_102,Home Office,Clothing,Winter Knit Beanie,North,Delhi,4,371.11,246.12,124.99,0.05
+ORD-2025-10280,2024-03-26,CUST-276,Customer_276,Home Office,Electronics,Smartwatch Series X,Central,Nagpur,10,5902.8,3893.5,2009.3,0.0
+ORD-2026-10413,2024-03-28,CUST-180,Customer_180,Home Office,Clothing,Winter Knit Beanie,North,Chandigarh,1,127.11,73.29,53.82,0.0
+ORD-2026-10941,2024-03-29,CUST-124,Customer_124,Home Office,Clothing,Breathable Running Shoes,West,Surat,3,314.31,200.16,114.15,0.0
+ORD-2024-10084,2024-04-01,CUST-156,Customer_156,Enterprise,Furniture,Nordic Dining Table,Central,Nagpur,15,12427.65,7857.0,4570.65,0.0
+ORD-2026-10632,2024-04-01,CUST-172,Customer_172,Home Office,Electronics,Smartwatch Series X,North,Delhi,4,2748.93,1995.6,753.33,0.15
+ORD-2024-11194,2024-04-02,CUST-296,Customer_296,Enterprise,Office Supplies,Desktop Document Organizer,Central,Raipur,14,817.05,534.52,282.53,0.15
+ORD-2024-10297,2024-04-03,CUST-152,Customer_152,Enterprise,Electronics,Mechanical Gaming Keyboard,East,Bhubaneswar,5,786.15,465.6,320.55,0.0
+ORD-2025-10523,2024-04-03,CUST-209,Customer_209,Home Office,Furniture,Ergonomic Executive Chair,North,Jaipur,15,8956.5,5732.55,3223.95,0.0
+ORD-2026-10977,2024-04-05,CUST-107,Customer_107,Corporate,Furniture,Modern Bookshelf 5-Tier,East,Bhubaneswar,2,764.41,510.84,253.57,0.1
+ORD-2025-10313,2024-04-06,CUST-335,Customer_335,Home Office,Electronics,Mechanical Gaming Keyboard,West,Surat,8,9281.12,5314.64,3966.48,0.0
+ORD-2024-10243,2024-04-08,CUST-268,Customer_268,Corporate,Electronics,Wireless Noise-Canceling Headphones,North,Chandigarh,14,4034.24,2616.32,1417.92,0.0
+ORD-2024-10105,2024-04-09,CUST-178,Customer_178,Consumer,Electronics,Ergonomic Wireless Mouse,Central,Nagpur,5,5532.75,3392.0,2140.75,0.0
+ORD-2025-10208,2024-04-09,CUST-147,Customer_147,Home Office,Clothing,Slim Fit Denim Jeans,West,Ahmedabad,12,1014.96,680.4,334.56,0.0
+ORD-2025-10829,2024-04-11,CUST-356,Customer_356,Enterprise,Clothing,Cotton Oxford Shirt,North,Chandigarh,6,529.68,352.14,177.54,0.0
+ORD-2024-11185,2024-04-12,CUST-379,Customer_379,Home Office,Office Supplies,Premium Notebook Pack,Central,Raipur,1,34.37,25.75,8.62,0.0
+ORD-2026-10860,2024-04-14,CUST-439,Customer_439,Home Office,Clothing,Slim Fit Denim Jeans,West,Ahmedabad,6,535.44,356.82,178.62,0.0
+ORD-2026-10149,2024-04-15,CUST-428,Customer_428,Corporate,Furniture,Leather Recliner Sofa,Central,Raipur,1,449.65,283.87,165.78,0.0
+ORD-2025-10277,2024-04-15,CUST-206,Customer_206,Home Office,Furniture,Leather Recliner Sofa,West,Ahmedabad,5,1024.43,820.65,203.78,0.25
+ORD-2024-10351,2024-04-15,CUST-374,Customer_374,Consumer,Furniture,Modern Bookshelf 5-Tier,East,Bhubaneswar,5,1442.28,1135.5,306.78,0.15
+ORD-2026-10809,2024-04-17,CUST-198,Customer_198,Consumer,Furniture,Nordic Dining Table,South,Kochi,1,335.97,216.1,119.87,0.1
+ORD-2026-10026,2024-04-19,CUST-377,Customer_377,Home Office,Furniture,Leather Recliner Sofa,South,Bengaluru,6,2496.05,2010.18,485.87,0.2
+ORD-2024-10675,2024-04-19,CUST-270,Customer_270,Corporate,Furniture,Leather Recliner Sofa,West,Surat,9,5935.14,4352.31,1582.83,0.0
+ORD-2025-10697,2024-04-19,CUST-282,Customer_282,Consumer,Electronics,Smartwatch Series X,Central,Bhopal,6,5141.18,3338.82,1802.36,0.1
+ORD-2024-10030,2024-04-20,CUST-384,Customer_384,Corporate,Clothing,Slim Fit Denim Jeans,East,Bhubaneswar,1,84.04,59.34,24.7,0.15
+ORD-2024-11014,2024-04-20,CUST-286,Customer_286,Home Office,Electronics,Smartwatch Series X,West,Surat,5,1220.54,891.05,329.49,0.1
+ORD-2026-11019,2024-04-20,CUST-439,Customer_439,Consumer,Clothing,Performance Thermal Jacket,East,Patna,1,86.35,61.81,24.54,0.0
+ORD-2026-10161,2024-04-21,CUST-426,Customer_426,Home Office,Office Supplies,Heavy Duty Stapler,Central,Raipur,3,35.42,27.48,7.94,0.1
+ORD-2025-10253,2024-04-21,CUST-381,Customer_381,Corporate,Office Supplies,Premium Notebook Pack,North,Jaipur,7,197.33,114.45,82.88,0.0
+ORD-2024-10324,2024-04-22,CUST-386,Customer_386,Corporate,Office Supplies,Gel Pen Box (Set of 12),South,Chennai,9,84.96,67.59,17.37,0.2
+ORD-2025-10040,2024-04-23,CUST-155,Customer_155,Enterprise,Office Supplies,Desktop Document Organizer,East,Patna,14,308.56,194.6,113.96,0.0
+ORD-2024-10363,2024-04-24,CUST-108,Customer_108,Corporate,Office Supplies,Heavy Duty Stapler,South,Bengaluru,15,687.15,441.75,245.4,0.0
+ORD-2025-10832,2024-04-24,CUST-347,Customer_347,Consumer,Furniture,Modern Bookshelf 5-Tier,Central,Nagpur,11,1836.34,1353.11,483.23,0.15
+ORD-2025-10001,2024-04-26,CUST-116,Customer_116,Enterprise,Clothing,Performance Thermal Jacket,South,Kochi,1,145.29,92.38,52.91,0.1
+ORD-2026-11004,2024-04-26,CUST-332,Customer_332,Enterprise,Furniture,Nordic Dining Table,North,Chandigarh,12,4361.64,2653.56,1708.08,0.0
+ORD-2025-10514,2024-04-27,CUST-237,Customer_237,Home Office,Clothing,Performance Thermal Jacket,Central,Nagpur,10,1577.7,1003.8,573.9,0.0
+ORD-2025-10604,2024-04-28,CUST-136,Customer_136,Corporate,Office Supplies,Heavy Duty Stapler,North,Delhi,13,889.85,536.38,353.47,0.0
+ORD-2025-10178,2024-04-29,CUST-269,Customer_269,Consumer,Clothing,Breathable Running Shoes,West,Mumbai,3,539.25,297.9,241.35,0.0
+ORD-2026-10257,2024-04-30,CUST-173,Customer_173,Corporate,Furniture,Standing Height-Adjustable Desk,East,Patna,2,1214.2,891.52,322.68,0.0
+ORD-2024-10435,2024-05-02,CUST-431,Customer_431,Enterprise,Office Supplies,Whiteboard Marker Kit,West,Surat,9,519.3,331.56,187.74,0.0
+ORD-2024-10780,2024-05-03,CUST-204,Customer_204,Home Office,Office Supplies,Premium Notebook Pack,West,Pune,10,2433.15,327.8,1064.5,0.0
+ORD-2026-11085,2024-05-03,CUST-198,Customer_198,Enterprise,Furniture,Leather Recliner Sofa,West,Surat,6,1132.02,832.26,299.76,0.25
+ORD-2025-10913,2024-05-05,CUST-367,Customer_367,Enterprise,Electronics,Mechanical Gaming Keyboard,South,Chennai,2,2211.28,1226.08,985.2,0.0
+ORD-2024-10159,2024-05-06,CUST-232,Customer_232,Home Office,Office Supplies,Desktop Document Organizer,North,Delhi,10,138.4,89.6,48.8,0.0
+ORD-2024-10765,2024-05-06,CUST-434,Customer_434,Home Office,Electronics,4K Ultra Monitor 32-inch,North,Lucknow,15,14373.0,10480.95,3892.05,0.0
+ORD-2024-11170,2024-05-07,CUST-395,Customer_395,Corporate,Furniture,Ergonomic Executive Chair,West,Pune,10,2745.83,2221.4,524.43,0.25
+ORD-2024-10246,2024-05-09,CUST-148,Customer_148,Consumer,Clothing,Performance Thermal Jacket,West,Ahmedabad,12,1102.25,801.36,300.89,0.1
+ORD-2026-10281,2024-05-09,CUST-388,Customer_388,Consumer,Electronics,Smartwatch Series X,Central,Indore,7,5430.03,3682.77,1747.26,0.1
+ORD-2024-10054,2024-05-10,CUST-256,Customer_256,Home Office,Office Supplies,Gel Pen Box (Set of 12),North,Jaipur,5,63.0,43.75,19.25,0.0
+ORD-2025-10013,2024-05-11,CUST-134,Customer_134,Enterprise,Clothing,Performance Thermal Jacket,East,Patna,3,106.99,78.81,28.18,0.25
+ORD-2026-10701,2024-05-12,CUST-279,Customer_279,Consumer,Clothing,Breathable Running Shoes,South,Chennai,8,423.68,244.96,178.72,0.0
+ORD-2024-10717,2024-05-14,CUST-224,Customer_224,Consumer,Office Supplies,Premium Notebook Pack,Central,Raipur,15,893.3,626.7,266.6,0.1
+ORD-2025-10094,2024-05-15,CUST-248,Customer_248,Enterprise,Furniture,Ergonomic Executive Chair,North,Delhi,3,806.4,539.07,267.33,0.0
+ORD-2026-10182,2024-05-17,CUST-281,Customer_281,Home Office,Electronics,Wireless Noise-Canceling Headphones,North,Delhi,13,8945.82,5561.14,3384.68,0.0
+ORD-2026-10260,2024-05-18,CUST-280,Customer_280,Corporate,Furniture,Ergonomic Executive Chair,Central,Raipur,2,591.34,421.26,170.08,0.0
+ORD-2024-10984,2024-05-18,CUST-137,Customer_137,Enterprise,Office Supplies,Desktop Document Organizer,South,Kochi,2,82.16,59.84,22.32,0.2
+ORD-2025-10571,2024-05-21,CUST-157,Customer_157,Enterprise,Clothing,Breathable Running Shoes,North,Delhi,13,2172.82,1232.66,940.16,0.0
+ORD-2025-10157,2024-05-24,CUST-444,Customer_444,Enterprise,Clothing,Slim Fit Denim Jeans,Central,Bhopal,4,269.5,226.8,42.7,0.2
+ORD-2026-10656,2024-05-24,CUST-147,Customer_147,Consumer,Clothing,Cotton Oxford Shirt,East,Bhubaneswar,9,1102.41,637.74,464.67,0.0
+ORD-2026-10722,2024-05-24,CUST-184,Customer_184,Corporate,Electronics,Smartphone Pro Max,South,Kochi,1,786.1,713.08,73.02,0.2
+ORD-2024-10729,2024-05-25,CUST-367,Customer_367,Home Office,Office Supplies,Premium Notebook Pack,West,Surat,13,119.7,104.39,15.31,0.2
+ORD-2024-10915,2024-05-25,CUST-340,Customer_340,Corporate,Electronics,Ergonomic Wireless Mouse,Central,Nagpur,5,2373.55,1387.65,985.9,0.0
+ORD-2026-10056,2024-05-26,CUST-228,Customer_228,Consumer,Electronics,Wireless Noise-Canceling Headphones,South,Hyderabad,2,2384.26,1690.3,693.96,0.0
+ORD-2025-10457,2024-05-26,CUST-426,Customer_426,Enterprise,Office Supplies,Whiteboard Marker Kit,East,Guwahati,10,526.32,421.1,105.22,0.1
+ORD-2026-11178,2024-05-26,CUST-358,Customer_358,Corporate,Electronics,Smartphone Pro Max,South,Bengaluru,7,4981.6,3671.01,1310.59,0.1
+ORD-2026-10116,2024-05-27,CUST-443,Customer_443,Enterprise,Office Supplies,Gel Pen Box (Set of 12),Central,Nagpur,2,61.78,47.3,14.48,0.2
+ORD-2026-10224,2024-05-28,CUST-237,Customer_237,Corporate,Furniture,Modern Bookshelf 5-Tier,South,Bengaluru,7,5631.89,3426.01,2205.88,0.05
+ORD-2025-10694,2024-05-28,CUST-234,Customer_234,Consumer,Clothing,Slim Fit Denim Jeans,West,Ahmedabad,1,107.7,72.14,35.56,0.05
+ORD-2024-10909,2024-05-29,CUST-325,Customer_325,Home Office,Electronics,Ergonomic Wireless Mouse,North,Delhi,12,5588.78,4166.76,1422.02,0.15
+ORD-2025-10271,2024-05-31,CUST-446,Customer_446,Enterprise,Furniture,Ergonomic Executive Chair,East,Guwahati,5,3853.1,2691.95,1161.15,0.0
+ORD-2025-10994,2024-05-31,CUST-169,Customer_169,Home Office,Furniture,Ergonomic Executive Chair,North,Chandigarh,10,5219.8,2970.4,2249.4,0.0
+ORD-2025-10502,2024-06-02,CUST-183,Customer_183,Home Office,Furniture,Standing Height-Adjustable Desk,South,Kochi,8,2083.12,1148.32,934.8,0.0
+ORD-2025-10808,2024-06-02,CUST-317,Customer_317,Enterprise,Electronics,Ergonomic Wireless Mouse,Central,Bhopal,11,5500.55,3606.68,1893.87,0.0
+ORD-2024-11041,2024-06-02,CUST-324,Customer_324,Corporate,Furniture,Nordic Dining Table,North,Lucknow,14,9448.74,6427.96,3020.78,0.0
+ORD-2026-10467,2024-06-03,CUST-138,Customer_138,Corporate,Electronics,Wireless Noise-Canceling Headphones,North,Chandigarh,10,1998.68,1547.1,451.58,0.25
+ORD-2025-10508,2024-06-03,CUST-387,Customer_387,Home Office,Clothing,Performance Thermal Jacket,West,Mumbai,8,1265.28,815.28,450.0,0.0
+ORD-2026-10689,2024-06-06,CUST-366,Customer_366,Consumer,Clothing,Slim Fit Denim Jeans,West,Pune,1,37.1,22.82,14.28,0.0
+ORD-2026-10254,2024-06-07,CUST-159,Customer_159,Enterprise,Clothing,Performance Thermal Jacket,West,Ahmedabad,8,674.48,404.8,269.68,0.0
+ORD-2025-10340,2024-06-07,CUST-412,Customer_412,Home Office,Electronics,Smartphone Pro Max,West,Ahmedabad,7,1946.57,1250.2,696.37,0.1
+ORD-2026-10557,2024-06-09,CUST-333,Customer_333,Corporate,Furniture,Standing Height-Adjustable Desk,West,Mumbai,10,2899.9,2153.4,746.5,0.0
+ORD-2025-10667,2024-06-09,CUST-210,Customer_210,Enterprise,Furniture,Leather Recliner Sofa,West,Pune,14,8109.78,4827.34,3282.44,0.0
+ORD-2024-10861,2024-06-09,CUST-175,Customer_175,Corporate,Clothing,Winter Knit Beanie,West,Mumbai,7,903.63,735.7,167.93,0.15
+ORD-2025-11189,2024-06-10,CUST-378,Customer_378,Enterprise,Electronics,Smartphone Pro Max,East,Kolkata,4,2713.68,1719.08,994.6,0.0
+ORD-2024-10570,2024-06-11,CUST-189,Customer_189,Corporate,Office Supplies,Heavy Duty Stapler,South,Hyderabad,14,845.18,617.4,227.78,0.0
+ORD-2026-10785,2024-06-11,CUST-431,Customer_431,Consumer,Office Supplies,Premium Notebook Pack,South,Chennai,15,164.04,123.3,40.74,0.2
+ORD-2025-10922,2024-06-11,CUST-108,Customer_108,Home Office,Electronics,Wireless Noise-Canceling Headphones,Central,Nagpur,13,12426.2,8701.94,3724.26,0.05
+ORD-2024-10996,2024-06-11,CUST-220,Customer_220,Corporate,Electronics,Smartphone Pro Max,East,Guwahati,12,6461.86,5057.52,1404.34,0.05
+ORD-2025-10418,2024-06-12,CUST-290,Customer_290,Enterprise,Clothing,Slim Fit Denim Jeans,West,Mumbai,10,1070.96,891.8,179.16,0.2
+ORD-2025-10166,2024-06-13,CUST-145,Customer_145,Corporate,Office Supplies,Premium Notebook Pack,West,Pune,15,874.8,635.1,239.7,0.2
+ORD-2026-11082,2024-06-13,CUST-411,Customer_411,Enterprise,Electronics,4K Ultra Monitor 32-inch,East,Bhubaneswar,1,306.35,182.47,123.88,0.0
+ORD-2024-10726,2024-06-16,CUST-323,Customer_323,Corporate,Clothing,Cotton Oxford Shirt,East,Patna,15,2182.1,1443.15,738.95,0.05
+ORD-2025-10007,2024-06-18,CUST-215,Customer_215,Enterprise,Furniture,Nordic Dining Table,East,Kolkata,14,6595.68,4837.84,1757.84,0.25
+ORD-2024-10033,2024-06-19,CUST-268,Customer_268,Enterprise,Electronics,Smartwatch Series X,South,Kochi,3,1638.9,1088.55,550.35,0.1
+ORD-2026-10143,2024-06-19,CUST-427,Customer_427,Home Office,Furniture,Ergonomic Executive Chair,Central,Indore,5,2924.7,2256.6,668.1,0.25
+ORD-2024-10204,2024-06-19,CUST-267,Customer_267,Home Office,Furniture,Modern Bookshelf 5-Tier,West,Pune,7,2996.77,2079.84,916.93,0.0
+ORD-2026-10320,2024-06-19,CUST-115,Customer_115,Home Office,Clothing,Performance Thermal Jacket,Central,Nagpur,3,503.43,355.68,147.75,0.0
+ORD-2025-10958,2024-06-19,CUST-269,Customer_269,Enterprise,Office Supplies,Whiteboard Marker Kit,South,Chennai,2,19.93,13.3,6.63,0.1
+ORD-2026-10047,2024-06-20,CUST-340,Customer_340,Consumer,Furniture,Standing Height-Adjustable Desk,North,Chandigarh,8,5242.94,3660.08,1582.86,0.05
+ORD-2024-10168,2024-06-20,CUST-170,Customer_170,Home Office,Office Supplies,Desktop Document Organizer,West,Pune,13,459.71,402.35,57.36,0.25
+ORD-2024-10768,2024-06-20,CUST-270,Customer_270,Corporate,Office Supplies,Desktop Document Organizer,West,Ahmedabad,15,839.1,582.3,256.8,0.0
+ORD-2026-11094,2024-06-21,CUST-399,Customer_399,Enterprise,Furniture,Modern Bookshelf 5-Tier,South,Kochi,11,2622.95,1506.23,1116.72,0.0
+ORD-2026-11187,2024-06-21,CUST-281,Customer_281,Home Office,Office Supplies,Premium Notebook Pack,North,Delhi,14,213.08,154.56,58.52,0.0
+ORD-2025-10088,2024-06-22,CUST-182,Customer_182,Enterprise,Electronics,Mechanical Gaming Keyboard,North,Delhi,9,1814.04,1311.12,502.92,0.0
+ORD-2026-10551,2024-06-22,CUST-282,Customer_282,Consumer,Clothing,Breathable Running Shoes,West,Mumbai,13,2035.65,1285.05,750.6,0.05
+ORD-2026-10044,2024-06-23,CUST-185,Customer_185,Enterprise,Furniture,Modern Bookshelf 5-Tier,Central,Indore,9,3441.35,2838.69,602.66,0.25
+ORD-2026-10095,2024-06-23,CUST-275,Customer_275,Consumer,Clothing,Breathable Running Shoes,West,Surat,5,157.7,91.75,65.95,0.0
+ORD-2026-10416,2024-06-23,CUST-146,Customer_146,Home Office,Clothing,Winter Knit Beanie,South,Hyderabad,5,574.15,365.1,209.05,0.0
+ORD-2025-10601,2024-06-29,CUST-172,Customer_172,Home Office,Electronics,Ergonomic Wireless Mouse,West,Ahmedabad,9,4907.79,3605.67,1302.12,0.1
+ORD-2024-10081,2024-07-01,CUST-425,Customer_425,Corporate,Clothing,Winter Knit Beanie,West,Surat,8,979.47,705.76,273.71,0.15
+ORD-2026-10200,2024-07-01,CUST-129,Customer_129,Corporate,Clothing,Breathable Running Shoes,North,Jaipur,7,855.92,620.34,235.58,0.05
+ORD-2026-10905,2024-07-02,CUST-313,Customer_313,Home Office,Office Supplies,Whiteboard Marker Kit,East,Bhubaneswar,14,169.68,111.3,58.38,0.0
+ORD-2024-10981,2024-07-02,CUST-317,Customer_317,Home Office,Clothing,Winter Knit Beanie,East,Guwahati,11,1325.9,939.73,386.17,0.05
+ORD-2024-11077,2024-07-02,CUST-308,Customer_308,Enterprise,Electronics,Wireless Noise-Canceling Headphones,Central,Nagpur,5,3162.24,2867.45,294.79,0.2
+ORD-2026-10167,2024-07-04,CUST-165,Customer_165,Consumer,Office Supplies,Whiteboard Marker Kit,North,Lucknow,14,258.35,218.82,39.53,0.15
+ORD-2025-10481,2024-07-04,CUST-175,Customer_175,Enterprise,Office Supplies,Premium Notebook Pack,North,Chandigarh,5,361.95,246.95,115.0,0.0
+ORD-2024-10075,2024-07-05,CUST-320,Customer_320,Enterprise,Furniture,Standing Height-Adjustable Desk,South,Chennai,9,6120.38,5211.63,908.75,0.15
+ORD-2026-10275,2024-07-05,CUST-418,Customer_418,Consumer,Office Supplies,Premium Notebook Pack,Central,Raipur,12,654.16,536.88,117.28,0.1
+ORD-2025-11180,2024-07-05,CUST-204,Customer_204,Enterprise,Electronics,Smartphone Pro Max,East,Guwahati,3,1671.15,1182.81,488.34,0.0
+ORD-2025-10091,2024-07-06,CUST-136,Customer_136,Consumer,Office Supplies,Whiteboard Marker Kit,South,Kochi,12,718.2,592.08,126.12,0.1
+ORD-2026-10644,2024-07-07,CUST-171,Customer_171,Enterprise,Office Supplies,Whiteboard Marker Kit,East,Guwahati,3,91.09,78.24,12.85,0.15
+ORD-2025-10289,2024-07-09,CUST-273,Customer_273,Consumer,Electronics,Smartwatch Series X,West,Pune,15,5532.15,3918.15,1614.0,0.0
+ORD-2024-10501,2024-07-09,CUST-315,Customer_315,Home Office,Office Supplies,Gel Pen Box (Set of 12),South,Kochi,15,613.15,429.45,183.7,0.15
+ORD-2024-10519,2024-07-09,CUST-277,Customer_277,Enterprise,Electronics,Mechanical Gaming Keyboard,East,Bhubaneswar,3,2751.84,1964.82,787.02,0.0
+ORD-2025-10196,2024-07-10,CUST-210,Customer_210,Corporate,Clothing,Cotton Oxford Shirt,South,Bengaluru,14,1378.72,1098.58,280.14,0.2
+ORD-2026-10623,2024-07-10,CUST-258,Customer_258,Enterprise,Office Supplies,Gel Pen Box (Set of 12),North,Jaipur,10,462.4,342.9,119.5,0.2
+ORD-2024-10777,2024-07-10,CUST-120,Customer_120,Corporate,Furniture,Standing Height-Adjustable Desk,West,Pune,7,5646.76,4029.55,1617.21,0.0
+ORD-2026-10917,2024-07-10,CUST-217,Customer_217,Enterprise,Furniture,Nordic Dining Table,East,Bhubaneswar,3,525.51,297.12,228.39,0.0
+ORD-2024-10636,2024-07-12,CUST-274,Customer_274,Enterprise,Electronics,Mechanical Gaming Keyboard,North,Lucknow,5,1705.55,1206.7,498.85,0.0
+ORD-2026-11040,2024-07-12,CUST-211,Customer_211,Enterprise,Furniture,Nordic Dining Table,North,Lucknow,1,421.06,375.55,45.51,0.25
+ORD-2024-11002,2024-07-13,CUST-442,Customer_442,Consumer,Electronics,Ergonomic Wireless Mouse,South,Hyderabad,12,4730.76,2992.56,1738.2,0.0
+ORD-2025-11030,2024-07-13,CUST-330,Customer_330,Home Office,Electronics,Smartphone Pro Max,Central,Indore,10,5784.3,4114.5,1669.8,0.0
+ORD-2024-11044,2024-07-13,CUST-361,Customer_361,Home Office,Office Supplies,Desktop Document Organizer,North,Jaipur,4,158.36,107.96,50.4,0.0
+ORD-2024-10216,2024-07-14,CUST-320,Customer_320,Enterprise,Clothing,Slim Fit Denim Jeans,Central,Nagpur,9,554.72,428.67,126.05,0.25
+ORD-2026-11100,2024-07-16,CUST-266,Customer_266,Consumer,Furniture,Modern Bookshelf 5-Tier,East,Guwahati,15,3057.15,1858.2,1198.95,0.0
+ORD-2024-10771,2024-07-18,CUST-391,Customer_391,Corporate,Electronics,4K Ultra Monitor 32-inch,South,Bengaluru,9,7915.54,7025.76,889.78,0.2
+ORD-2025-10127,2024-07-20,CUST-152,Customer_152,Enterprise,Office Supplies,Heavy Duty Stapler,South,Chennai,11,771.21,460.57,310.64,0.0
+ORD-2024-10237,2024-07-20,CUST-273,Customer_273,Corporate,Clothing,Winter Knit Beanie,Central,Indore,11,704.97,567.82,137.15,0.2
+ORD-2026-11109,2024-07-20,CUST-291,Customer_291,Corporate,Office Supplies,Heavy Duty Stapler,Central,Bhopal,15,467.37,289.2,178.17,0.1
+ORD-2025-10283,2024-07-22,CUST-323,Customer_323,Enterprise,Furniture,Standing Height-Adjustable Desk,South,Hyderabad,5,3152.1,2743.9,408.2,0.15
+ORD-2025-10547,2024-07-22,CUST-282,Customer_282,Corporate,Clothing,Winter Knit Beanie,South,Hyderabad,14,1077.3,844.06,233.24,0.25
+ORD-2024-10885,2024-07-23,CUST-240,Customer_240,Corporate,Office Supplies,Desktop Document Organizer,East,Patna,4,220.29,171.88,48.41,0.15
+ORD-2024-10633,2024-07-24,CUST-378,Customer_378,Corporate,Electronics,Wireless Noise-Canceling Headphones,Central,Indore,10,5571.15,4286.5,1284.65,0.25
+ORD-2026-10878,2024-07-24,CUST-172,Customer_172,Home Office,Electronics,Smartphone Pro Max,East,Guwahati,10,8084.92,7785.5,299.42,0.25
+ORD-2024-11032,2024-07-24,CUST-268,Customer_268,Home Office,Electronics,Smartwatch Series X,North,Chandigarh,13,8728.33,5122.39,3605.94,0.0
+ORD-2025-10871,2024-07-25,CUST-307,Customer_307,Corporate,Office Supplies,Desktop Document Organizer,West,Ahmedabad,5,365.35,228.95,136.4,0.0
+ORD-2026-10563,2024-07-26,CUST-298,Customer_298,Enterprise,Clothing,Slim Fit Denim Jeans,East,Kolkata,15,2645.7,1749.3,896.4,0.0
+ORD-2026-10710,2024-07-26,CUST-332,Customer_332,Corporate,Clothing,Breathable Running Shoes,South,Chennai,13,1263.86,860.34,403.52,0.0
+ORD-2026-10773,2024-07-27,CUST-188,Customer_188,Corporate,Electronics,Mechanical Gaming Keyboard,East,Guwahati,4,389.68,287.28,102.4,0.0
+ORD-2025-11126,2024-07-28,CUST-406,Customer_406,Consumer,Furniture,Nordic Dining Table,South,Hyderabad,9,1674.27,1119.78,554.49,0.0
+ORD-2026-11160,2024-07-28,CUST-270,Customer_270,Consumer,Electronics,Smartwatch Series X,South,Chennai,9,2086.84,1816.92,269.92,0.15
+ORD-2025-11165,2024-07-28,CUST-340,Customer_340,Home Office,Electronics,4K Ultra Monitor 32-inch,North,Lucknow,5,614.5,341.3,273.2,0.0
+ORD-2024-10066,2024-07-31,CUST-204,Customer_204,Enterprise,Furniture,Standing Height-Adjustable Desk,South,Chennai,13,3306.82,2475.59,831.23,0.15
+ORD-2025-10238,2024-07-31,CUST-437,Customer_437,Home Office,Clothing,Performance Thermal Jacket,South,Bengaluru,6,770.88,489.12,281.76,0.0
+ORD-2025-10757,2024-08-01,CUST-226,Customer_226,Consumer,Furniture,Standing Height-Adjustable Desk,North,Chandigarh,12,4805.1,3345.12,1459.98,0.05
+ORD-2025-10880,2024-08-01,CUST-177,Customer_177,Corporate,Electronics,Wireless Noise-Canceling Headphones,West,Surat,1,112.61,84.45,28.16,0.0
+ORD-2024-10708,2024-08-02,CUST-149,Customer_149,Home Office,Furniture,Leather Recliner Sofa,East,Kolkata,13,6902.74,4649.84,2252.9,0.0
+ORD-2026-11022,2024-08-02,CUST-378,Customer_378,Enterprise,Electronics,4K Ultra Monitor 32-inch,North,Lucknow,11,11175.59,8303.35,2872.24,0.15
+ORD-2026-10530,2024-08-03,CUST-159,Customer_159,Corporate,Furniture,Ergonomic Executive Chair,West,Mumbai,2,727.74,451.1,276.64,0.0
+ORD-2025-11018,2024-08-04,CUST-409,Customer_409,Consumer,Clothing,Winter Knit Beanie,Central,Nagpur,3,438.1,328.08,110.02,0.05
+ORD-2025-11072,2024-08-04,CUST-126,Customer_126,Consumer,Clothing,Performance Thermal Jacket,West,Pune,9,1122.57,685.89,436.68,0.0
+ORD-2024-10090,2024-08-07,CUST-133,Customer_133,Corporate,Electronics,Smartwatch Series X,Central,Bhopal,6,2048.7,1158.78,889.92,0.0
+ORD-2025-10361,2024-08-09,CUST-437,Customer_437,Enterprise,Clothing,Winter Knit Beanie,South,Kochi,10,537.0,330.0,207.0,0.0
+ORD-2024-10516,2024-08-11,CUST-183,Customer_183,Corporate,Electronics,Wireless Noise-Canceling Headphones,South,Chennai,2,424.0,277.44,146.56,0.05
+ORD-2024-10798,2024-08-11,CUST-230,Customer_230,Enterprise,Electronics,Ergonomic Wireless Mouse,West,Pune,7,5150.04,4162.62,987.42,0.25
+ORD-2025-10898,2024-08-11,CUST-442,Customer_442,Consumer,Office Supplies,Whiteboard Marker Kit,South,Kochi,10,109.7,62.0,47.7,0.0
+ORD-2024-10540,2024-08-12,CUST-148,Customer_148,Home Office,Clothing,Breathable Running Shoes,East,Bhubaneswar,2,150.96,92.36,58.6,
+ORD-2024-10795,2024-08-12,CUST-175,Customer_175,Corporate,Electronics,4K Ultra Monitor 32-inch,Central,Indore,1,633.06,444.56,188.5,0.0
+ORD-2024-11131,2024-08-15,CUST-363,Customer_363,Enterprise,Furniture,Leather Recliner Sofa,East,Bhubaneswar,7,4794.8,3058.23,1736.57,0.1
+ORD-2025-10466,2024-08-16,CUST-284,Customer_284,Consumer,Office Supplies,Whiteboard Marker Kit,North,Chandigarh,10,554.8,462.4,92.4,0.2
+ORD-2025-10145,2024-08-17,CUST-443,Customer_443,Enterprise,Furniture,Modern Bookshelf 5-Tier,Central,Indore,13,4621.5,3263.13,1358.37,0.0
+ORD-2026-10350,2024-08-17,CUST-432,Customer_432,Home Office,Furniture,Ergonomic Executive Chair,West,Ahmedabad,3,1624.17,901.29,722.88,0.0
+ORD-2024-11020,2024-08-17,CUST-393,Customer_393,Enterprise,Office Supplies,Heavy Duty Stapler,Central,Nagpur,6,414.48,286.62,127.86,0.0
+ORD-2025-10715,2024-08-18,CUST-233,Customer_233,Home Office,Electronics,Mechanical Gaming Keyboard,East,Kolkata,13,1381.8,1066.26,315.54,0.15
+ORD-2024-10045,2024-08-19,CUST-429,Customer_429,Corporate,Office Supplies,Heavy Duty Stapler,South,Hyderabad,15,164.6,137.4,27.2,0.15
+ORD-2025-10193,2024-08-19,CUST-219,Customer_219,Home Office,Furniture,Leather Recliner Sofa,Central,Raipur,14,2147.88,1485.4,662.48,0.0
+ORD-2024-10864,2024-08-19,CUST-302,Customer_302,Consumer,Clothing,Breathable Running Shoes,North,Chandigarh,13,697.55,506.09,191.46,0.1
+ORD-2025-10055,2024-08-20,CUST-367,Customer_367,Home Office,Electronics,Mechanical Gaming Keyboard,North,Delhi,10,8229.92,7050.7,1179.22,0.2
+ORD-2026-10284,2024-08-20,CUST-303,Customer_303,Corporate,Office Supplies,Desktop Document Organizer,Central,Nagpur,11,442.02,329.78,112.24,0.2
+ORD-2024-10345,2024-08-21,CUST-230,Customer_230,Home Office,Furniture,Nordic Dining Table,East,Patna,9,3132.58,2553.3,579.28,0.2
+ORD-2025-10304,2024-08-22,CUST-441,Customer_441,Corporate,Clothing,Winter Knit Beanie,South,Kochi,13,803.99,676.52,127.47,0.25
+ORD-2026-10815,2024-08-22,CUST-143,Customer_143,Home Office,Office Supplies,Premium Notebook Pack,East,Kolkata,11,454.3,320.65,133.65,0.0
+ORD-2024-10849,2024-08-23,CUST-257,Customer_257,Corporate,Electronics,Ergonomic Wireless Mouse,South,Chennai,1,819.56,570.29,249.27,0.2
+ORD-2026-10125,2024-08-24,CUST-287,Customer_287,Corporate,Office Supplies,Gel Pen Box (Set of 12),North,Jaipur,13,135.85,97.63,38.22,0.0
+ORD-2026-11055,2024-08-24,CUST-274,Customer_274,Home Office,Furniture,Standing Height-Adjustable Desk,South,Kochi,2,633.96,396.66,237.3,0.1
+ORD-2025-10067,2024-08-25,CUST-336,Customer_336,Enterprise,Office Supplies,Heavy Duty Stapler,South,Hyderabad,15,816.75,451.65,365.1,0.0
+ORD-2025-10385,2024-08-26,CUST-311,Customer_311,Corporate,Electronics,Ergonomic Wireless Mouse,West,Ahmedabad,11,3812.82,3792.69,20.13,0.25
+ORD-2026-10833,2024-08-27,CUST-168,Customer_168,Consumer,Clothing,Breathable Running Shoes,South,Kochi,11,820.74,620.18,200.56,0.15
+ORD-2026-10089,2024-08-28,CUST-154,Customer_154,Consumer,Furniture,Modern Bookshelf 5-Tier,West,Surat,6,3407.35,2401.5,1005.85,0.05
+ORD-2026-10227,2024-08-28,CUST-148,Customer_148,Home Office,Furniture,Ergonomic Executive Chair,South,Kochi,3,1735.72,1175.19,560.53,0.1
+ORD-2024-10486,2024-08-28,CUST-114,Customer_114,Home Office,Office Supplies,Gel Pen Box (Set of 12),South,Hyderabad,1,29.04,17.15,11.89,0.0
+ORD-2024-10603,2024-08-28,CUST-271,Customer_271,Home Office,Electronics,Smartwatch Series X,East,Bhubaneswar,14,3821.71,2707.32,1114.39,0.1
+ORD-2026-11169,2024-08-30,CUST-206,Customer_206,Corporate,Furniture,Ergonomic Executive Chair,West,Mumbai,3,2422.65,1567.35,855.3,0.0
+ORD-2025-10232,2024-08-31,CUST-239,Customer_239,Consumer,Furniture,Leather Recliner Sofa,North,Chandigarh,9,1744.56,1274.49,470.07,0.0
+ORD-2026-10308,2024-08-31,CUST-200,Customer_200,Corporate,Electronics,Mechanical Gaming Keyboard,Central,Indore,7,1761.2,1002.47,758.73,0.0
+ORD-2025-10331,2024-08-31,CUST-287,Customer_287,Consumer,Electronics,Ergonomic Wireless Mouse,West,Surat,3,1439.55,1114.14,325.41,0.15
+ORD-2026-10392,2024-08-31,CUST-255,Customer_255,Consumer,Office Supplies,Premium Notebook Pack,North,Chandigarh,12,117.81,111.12,6.69,0.25
+ORD-2025-10445,2024-08-31,CUST-170,Customer_170,Home Office,Furniture,Leather Recliner Sofa,Central,Nagpur,13,4891.51,3352.31,1539.2,0.0
+ORD-2024-10822,2024-09-01,CUST-266,Customer_266,Home Office,Clothing,Slim Fit Denim Jeans,East,Patna,3,137.16,80.25,56.91,0.0
+ORD-2026-10338,2024-09-02,CUST-168,Customer_168,Home Office,Electronics,Ergonomic Wireless Mouse,South,Kochi,2,659.28,397.18,262.1,0.0
+ORD-2024-10819,2024-09-02,CUST-274,Customer_274,Home Office,Office Supplies,Premium Notebook Pack,South,Kochi,13,386.98,376.74,10.24,0.25
+ORD-2025-11033,2024-09-02,CUST-341,Customer_341,Home Office,Electronics,Wireless Noise-Canceling Headphones,Central,Nagpur,3,3124.82,1961.91,1162.91,0.1
+ORD-2024-10270,2024-09-03,CUST-171,Customer_171,Consumer,Office Supplies,Gel Pen Box (Set of 12),West,Surat,10,553.6,375.5,178.1,0.15
+ORD-2024-10321,2024-09-03,CUST-418,Customer_418,Enterprise,Electronics,Smartwatch Series X,North,Chandigarh,11,9947.78,8309.95,1637.83,0.2
+ORD-2024-10381,2024-09-03,CUST-131,Customer_131,Consumer,Electronics,Mechanical Gaming Keyboard,West,Ahmedabad,13,11425.57,7861.36,3564.21,0.0
+ORD-2024-10645,2024-09-03,CUST-430,Customer_430,Home Office,Office Supplies,Premium Notebook Pack,Central,Indore,2,23.06,15.66,7.4,0.0
+ORD-2026-10602,2024-09-04,CUST-226,Customer_226,Corporate,Office Supplies,Desktop Document Organizer,East,Kolkata,6,167.38,138.84,28.54,0.2
+ORD-2026-10839,2024-09-04,CUST-193,Customer_193,Consumer,Office Supplies,Heavy Duty Stapler,Central,Indore,9,253.08,187.02,66.06,0.0
+ORD-2025-10940,2024-09-04,CUST-137,Customer_137,Enterprise,Office Supplies,Premium Notebook Pack,South,Hyderabad,12,626.16,364.68,-145.87,0.0
+ORD-2025-10139,2024-09-07,CUST-271,Customer_271,Home Office,Office Supplies,Whiteboard Marker Kit,East,Bhubaneswar,1,50.67,38.33,12.34,0.15
+ORD-2026-10791,2024-09-08,CUST-350,Customer_350,Consumer,Clothing,Slim Fit Denim Jeans,East,Guwahati,2,264.93,226.46,38.47,0.2
+ORD-2024-10858,2024-09-09,CUST-429,Customer_429,Enterprise,Clothing,Cotton Oxford Shirt,Central,Bhopal,14,681.8,440.02,241.78,0.0
+ORD-2026-10035,2024-09-10,CUST-405,Customer_405,Corporate,Furniture,Ergonomic Executive Chair,North,Delhi,11,7965.43,4801.72,3163.71,0.0
+ORD-2026-11058,2024-09-10,CUST-400,Customer_400,Consumer,Office Supplies,Premium Notebook Pack,West,Pune,7,342.28,224.98,117.3,0.05
+ORD-2024-10165,2024-09-11,CUST-429,Customer_429,Enterprise,Furniture,Leather Recliner Sofa,West,Pune,8,3160.0,1823.76,1336.24,0.0
+ORD-2025-11123,2024-09-11,CUST-293,Customer_293,Consumer,Furniture,Standing Height-Adjustable Desk,South,Bengaluru,5,857.9,609.0,248.9,0.0
+ORD-2025-10202,2024-09-12,CUST-389,Customer_389,Enterprise,Electronics,Wireless Noise-Canceling Headphones,East,Patna,3,1132.8,807.84,324.96,0.0
+ORD-2025-10919,2024-09-13,CUST-257,Customer_257,Enterprise,Clothing,Cotton Oxford Shirt,North,Jaipur,15,677.47,525.0,152.47,0.25
+ORD-2025-11009,2024-09-14,CUST-271,Customer_271,Corporate,Furniture,Ergonomic Executive Chair,Central,Raipur,4,1912.04,1125.72,786.32,0.0
+ORD-2025-10343,2024-09-16,CUST-241,Customer_241,Corporate,Office Supplies,Desktop Document Organizer,West,Surat,5,360.15,251.2,108.95,0.0
+ORD-2024-11152,2024-09-17,CUST-252,Customer_252,Home Office,Office Supplies,Premium Notebook Pack,Central,Indore,8,256.27,191.6,64.67,0.05
+ORD-2024-11119,2024-09-18,CUST-224,Customer_224,Enterprise,Office Supplies,Heavy Duty Stapler,West,Ahmedabad,7,156.03,132.3,23.73,0.25
+ORD-2024-10459,2024-09-21,CUST-236,Customer_236,Corporate,Clothing,Cotton Oxford Shirt,East,Bhubaneswar,6,301.14,195.72,105.42,0.0
+ORD-2025-10892,2024-09-22,CUST-404,Customer_404,Consumer,Office Supplies,Whiteboard Marker Kit,East,Kolkata,6,370.76,286.5,84.26,0.1
+ORD-2025-10952,2024-09-22,CUST-288,Customer_288,Consumer,Clothing,Cotton Oxford Shirt,East,Guwahati,12,1740.72,1272.48,468.24,0.0
+ORD-2024-10747,2024-09-23,CUST-392,Customer_392,Consumer,Office Supplies,Premium Notebook Pack,South,Hyderabad,10,454.7,331.9,122.8,0.0
+ORD-2026-10665,2024-09-24,CUST-335,Customer_335,Corporate,Clothing,Performance Thermal Jacket,North,Lucknow,4,142.4,92.92,49.48,0.0
+ORD-2025-10163,2024-09-25,CUST-273,Customer_273,Home Office,Office Supplies,Gel Pen Box (Set of 12),Central,Nagpur,14,986.02,656.18,329.84,0.0
+ORD-2025-10010,2024-09-26,CUST-265,Customer_265,Corporate,Electronics,4K Ultra Monitor 32-inch,East,Guwahati,6,2561.11,1568.28,992.83,0.1
+ORD-2026-10404,2024-09-26,CUST-357,Customer_357,Enterprise,Office Supplies,Desktop Document Organizer,Central,Indore,12,351.45,280.8,70.65,0.25
+ORD-2024-10414,2024-09-26,CUST-387,Customer_387,Corporate,Electronics,Wireless Noise-Canceling Headphones,North,Jaipur,7,7007.28,4791.01,2216.27,0.0
+ORD-2024-10111,2024-09-27,CUST-316,Customer_316,Corporate,Furniture,Standing Height-Adjustable Desk,North,Jaipur,1,303.15,193.37,109.78,0.1
+ORD-2026-10989,2024-09-27,CUST-195,Customer_195,Home Office,Office Supplies,Gel Pen Box (Set of 12),Central,Indore,15,632.81,598.2,34.61,0.25
+ORD-2025-11063,2024-09-27,CUST-208,Customer_208,Corporate,Electronics,Smartphone Pro Max,West,Pune,7,1989.68,1853.11,136.57,0.2
+ORD-2024-10198,2024-09-29,CUST-145,Customer_145,Consumer,Electronics,Mechanical Gaming Keyboard,Central,Raipur,4,3985.17,2584.44,1400.73,0.05
+ORD-2025-10901,2024-09-29,CUST-120,Customer_120,Home Office,Clothing,Breathable Running Shoes,West,Ahmedabad,10,369.4,215.3,154.1,0.0
+ORD-2024-10567,2024-09-30,CUST-426,Customer_426,Home Office,Electronics,4K Ultra Monitor 32-inch,North,Chandigarh,10,2256.2,1429.6,826.6,0.0
+ORD-2024-10336,2024-10-03,CUST-399,Customer_399,Corporate,Furniture,Modern Bookshelf 5-Tier,North,Lucknow,10,5637.52,4685.6,951.92,0.2
+ORD-2025-10109,2024-10-04,CUST-147,Customer_147,Consumer,Office Supplies,Whiteboard Marker Kit,East,Guwahati,6,187.86,114.3,73.56,0.0
+ORD-2024-10342,2024-10-05,CUST-448,Customer_448,Enterprise,Office Supplies,Whiteboard Marker Kit,South,Kochi,14,141.26,103.74,37.52,0.0
+ORD-2025-10367,2024-10-05,CUST-150,Customer_150,Corporate,Office Supplies,Whiteboard Marker Kit,South,Bengaluru,4,164.76,121.08,43.68,0.25
+ORD-2024-10684,2024-10-06,CUST-196,Customer_196,Corporate,Clothing,Performance Thermal Jacket,Central,Bhopal,14,742.45,634.34,108.11,0.2
+ORD-2024-10240,2024-10-07,CUST-282,Customer_282,Corporate,Furniture,Ergonomic Executive Chair,East,Patna,12,2820.06,2407.08,412.98,0.25
+ORD-2024-10372,2024-10-07,CUST-311,Customer_311,Home Office,Furniture,Ergonomic Executive Chair,West,Ahmedabad,6,2965.62,2202.66,762.96,0.0
+ORD-2024-10789,2024-10-07,CUST-234,Customer_234,Enterprise,Clothing,Cotton Oxford Shirt,North,Jaipur,8,714.24,545.04,169.2,0.1
+ORD-2026-10335,2024-10-08,CUST-279,Customer_279,Enterprise,Electronics,Mechanical Gaming Keyboard,Central,Raipur,12,8792.04,5170.8,3621.24,0.0
+ORD-2024-10783,2024-10-08,CUST-380,Customer_380,Enterprise,Furniture,Leather Recliner Sofa,South,Bengaluru,1,252.07,149.73,102.34,0.0
+ORD-2025-11153,2024-10-08,CUST-170,Customer_170,Consumer,Office Supplies,Premium Notebook Pack,Central,Raipur,3,36.48,24.87,11.61,0.1
+ORD-2026-10608,2024-10-11,CUST-182,Customer_182,Consumer,Furniture,Standing Height-Adjustable Desk,East,Bhubaneswar,5,1028.02,868.25,159.77,0.25
+ORD-2025-11147,2024-10-12,CUST-408,Customer_408,Home Office,Furniture,Modern Bookshelf 5-Tier,East,Kolkata,12,2903.85,2271.96,631.89,0.25
+ORD-2024-10678,2024-10-13,CUST-269,Customer_269,Consumer,Furniture,Ergonomic Executive Chair,Central,Nagpur,6,3863.76,2637.48,1226.28,0.0
+ORD-2024-11155,2024-10-13,CUST-288,Customer_288,Consumer,Electronics,4K Ultra Monitor 32-inch,North,Jaipur,9,8217.27,5065.47,3151.8,0.0
+ORD-2025-10619,2024-10-14,CUST-117,Customer_117,Consumer,Office Supplies,Heavy Duty Stapler,East,Guwahati,14,311.35,238.7,72.65,0.1
+ORD-2025-10394,2024-10-19,CUST-444,Customer_444,Corporate,Clothing,Cotton Oxford Shirt,North,Delhi,2,354.92,262.08,92.84,0.0
+ORD-2026-10560,2024-10-20,CUST-431,Customer_431,Corporate,Office Supplies,Heavy Duty Stapler,West,Mumbai,15,150.9,98.25,52.65,0.0
+ORD-2024-10792,2024-10-20,CUST-152,Customer_152,Home Office,Office Supplies,Whiteboard Marker Kit,South,Chennai,8,161.09,139.84,21.25,0.2
+ORD-2025-11093,2024-10-22,CUST-423,Customer_423,Corporate,Furniture,Nordic Dining Table,East,Guwahati,11,5902.18,4407.59,1494.59,0.1
+ORD-2026-10251,2024-10-23,CUST-367,Customer_367,Consumer,Electronics,Ergonomic Wireless Mouse,East,Kolkata,3,2610.66,1941.96,668.7,0.0
+ORD-2025-11054,2024-10-25,CUST-164,Customer_164,Enterprise,Office Supplies,Desktop Document Organizer,North,Jaipur,10,595.2,405.5,189.7,0.0
+ORD-2024-10138,2024-10-30,CUST-317,Customer_317,Enterprise,Furniture,Nordic Dining Table,East,Bhubaneswar,2,770.83,448.24,322.59,0.05
+ORD-2026-10050,2024-10-31,CUST-327,Customer_327,Enterprise,Office Supplies,Gel Pen Box (Set of 12),West,Ahmedabad,4,92.49,68.28,24.21,0.05
+ORD-2026-10086,2024-10-31,CUST-225,Customer_225,Home Office,Clothing,Performance Thermal Jacket,West,Ahmedabad,1,133.34,84.01,49.33,0.0
+ORD-2024-10906,2024-10-31,CUST-329,Customer_329,Enterprise,Electronics,Wireless Noise-Canceling Headphones,South,Kochi,11,4876.59,3966.49,910.1,0.15
+ORD-2026-10950,2024-10-31,CUST-273,Customer_273,Consumer,Office Supplies,Desktop Document Organizer,South,Hyderabad,8,453.02,349.44,103.58,0.15
+ORD-2024-10195,2024-11-02,CUST-319,Customer_319,Corporate,Office Supplies,Desktop Document Organizer,South,Bengaluru,3,206.19,117.99,88.2,0.0
+ORD-2025-10424,2024-11-02,CUST-343,Customer_343,Consumer,Office Supplies,Whiteboard Marker Kit,West,Mumbai,9,273.69,198.09,75.6,0.0
+ORD-2025-10070,2024-11-03,CUST-221,Customer_221,Home Office,Clothing,Winter Knit Beanie,South,Hyderabad,8,1037.34,1016.48,20.86,0.25
+ORD-2024-10615,2024-11-03,CUST-351,Customer_351,Consumer,Office Supplies,Heavy Duty Stapler,West,Mumbai,3,133.85,108.75,25.1,0.15
+ORD-2024-10171,2024-11-04,CUST-106,Customer_106,Enterprise,Electronics,4K Ultra Monitor 32-inch,South,Kochi,2,1223.55,1050.34,173.21,0.2
+ORD-2026-10233,2024-11-04,CUST-366,Customer_366,Enterprise,Clothing,Slim Fit Denim Jeans,North,Delhi,4,109.47,106.56,2.91,0.25
+ORD-2025-10382,2024-11-04,CUST-416,Customer_416,Corporate,Office Supplies,Whiteboard Marker Kit,South,Hyderabad,7,520.24,379.82,140.42,0.0
+ORD-2025-11177,2024-11-04,CUST-254,Customer_254,Corporate,Electronics,Ergonomic Wireless Mouse,Central,Raipur,6,1649.59,1021.98,627.61,0.1
+ORD-2026-10158,2024-11-05,CUST-299,Customer_299,Home Office,Clothing,Slim Fit Denim Jeans,West,Surat,15,2320.2,1638.45,681.75,0.0
+ORD-2024-10417,2024-11-05,CUST-347,Customer_347,Corporate,Furniture,Modern Bookshelf 5-Tier,East,Bhubaneswar,11,8294.77,6009.63,2285.14,0.0
+ORD-2024-10711,2024-11-05,CUST-167,Customer_167,Home Office,Clothing,Cotton Oxford Shirt,East,Guwahati,14,1466.53,1356.6,109.93,0.25
+ORD-2026-11088,2024-11-07,CUST-174,Customer_174,Corporate,Electronics,4K Ultra Monitor 32-inch,Central,Nagpur,11,5573.92,4872.45,701.47,0.2
+ORD-2024-10681,2024-11-08,CUST-386,Customer_386,Enterprise,Clothing,Performance Thermal Jacket,North,Chandigarh,3,180.74,166.17,14.57,0.2
+ORD-2024-10024,2024-11-09,CUST-111,Customer_111,Consumer,Office Supplies,Heavy Duty Stapler,South,Chennai,6,296.34,166.26,130.08,0.0
+ORD-2024-10840,2024-11-09,CUST-160,Customer_160,Home Office,Office Supplies,Gel Pen Box (Set of 12),North,Jaipur,5,75.82,72.5,3.32,0.25
+ORD-2026-10620,2024-11-10,CUST-305,Customer_305,Consumer,Furniture,Modern Bookshelf 5-Tier,South,Chennai,14,2814.56,1877.26,937.3,0.0
+ORD-2024-10258,2024-11-13,CUST-321,Customer_321,Enterprise,Furniture,Ergonomic Executive Chair,West,Ahmedabad,15,10422.45,7150.5,3271.95,0.0
+ORD-2024-10618,2024-11-13,CUST-311,Customer_311,Corporate,Clothing,Breathable Running Shoes,Central,Raipur,1,44.48,30.74,13.74,0.0
+ORD-2024-10573,2024-11-16,CUST-414,Customer_414,Enterprise,Furniture,Modern Bookshelf 5-Tier,East,Guwahati,2,860.02,473.7,386.32,0.0
+ORD-2025-10160,2024-11-17,CUST-344,Customer_344,Enterprise,Office Supplies,Desktop Document Organizer,East,Patna,14,306.18,221.06,85.12,0.0
+ORD-2026-10497,2024-11-17,CUST-219,Customer_219,Consumer,Electronics,Mechanical Gaming Keyboard,West,Pune,5,1009.22,667.3,341.92,0.1
+ORD-2026-10683,2024-11-17,CUST-172,Customer_172,Enterprise,Office Supplies,Whiteboard Marker Kit,South,Chennai,13,524.29,306.8,217.49,0.0
+ORD-2024-10705,2024-11-17,CUST-446,Customer_446,Home Office,Electronics,Mechanical Gaming Keyboard,East,Bhubaneswar,5,1879.0,1243.25,635.75,0.0
+ORD-2026-10929,2024-11-18,CUST-103,Customer_103,Corporate,Electronics,Mechanical Gaming Keyboard,Central,Bhopal,5,1429.88,1119.3,310.58,0.2
+ORD-2025-11012,2024-11-18,CUST-123,Customer_123,Consumer,Clothing,Breathable Running Shoes,North,Jaipur,11,703.12,410.96,292.16,0.0
+ORD-2025-10949,2024-11-19,CUST-399,Customer_399,Corporate,Office Supplies,Premium Notebook Pack,West,Pune,11,98.3,68.31,29.99,0.2
+ORD-2024-10174,2024-11-20,CUST-344,Customer_344,Enterprise,Office Supplies,Premium Notebook Pack,Central,Bhopal,9,410.22,266.04,144.18,0.0
+ORD-2026-10926,2024-11-22,CUST-379,Customer_379,Home Office,Electronics,Smartphone Pro Max,South,Hyderabad,5,2508.85,1809.8,699.05,0.0
+ORD-2026-11139,2024-11-22,CUST-427,Customer_427,Home Office,Electronics,Wireless Noise-Canceling Headphones,North,Lucknow,12,7078.95,6304.8,774.15,0.25
+ORD-2026-10185,2024-11-23,CUST-111,Customer_111,Enterprise,Furniture,Ergonomic Executive Chair,Central,Bhopal,8,5155.49,3368.56,1786.93,0.15
+ORD-2025-10352,2024-11-24,CUST-429,Customer_429,Corporate,Clothing,Breathable Running Shoes,West,Surat,1,28.6,17.82,10.78,0.05
+ORD-2026-10494,2024-11-25,CUST-195,Customer_195,Consumer,Electronics,Mechanical Gaming Keyboard,West,Ahmedabad,3,2875.35,2143.44,731.91,0.0
+ORD-2024-10897,2024-11-25,CUST-401,Customer_401,Home Office,Office Supplies,Desktop Document Organizer,North,Delhi,8,274.24,162.0,112.24,0.0
+ORD-2024-10051,2024-11-26,CUST-217,Customer_217,Consumer,Office Supplies,Whiteboard Marker Kit,Central,Indore,11,568.37,409.09,159.28,0.0
+ORD-2025-10256,2024-11-26,CUST-124,Customer_124,Consumer,Clothing,Performance Thermal Jacket,North,Lucknow,11,372.33,268.62,103.71,0.05
+ORD-2025-10430,2024-11-26,CUST-105,Customer_105,Home Office,Furniture,Leather Recliner Sofa,West,Surat,1,810.86,558.16,252.7,0.0
+ORD-2024-10522,2024-11-26,CUST-271,Customer_271,Home Office,Electronics,Ergonomic Wireless Mouse,Central,Indore,2,2375.46,1530.12,845.34,0.0
+ORD-2024-10924,2024-11-27,CUST-381,Customer_381,Home Office,Furniture,Nordic Dining Table,North,Chandigarh,2,1140.21,874.58,265.63,0.15
+ORD-2026-11148,2024-11-27,CUST-342,Customer_342,Corporate,Furniture,Modern Bookshelf 5-Tier,North,Jaipur,4,1930.18,1342.08,588.1,0.2
+ORD-2026-10062,2024-11-28,CUST-387,Customer_387,Home Office,Clothing,Performance Thermal Jacket,East,Bhubaneswar,10,664.72,611.8,52.92,0.25
+ORD-2024-10306,2024-11-28,CUST-163,Customer_163,Home Office,Clothing,Slim Fit Denim Jeans,South,Chennai,7,378.11,367.85,10.26,0.25
+ORD-2025-10562,2024-11-28,CUST-407,Customer_407,Enterprise,Clothing,Cotton Oxford Shirt,Central,Raipur,5,510.8,284.75,226.05,0.0
+ORD-2025-10100,2024-12-01,CUST-354,Customer_354,Consumer,Electronics,Smartphone Pro Max,Central,Nagpur,3,2422.11,1392.63,1029.48,0.0
+ORD-2025-11000,2024-12-01,CUST-424,Customer_424,,Clothing,Performance Thermal Jacket,South,Hyderabad,4,98.61,84.84,13.77,0.25
+ORD-2025-10226,2024-12-02,CUST-428,Customer_428,Consumer,Electronics,Smartwatch Series X,South,Hyderabad,4,1601.49,1525.6,75.89,0.25
+ORD-2026-10461,2024-12-02,CUST-260,Customer_260,Corporate,Office Supplies,Desktop Document Organizer,North,Jaipur,13,217.88,140.53,77.35,0.0
+ORD-2025-10991,2024-12-02,CUST-215,Customer_215,Corporate,Clothing,Cotton Oxford Shirt,Central,Nagpur,11,1054.25,729.41,324.84,0.1
+ORD-2024-10627,2024-12-03,CUST-403,Customer_403,Consumer,Furniture,Standing Height-Adjustable Desk,South,Chennai,8,3706.32,2522.72,1183.6,0.0
+ORD-2024-11125,2024-12-05,CUST-113,Customer_113,Enterprise,Office Supplies,Heavy Duty Stapler,West,Mumbai,11,176.38,166.21,10.17,0.25
+ORD-2024-10360,2024-12-07,CUST-232,Customer_232,Corporate,Clothing,Performance Thermal Jacket,East,Bhubaneswar,10,1088.77,1059.8,28.97,
+ORD-2025-10517,2024-12-08,CUST-446,Customer_446,Consumer,Office Supplies,Whiteboard Marker Kit,West,Surat,9,388.4,257.4,131.0,0.1
+ORD-2026-10896,2024-12-08,CUST-399,Customer_399,Corporate,Furniture,Standing Height-Adjustable Desk,East,Patna,14,10534.8,8129.8,2405.0,0.05
+ORD-2024-10078,2024-12-09,CUST-247,Customer_247,Home Office,Clothing,Breathable Running Shoes,East,Guwahati,2,125.86,90.9,34.96,0.0
+ORD-2024-10714,2024-12-09,CUST-119,Customer_119,Home Office,Furniture,Leather Recliner Sofa,West,Pune,6,2999.2,2825.94,173.26,0.25
+ORD-2024-10177,2024-12-12,CUST-191,Customer_191,Consumer,Office Supplies,Desktop Document Organizer,West,Surat,3,54.42,37.92,16.5,0.0
+ORD-2025-10790,2024-12-12,CUST-405,Customer_405,Corporate,Furniture,Standing Height-Adjustable Desk,Central,Nagpur,15,2057.47,1613.4,444.07,0.15
+ORD-2025-11144,2024-12-13,CUST-397,Customer_397,Consumer,Office Supplies,Desktop Document Organizer,South,Chennai,8,238.87,149.84,89.03,0.05
+ORD-2026-10104,2024-12-14,CUST-396,Customer_396,Corporate,Electronics,Smartphone Pro Max,East,Kolkata,5,1866.41,1375.15,491.26,0.25
+ORD-2026-10695,2024-12-15,CUST-303,Customer_303,Consumer,Office Supplies,Heavy Duty Stapler,East,Bhubaneswar,3,158.58,90.45,68.13,0.0
+ORD-2025-10325,2024-12-16,CUST-339,Customer_339,Consumer,Clothing,Slim Fit Denim Jeans,North,Chandigarh,11,1206.81,684.64,522.17,0.0
+ORD-2025-10856,2024-12-16,CUST-199,Customer_199,Consumer,Office Supplies,Heavy Duty Stapler,Central,Indore,11,505.45,377.3,128.15,0.0
+ORD-2026-11106,2024-12-16,CUST-237,Customer_237,Enterprise,Office Supplies,Premium Notebook Pack,Central,Nagpur,6,128.76,77.64,51.12,0.0
+ORD-2026-10353,2024-12-18,CUST-403,Customer_403,Home Office,Office Supplies,Desktop Document Organizer,West,Surat,12,355.57,271.2,84.37,0.05
+ORD-2024-10225,2024-12-19,CUST-215,Customer_215,Enterprise,Clothing,Winter Knit Beanie,North,Delhi,8,561.1,412.64,148.46,0.1
+ORD-2026-10293,2024-12-19,CUST-286,Customer_286,Consumer,Electronics,Mechanical Gaming Keyboard,West,Pune,15,11395.65,7989.3,3406.35,0.0
+ORD-2026-10533,2024-12-20,CUST-440,Customer_440,Enterprise,Furniture,Leather Recliner Sofa,Central,Bhopal,6,3466.91,2073.3,1393.61,0.05
+ORD-2026-10818,2024-12-21,CUST-325,Customer_325,Consumer,Clothing,Slim Fit Denim Jeans,Central,Raipur,11,1534.02,1260.49,273.53,0.2
+ORD-2025-10397,2024-12-23,CUST-405,Customer_405,Consumer,Clothing,Winter Knit Beanie,South,Kochi,13,1678.61,1147.38,531.23,0.15
+ORD-2026-10266,2024-12-25,CUST-128,Customer_128,Consumer,Clothing,Slim Fit Denim Jeans,West,Surat,10,1263.96,781.7,482.26,0.1
+ORD-2024-10648,2024-12-25,CUST-276,Customer_276,Enterprise,Furniture,Ergonomic Executive Chair,North,Jaipur,13,3961.62,2456.35,1505.27,0.0
+ORD-2024-11158,2024-12-25,CUST-385,Customer_385,Corporate,Furniture,Nordic Dining Table,North,Jaipur,12,2674.19,2063.28,610.91,0.1
+ORD-2024-10939,2024-12-26,CUST-220,Customer_220,Enterprise,Electronics,Wireless Noise-Canceling Headphones,Central,Bhopal,3,1825.35,1203.24,622.11,0.0
+ORD-2026-11193,2024-12-27,CUST-370,Customer_370,Consumer,Office Supplies,Heavy Duty Stapler,East,Kolkata,7,403.7,337.82,65.88,0.2
+ORD-2026-10938,2024-12-28,CUST-437,Customer_437,Corporate,Electronics,4K Ultra Monitor 32-inch,East,Patna,13,7301.32,5392.4,1908.92,0.0
+ORD-2025-10295,2024-12-29,CUST-289,Customer_289,Consumer,Clothing,Winter Knit Beanie,North,Delhi,10,562.41,439.2,123.21,0.1
+ORD-2026-10509,2024-12-29,CUST-310,Customer_310,Corporate,Clothing,Cotton Oxford Shirt,West,Surat,8,881.15,742.08,139.07,0.2
+ORD-2024-11023,2025-01-01,CUST-441,Customer_441,Home Office,Office Supplies,Whiteboard Marker Kit,Central,Raipur,4,63.64,46.12,17.52,0.0
+ORD-2025-10688,2025-01-03,CUST-219,Customer_219,Home Office,Office Supplies,Desktop Document Organizer,South,Chennai,4,222.0,134.2,87.8,0.0
+ORD-2026-10578,2025-01-05,CUST-389,Customer_389,Home Office,Electronics,Smartwatch Series X,East,Kolkata,6,7028.7,4221.12,2807.58,0.0
+ORD-2025-10706,2025-01-05,CUST-335,Customer_335,Home Office,Office Supplies,Premium Notebook Pack,North,Delhi,14,756.98,507.08,249.9,0.0
+ORD-2026-11097,2025-01-05,CUST-223,Customer_223,Corporate,Furniture,Standing Height-Adjustable Desk,North,Lucknow,9,1393.65,966.06,427.59,0.0
+ORD-2026-10359,2025-01-08,CUST-109,Customer_109,Enterprise,Clothing,Performance Thermal Jacket,North,Jaipur,4,365.68,271.8,93.88,0.0
+ORD-2024-10102,2025-01-09,CUST-348,Customer_348,Home Office,Electronics,Ergonomic Wireless Mouse,Central,Raipur,5,5273.93,3806.95,1466.98,0.05
+ORD-2024-10162,2025-01-10,CUST-343,Customer_343,Consumer,Furniture,Leather Recliner Sofa,East,Kolkata,4,2790.44,1623.0,1167.44,0.0
+ORD-2024-10210,2025-01-10,CUST-371,Customer_371,Corporate,Clothing,Performance Thermal Jacket,East,Kolkata,7,313.88,197.68,116.2,0.0
+ORD-2026-10383,2025-01-10,CUST-189,Customer_189,Corporate,Furniture,Nordic Dining Table,Central,Bhopal,14,10847.76,6398.28,4449.48,0.0
+ORD-2024-10513,2025-01-10,CUST-433,Customer_433,Corporate,Electronics,Wireless Noise-Canceling Headphones,South,Chennai,9,8916.48,6239.34,2677.14,0.1
+ORD-2025-10637,2025-01-11,CUST-342,Customer_342,Corporate,Electronics,4K Ultra Monitor 32-inch,East,Guwahati,14,6765.78,5160.26,1605.52,0.25
+ORD-2025-10805,2025-01-12,CUST-136,Customer_136,Home Office,Furniture,Nordic Dining Table,Central,Bhopal,10,4671.9,2725.4,1946.5,0.0
+ORD-2025-10244,2025-01-13,CUST-257,Customer_257,Corporate,Electronics,Smartwatch Series X,East,Guwahati,1,979.51,682.83,296.68,0.1
+ORD-2026-10422,2025-01-13,CUST-152,Customer_152,Home Office,Clothing,Breathable Running Shoes,North,Jaipur,15,1680.9,1198.2,482.7,0.0
+ORD-2025-10475,2025-01-13,CUST-131,Customer_131,Corporate,Furniture,Standing Height-Adjustable Desk,West,Mumbai,12,8019.84,5121.96,2897.88,0.0
+ORD-2025-10511,2025-01-13,CUST-340,Customer_340,Home Office,Furniture,Standing Height-Adjustable Desk,South,Chennai,14,5721.8,3716.02,2005.78,0.0
+ORD-2026-11034,2025-01-14,CUST-259,Customer_259,Enterprise,Electronics,Ergonomic Wireless Mouse,North,Lucknow,9,1342.8,867.15,475.65,0.0
+ORD-2024-10507,2025-01-15,CUST-203,Customer_203,Corporate,Clothing,Performance Thermal Jacket,North,Delhi,11,1216.38,877.58,338.8,0.05
+ORD-2024-10285,2025-01-17,CUST-259,Customer_259,Home Office,Furniture,Nordic Dining Table,South,Kochi,9,5856.21,3490.38,2365.83,0.0
+ORD-2026-10329,2025-01-17,CUST-198,Customer_198,Consumer,Clothing,Winter Knit Beanie,East,Guwahati,15,1819.92,1579.95,239.97,0.2
+ORD-2024-10651,2025-01-17,CUST-183,Customer_183,Consumer,Clothing,Cotton Oxford Shirt,Central,Indore,7,446.54,407.05,39.49,0.2
+ORD-2024-10837,2025-01-17,CUST-243,Customer_243,Corporate,Office Supplies,Gel Pen Box (Set of 12),South,Chennai,6,329.67,303.72,25.95,0.25
+ORD-2024-10954,2025-01-17,CUST-156,Customer_156,Enterprise,Clothing,Cotton Oxford Shirt,Central,Indore,14,645.75,608.86,36.89,0.25
+ORD-2026-10128,2025-01-18,CUST-380,Customer_380,Home Office,Clothing,Winter Knit Beanie,East,Guwahati,6,403.14,296.22,106.92,0.0
+ORD-2024-10315,2025-01-18,CUST-403,Customer_403,Corporate,Office Supplies,Desktop Document Organizer,North,Jaipur,7,277.48,237.44,40.04,0.2
+ORD-2024-10399,2025-01-19,CUST-154,Customer_154,Home Office,Electronics,Smartwatch Series X,North,Jaipur,14,12450.37,9214.8,3235.57,0.2
+ORD-2024-10921,2025-01-19,CUST-336,Customer_336,Home Office,Furniture,Standing Height-Adjustable Desk,West,Ahmedabad,2,1114.66,732.52,382.14,0.0
+ORD-2024-10558,2025-01-20,CUST-239,Customer_239,Consumer,Electronics,Mechanical Gaming Keyboard,Central,Nagpur,1,747.08,739.74,7.34,0.25
+ORD-2025-11186,2025-01-21,CUST-449,Customer_449,Home Office,Clothing,Winter Knit Beanie,West,Pune,4,226.36,154.92,71.44,0.0
+ORD-2026-10032,2025-01-22,CUST-328,Customer_328,Enterprise,Furniture,Ergonomic Executive Chair,East,Bhubaneswar,1,355.59,303.45,52.14,0.2
+ORD-2025-10307,2025-01-25,CUST-153,Customer_153,Enterprise,Furniture,Leather Recliner Sofa,East,Bhubaneswar,9,2260.22,1798.29,461.93,0.1
+ORD-2025-10850,2025-01-26,CUST-215,Customer_215,Enterprise,Electronics,Mechanical Gaming Keyboard,Central,Raipur,5,1769.83,1312.45,457.38,0.15
+ORD-2025-10097,2025-01-29,CUST-307,Customer_307,Home Office,Furniture,Standing Height-Adjustable Desk,South,Bengaluru,9,4505.36,4298.04,207.32,0.25
+ORD-2026-10155,2025-01-31,CUST-365,Customer_365,Enterprise,Office Supplies,Premium Notebook Pack,West,Surat,3,44.98,32.07,12.91,0.1
+ORD-2025-10685,2025-01-31,CUST-319,Customer_319,Corporate,Furniture,Ergonomic Executive Chair,West,Ahmedabad,15,6069.46,4500.0,1569.46,0.1
+ORD-2026-11067,2025-01-31,CUST-322,Customer_322,Home Office,Office Supplies,Desktop Document Organizer,East,Guwahati,6,153.33,93.9,59.43,0.05
+ORD-2025-10988,2025-02-01,CUST-289,Customer_289,Consumer,Electronics,Smartwatch Series X,South,Kochi,10,8064.93,5978.6,2086.33,0.05
+ORD-2025-11066,2025-02-01,CUST-369,Customer_369,Enterprise,Office Supplies,Gel Pen Box (Set of 12),East,Patna,7,371.26,257.46,113.8,0.1
+ORD-2025-10220,2025-02-02,CUST-116,Customer_116,Home Office,Clothing,Cotton Oxford Shirt,West,Mumbai,2,218.88,131.02,87.86,0.0
+ORD-2026-11031,2025-02-02,CUST-265,Customer_265,Corporate,Office Supplies,Heavy Duty Stapler,North,Delhi,10,402.75,331.5,71.25,0.1
+ORD-2025-11087,2025-02-02,CUST-400,Customer_400,Home Office,Office Supplies,Heavy Duty Stapler,West,Pune,4,123.79,104.64,19.15,0.15
+ORD-2026-11112,2025-02-03,CUST-286,Customer_286,Home Office,Office Supplies,Heavy Duty Stapler,Central,Bhopal,14,335.89,324.94,10.95,0.25
+ORD-2024-10807,2025-02-04,CUST-181,Customer_181,Corporate,Furniture,Ergonomic Executive Chair,North,Delhi,14,3273.69,2549.68,724.01,0.25
+ORD-2024-10867,2025-02-04,CUST-255,Customer_255,Consumer,Furniture,Standing Height-Adjustable Desk,Central,Bhopal,10,7946.0,5662.5,2283.5,0.0
+ORD-2024-11080,2025-02-05,CUST-152,Customer_152,Corporate,Electronics,Wireless Noise-Canceling Headphones,North,Delhi,10,6103.53,4940.6,1162.93,
+ORD-2024-10222,2025-02-06,CUST-171,Customer_171,Home Office,Furniture,Ergonomic Executive Chair,West,Mumbai,10,8360.7,5741.1,2619.6,0.0
+ORD-2026-10362,2025-02-07,CUST-195,Customer_195,Enterprise,Electronics,Mechanical Gaming Keyboard,South,Hyderabad,14,9096.5,5994.24,3102.26,0.0
+ORD-2024-11047,2025-02-07,CUST-421,Customer_421,Home Office,Furniture,Ergonomic Executive Chair,South,Kochi,11,2504.74,2155.78,348.96,0.2
+ORD-2024-10327,2025-02-09,CUST-382,Customer_382,Enterprise,Furniture,Nordic Dining Table,East,Bhubaneswar,6,3643.27,2710.38,932.89,0.05
+ORD-2024-10834,2025-02-09,CUST-187,Customer_187,Corporate,Electronics,4K Ultra Monitor 32-inch,North,Jaipur,3,497.4,334.56,162.84,0.0
+ORD-2024-10192,2025-02-10,CUST-198,Customer_198,Home Office,Office Supplies,Desktop Document Organizer,South,Hyderabad,2,32.58,21.94,10.64,0.0
+ORD-2024-10576,2025-02-10,CUST-311,Customer_311,Home Office,Furniture,Standing Height-Adjustable Desk,North,Lucknow,15,2721.47,2135.4,586.07,0.1
+ORD-2025-10625,2025-02-10,CUST-164,Customer_164,Consumer,Electronics,Ergonomic Wireless Mouse,North,Delhi,7,1583.03,1551.27,31.76,0.25
+ORD-2026-10269,2025-02-11,CUST-312,Customer_312,Home Office,Electronics,Smartphone Pro Max,South,Hyderabad,5,5644.5,3764.55,1879.95,0.0
+ORD-2026-10680,2025-02-11,CUST-277,Customer_277,Consumer,Furniture,Leather Recliner Sofa,South,Hyderabad,9,2490.84,1711.44,779.4,0.0
+ORD-2025-10796,2025-02-11,CUST-259,Customer_259,Consumer,Clothing,Breathable Running Shoes,South,Kochi,12,1925.16,1288.08,637.08,0.0
+ORD-2025-10019,2025-02-12,CUST-230,Customer_230,Enterprise,Clothing,Slim Fit Denim Jeans,South,Kochi,7,751.35,521.36,229.99,0.2
+ORD-2025-10016,2025-02-16,CUST-325,Customer_325,Enterprise,Office Supplies,Whiteboard Marker Kit,North,Chandigarh,8,317.6,186.88,130.72,0.0
+ORD-2026-10326,2025-02-16,CUST-371,Customer_371,Home Office,Furniture,Modern Bookshelf 5-Tier,North,Jaipur,13,4314.57,2493.92,1820.65,0.0
+ORD-2026-10992,2025-02-16,CUST-138,Customer_138,Home Office,Furniture,Leather Recliner Sofa,Central,Raipur,3,739.71,453.54,286.17,0.0
+ORD-2026-11145,2025-02-16,CUST-379,Customer_379,Corporate,Furniture,Standing Height-Adjustable Desk,West,Mumbai,11,3722.18,2740.98,981.2,0.0
+ORD-2024-10390,2025-02-18,CUST-438,Customer_438,Home Office,Office Supplies,Premium Notebook Pack,South,Hyderabad,12,574.74,530.16,44.58,0.25
+ORD-2026-10890,2025-02-18,CUST-253,Customer_253,Corporate,Office Supplies,Premium Notebook Pack,West,Ahmedabad,13,493.09,280.15,212.94,0.0
+ORD-2025-10037,2025-02-21,CUST-113,Customer_113,Consumer,Electronics,Smartphone Pro Max,East,Guwahati,2,1737.0,968.94,768.06,0.0
+ORD-2025-10448,2025-02-21,CUST-422,Customer_422,Consumer,Furniture,Nordic Dining Table,West,Surat,3,1617.62,1230.0,387.62,0.15
+ORD-2025-10493,2025-02-21,CUST-428,Customer_428,Consumer,Office Supplies,Gel Pen Box (Set of 12),South,Chennai,4,82.74,70.4,12.34,0.25
+ORD-2025-10769,2025-02-22,CUST-159,Customer_159,Home Office,Office Supplies,Heavy Duty Stapler,West,Pune,12,154.98,104.16,50.82,0.1
+ORD-2024-10288,2025-02-23,CUST-209,Customer_209,Consumer,Office Supplies,Gel Pen Box (Set of 12),South,Chennai,9,328.14,215.91,112.23,0.0
+ORD-2026-10332,2025-02-23,CUST-417,Customer_417,Consumer,Electronics,Smartphone Pro Max,West,Pune,1,967.12,689.3,277.82,0.05
+ORD-2025-10925,2025-02-23,CUST-391,Customer_391,Home Office,Furniture,Ergonomic Executive Chair,South,Hyderabad,11,6436.98,4572.81,1864.17,0.0
+ORD-2025-11129,2025-02-23,CUST-131,Customer_131,Corporate,Office Supplies,Premium Notebook Pack,South,Bengaluru,11,464.51,301.95,162.56,0.15
+ORD-2024-10036,2025-02-24,CUST-423,Customer_423,Home Office,Office Supplies,Heavy Duty Stapler,East,Guwahati,1,74.85,51.15,23.7,0.0
+ORD-2026-10572,2025-02-24,CUST-168,Customer_168,Home Office,Electronics,4K Ultra Monitor 32-inch,South,Bengaluru,6,5349.29,3850.26,1499.03,0.1
+ORD-2024-10963,2025-02-24,CUST-110,Customer_110,Enterprise,Office Supplies,Desktop Document Organizer,North,Lucknow,5,232.6,196.8,35.8,0.2
+ORD-2024-10396,2025-02-25,CUST-179,Customer_179,Home Office,Furniture,Leather Recliner Sofa,West,Pune,1,475.02,345.87,129.15,0.0
+ORD-2024-10699,2025-02-25,CUST-254,Customer_254,Consumer,Furniture,Standing Height-Adjustable Desk,South,Chennai,8,3041.02,2846.24,194.78,0.2
+ORD-2024-10759,2025-02-25,CUST-169,Customer_169,Consumer,Clothing,Slim Fit Denim Jeans,West,Surat,2,168.66,117.68,50.98,0.0
+ORD-2024-10912,2025-02-25,CUST-120,Customer_120,Consumer,Electronics,4K Ultra Monitor 32-inch,Central,Raipur,6,3871.56,2777.58,1093.98,0.0
+ORD-2024-10852,2025-02-26,CUST-321,Customer_321,Consumer,Clothing,Performance Thermal Jacket,Central,Raipur,8,762.24,675.28,86.96,0.2
+ORD-2026-11091,2025-02-27,CUST-387,Customer_387,Corporate,Office Supplies,Whiteboard Marker Kit,West,Ahmedabad,2,109.43,86.42,23.01,0.15
+ORD-2025-10235,2025-02-28,CUST-365,Customer_365,Enterprise,Electronics,Ergonomic Wireless Mouse,South,Chennai,3,2087.58,1397.46,690.12,0.0
+ORD-2026-10179,2025-03-02,CUST-179,Customer_179,Enterprise,Furniture,Leather Recliner Sofa,East,Kolkata,14,7817.04,5228.02,2589.02,0.0
+ORD-2024-10495,2025-03-02,CUST-201,Customer_201,Enterprise,Electronics,Smartwatch Series X,West,Mumbai,1,775.69,493.21,282.48,0.1
+ORD-2024-10978,2025-03-04,CUST-301,Customer_301,Corporate,Office Supplies,Heavy Duty Stapler,Central,Nagpur,1,12.87,9.97,2.9,0.1
+ORD-2026-11115,2025-03-04,CUST-188,Customer_188,Enterprise,Office Supplies,Whiteboard Marker Kit,West,Ahmedabad,5,62.75,36.15,26.6,0.0
+ORD-2025-10181,2025-03-05,CUST-175,Customer_175,Corporate,Furniture,Nordic Dining Table,Central,Raipur,13,3682.28,3026.79,655.49,0.25
+ORD-2026-10401,2025-03-05,CUST-380,Customer_380,Enterprise,Electronics,4K Ultra Monitor 32-inch,West,Surat,4,3410.04,1923.64,1486.4,0.0
+ORD-2024-10810,2025-03-05,CUST-373,Customer_373,Home Office,Clothing,Performance Thermal Jacket,East,Guwahati,9,844.65,527.04,317.61,0.0
+ORD-2024-10489,2025-03-09,CUST-351,Customer_351,Home Office,Electronics,Ergonomic Wireless Mouse,Central,Indore,2,2338.96,1444.78,894.18,0.0
+ORD-2024-10588,2025-03-09,CUST-297,Customer_297,Enterprise,Office Supplies,Heavy Duty Stapler,North,Delhi,11,488.62,363.55,125.07,0.0
+ORD-2024-10384,2025-03-10,CUST-258,Customer_258,Home Office,Office Supplies,Premium Notebook Pack,West,Mumbai,1,57.55,42.02,15.53,0.2
+ORD-2024-10462,2025-03-13,CUST-208,Customer_208,Home Office,Office Supplies,Whiteboard Marker Kit,East,Kolkata,1,45.93,38.65,7.28,0.2
+ORD-2024-11182,2025-03-13,CUST-210,Customer_210,Corporate,Office Supplies,Gel Pen Box (Set of 12),North,Delhi,13,168.35,94.77,73.58,0.0
+ORD-2025-10760,2025-03-14,CUST-394,Customer_394,Corporate,Electronics,Smartwatch Series X,Central,Nagpur,14,10077.48,6645.52,3431.96,0.1
+ORD-2025-10844,2025-03-14,CUST-120,Customer_120,Consumer,Clothing,Breathable Running Shoes,East,Guwahati,15,1302.6,908.4,394.2,0.0
+ORD-2026-10512,2025-03-15,CUST-119,Customer_119,Enterprise,Electronics,Ergonomic Wireless Mouse,West,Ahmedabad,14,12212.76,6795.46,5417.3,0.0
+ORD-2025-10115,2025-03-16,CUST-202,Customer_202,Consumer,Electronics,Smartwatch Series X,West,Ahmedabad,11,10452.75,7075.09,3377.66,0.0
+ORD-2026-10713,2025-03-16,CUST-398,Customer_398,Home Office,Office Supplies,Heavy Duty Stapler,South,Chennai,12,531.17,408.84,122.33,0.2
+ORD-2026-10140,2025-03-17,CUST-387,Customer_387,Enterprise,Office Supplies,Whiteboard Marker Kit,North,Jaipur,3,156.55,144.15,12.4,0.2
+ORD-2024-10276,2025-03-17,CUST-142,Customer_142,Enterprise,Office Supplies,Whiteboard Marker Kit,South,Bengaluru,10,563.5,379.4,184.1,0.0
+ORD-2024-10972,2025-03-17,CUST-303,Customer_303,Home Office,Electronics,4K Ultra Monitor 32-inch,East,Bhubaneswar,14,16584.12,11572.12,5012.0,0.0
+ORD-2024-11101,2025-03-17,CUST-331,Customer_331,Corporate,Clothing,Breathable Running Shoes,West,Mumbai,2,117.82,87.6,30.22,0.0
+ORD-2026-10944,2025-03-18,CUST-113,Customer_113,Enterprise,Electronics,Smartwatch Series X,North,Jaipur,11,11095.92,7652.92,3443.0,0.1
+ORD-2024-10330,2025-03-19,CUST-127,Customer_127,Consumer,Clothing,Performance Thermal Jacket,East,Kolkata,14,588.32,480.76,107.56,0.25
+ORD-2024-10930,2025-03-19,CUST-393,Customer_393,Corporate,Clothing,Performance Thermal Jacket,West,Surat,6,728.59,539.16,189.43,0.2
+ORD-2026-10506,2025-03-20,CUST-335,Customer_335,Consumer,Electronics,Mechanical Gaming Keyboard,North,Lucknow,1,307.36,190.1,117.26,0.0
+ORD-2025-10301,2025-03-21,CUST-249,Customer_249,Home Office,Electronics,Smartwatch Series X,North,Delhi,2,1954.68,1307.6,647.08,0.0
+ORD-2025-10673,2025-03-21,CUST-415,Customer_415,Home Office,Electronics,Ergonomic Wireless Mouse,Central,Indore,2,319.99,250.06,69.93,0.1
+ORD-2025-10142,2025-03-22,CUST-199,Customer_199,Corporate,Electronics,Mechanical Gaming Keyboard,Central,Raipur,13,13887.25,10119.72,3767.53,0.0
+ORD-2024-10303,2025-03-22,CUST-339,Customer_339,Home Office,Furniture,Modern Bookshelf 5-Tier,East,Bhubaneswar,1,632.01,467.87,164.14,0.0
+ORD-2026-10065,2025-03-24,CUST-137,Customer_137,Home Office,Furniture,Modern Bookshelf 5-Tier,Central,Nagpur,8,1206.88,835.44,371.44,0.05
+ORD-2025-10736,2025-03-24,CUST-220,Customer_220,Corporate,Office Supplies,Desktop Document Organizer,North,Lucknow,15,968.08,745.65,222.43,0.1
+ORD-2025-11060,2025-03-24,CUST-182,Customer_182,Enterprise,Clothing,Cotton Oxford Shirt,East,Guwahati,2,290.86,190.62,100.24,0.0
+ORD-2026-10779,2025-03-25,CUST-446,Customer_446,Home Office,Electronics,Mechanical Gaming Keyboard,Central,Raipur,10,3096.27,2196.2,900.07,0.1
+ORD-2025-10766,2025-03-26,CUST-194,Customer_194,Home Office,Electronics,Mechanical Gaming Keyboard,North,Chandigarh,5,2092.02,1808.4,283.62,0.15
+ORD-2025-10556,2025-03-27,CUST-207,Customer_207,Consumer,Office Supplies,Heavy Duty Stapler,Central,Raipur,8,350.4,325.52,24.88,0.25
+ORD-2026-10776,2025-03-27,CUST-442,Customer_442,Home Office,Office Supplies,Gel Pen Box (Set of 12),North,Lucknow,14,836.78,535.36,301.42,0.0
+ORD-2024-10039,2025-03-28,CUST-271,Customer_271,Enterprise,Electronics,Smartphone Pro Max,North,Delhi,4,2529.29,1671.44,857.85,0.1
+ORD-2025-10349,2025-03-28,CUST-284,Customer_284,Consumer,Office Supplies,Premium Notebook Pack,Central,Raipur,12,249.6,140.88,108.72,0.0
+ORD-2024-10942,2025-03-29,CUST-200,Customer_200,Corporate,Electronics,Wireless Noise-Canceling Headphones,East,Bhubaneswar,9,6063.48,3466.8,2596.68,0.0
+ORD-2024-11098,2025-03-29,CUST-373,Customer_373,Enterprise,Office Supplies,Whiteboard Marker Kit,East,Bhubaneswar,5,265.59,215.15,50.44,0.1
+ORD-2026-10614,2025-03-31,CUST-293,Customer_293,Enterprise,Office Supplies,Heavy Duty Stapler,North,Chandigarh,12,400.51,312.96,87.55,0.2
+ORD-2026-10698,2025-03-31,CUST-436,Customer_436,Home Office,Electronics,4K Ultra Monitor 32-inch,North,Lucknow,13,6965.79,6356.09,609.7,0.25
+ORD-2026-10425,2025-04-01,CUST-423,Customer_423,Enterprise,Clothing,Winter Knit Beanie,West,Mumbai,12,807.58,626.64,180.94,0.05
+ORD-2025-10130,2025-04-02,CUST-353,Customer_353,Corporate,Furniture,Ergonomic Executive Chair,East,Guwahati,4,1165.72,920.28,245.44,0.15
+ORD-2026-10134,2025-04-02,CUST-400,Customer_400,Corporate,Furniture,Nordic Dining Table,South,Bengaluru,3,729.97,572.28,157.69,0.1
+ORD-2025-11105,2025-04-02,CUST-262,Customer_262,Corporate,Electronics,Wireless Noise-Canceling Headphones,Central,Indore,9,8313.76,6528.42,1785.34,0.05
+ORD-2026-10962,2025-04-03,CUST-223,Customer_223,Corporate,Furniture,Modern Bookshelf 5-Tier,Central,Bhopal,14,11779.88,7901.6,3878.28,0.0
+ORD-2026-10071,2025-04-04,CUST-299,Customer_299,Corporate,Office Supplies,Heavy Duty Stapler,Central,Nagpur,9,141.91,109.26,32.65,0.1
+ORD-2024-11128,2025-04-05,CUST-255,Customer_255,Enterprise,Furniture,Modern Bookshelf 5-Tier,West,Ahmedabad,11,8135.71,4745.07,3390.64,0.0
+ORD-2025-11096,2025-04-06,CUST-152,Customer_152,Home Office,Office Supplies,Whiteboard Marker Kit,North,Jaipur,13,748.9,447.46,301.44,0.05
+ORD-2024-10672,2025-04-07,CUST-412,Customer_412,Corporate,Office Supplies,Gel Pen Box (Set of 12),East,Guwahati,4,253.24,177.68,75.56,0.0
+ORD-2026-10347,2025-04-08,CUST-132,Customer_132,Enterprise,Furniture,Modern Bookshelf 5-Tier,West,Ahmedabad,14,9486.82,5833.38,3653.44,0.0
+ORD-2026-10782,2025-04-08,CUST-121,Customer_121,Enterprise,Electronics,Mechanical Gaming Keyboard,East,Bhubaneswar,2,430.14,263.8,166.34,0.05
+ORD-2026-10968,2025-04-08,CUST-235,Customer_235,Home Office,Electronics,Mechanical Gaming Keyboard,West,Pune,3,3143.15,2538.06,605.09,0.1
+ORD-2025-11120,2025-04-08,CUST-264,Customer_264,Corporate,Clothing,Breathable Running Shoes,Central,Nagpur,7,849.87,491.54,358.33,0.0
+ORD-2026-11166,2025-04-09,CUST-397,Customer_397,Corporate,Office Supplies,Gel Pen Box (Set of 12),South,Hyderabad,14,702.24,486.08,216.16,0.0
+ORD-2024-10132,2025-04-10,CUST-436,Customer_436,Consumer,Furniture,Ergonomic Executive Chair,Central,Indore,7,1758.61,1016.89,741.72,0.0
+ORD-2025-10742,2025-04-11,CUST-404,Customer_404,Consumer,Electronics,Smartphone Pro Max,North,Chandigarh,12,6659.28,4662.6,1996.68,0.0
+ORD-2025-11135,2025-04-11,CUST-217,Customer_217,Home Office,Office Supplies,Whiteboard Marker Kit,South,Kochi,4,167.26,111.0,56.26,0.1
+ORD-2024-10969,2025-04-12,CUST-283,Customer_283,Home Office,Furniture,Modern Bookshelf 5-Tier,North,Chandigarh,10,5865.77,4247.5,1618.27,0.15
+ORD-2026-10023,2025-04-14,CUST-336,Customer_336,Consumer,Furniture,Leather Recliner Sofa,North,Chandigarh,8,1984.08,1701.52,282.56,0.25
+ORD-2025-10316,2025-04-14,CUST-105,Customer_105,Enterprise,Clothing,Cotton Oxford Shirt,Central,Bhopal,2,251.06,175.04,76.02,0.0
+ORD-2024-10480,2025-04-14,CUST-119,Customer_119,Home Office,Clothing,Breathable Running Shoes,West,Ahmedabad,5,706.51,453.9,252.61,0.05
+ORD-2025-10847,2025-04-14,CUST-224,Customer_224,Home Office,Electronics,Smartphone Pro Max,West,Mumbai,8,1214.34,844.08,370.26,0.2
+ORD-2024-10918,2025-04-14,CUST-184,Customer_184,Home Office,Furniture,Standing Height-Adjustable Desk,East,Patna,15,5567.4,3620.85,1946.55,0.0
+ORD-2024-10006,2025-04-16,CUST-450,Customer_450,Consumer,Office Supplies,Desktop Document Organizer,East,Kolkata,7,362.04,205.87,156.17,0.0
+ORD-2024-10537,2025-04-16,CUST-118,Customer_118,Consumer,Furniture,Leather Recliner Sofa,East,Guwahati,9,2254.23,1450.8,803.43,0.0
+ORD-2024-10891,2025-04-17,CUST-238,Customer_238,Home Office,Clothing,Winter Knit Beanie,Central,Bhopal,14,1422.68,920.78,501.9,0.0
+ORD-2025-10928,2025-04-20,CUST-292,Customer_292,Corporate,Electronics,Mechanical Gaming Keyboard,West,Mumbai,10,5074.8,3216.3,1858.5,0.0
+ORD-2025-10967,2025-04-20,CUST-399,Customer_399,Home Office,Office Supplies,Gel Pen Box (Set of 12),South,Kochi,15,564.24,415.65,148.59,0.2
+ORD-2026-10836,2025-04-21,CUST-299,Customer_299,Corporate,Clothing,Slim Fit Denim Jeans,Central,Raipur,1,115.8,73.17,42.63,0.05
+ORD-2024-10393,2025-04-24,CUST-249,Customer_249,Enterprise,Furniture,Ergonomic Executive Chair,West,Mumbai,10,2094.82,1909.1,185.72,0.25
+ORD-2024-10312,2025-04-27,CUST-428,Customer_428,Corporate,Electronics,Smartwatch Series X,North,Jaipur,11,6000.06,5757.51,242.55,0.25
+ORD-2025-10610,2025-04-27,CUST-355,Customer_355,Corporate,Electronics,4K Ultra Monitor 32-inch,North,Lucknow,14,5235.89,4287.78,-1715.11,0.2
+ORD-2025-10616,2025-04-29,CUST-443,Customer_443,Corporate,Office Supplies,Desktop Document Organizer,North,Lucknow,12,106.29,95.04,11.25,0.25
+ORD-2025-10859,2025-04-30,CUST-354,Customer_354,Consumer,Electronics,Smartphone Pro Max,South,Hyderabad,4,1129.56,978.68,150.88,0.25
+ORD-2025-10433,2025-05-01,CUST-347,Customer_347,Home Office,Office Supplies,Desktop Document Organizer,East,Kolkata,14,695.0,524.86,170.14,0.25
+ORD-2025-11027,2025-05-05,CUST-280,Customer_280,Corporate,Furniture,Ergonomic Executive Chair,East,Bhubaneswar,5,2658.9,2141.85,517.05,0.25
+ORD-2025-11075,2025-05-07,CUST-163,Customer_163,Corporate,Clothing,Performance Thermal Jacket,West,Surat,6,209.74,153.84,55.9,0.1
+ORD-2024-11086,2025-05-07,CUST-267,Customer_267,Home Office,Clothing,Cotton Oxford Shirt,Central,Bhopal,12,1525.21,925.08,600.13,0.05
+ORD-2026-10959,2025-05-09,CUST-236,Customer_236,Home Office,Furniture,Modern Bookshelf 5-Tier,Central,Indore,2,1115.4,625.5,489.9,0.0
+ORD-2025-10106,2025-05-10,CUST-366,Customer_366,Home Office,Office Supplies,Whiteboard Marker Kit,West,Mumbai,1,22.83,12.83,10.0,0.0
+ORD-2024-10477,2025-05-10,CUST-394,Customer_394,Home Office,Furniture,Modern Bookshelf 5-Tier,South,Chennai,7,5176.36,3339.35,1837.01,0.0
+ORD-2024-11188,2025-05-10,CUST-353,Customer_353,Consumer,Clothing,Cotton Oxford Shirt,South,Hyderabad,9,1233.18,781.65,451.53,0.0
+ORD-2024-10267,2025-05-11,CUST-171,Customer_171,Corporate,Office Supplies,Premium Notebook Pack,Central,Bhopal,15,409.05,342.15,66.9,0.25
+ORD-2024-10426,2025-05-11,CUST-325,Customer_325,Enterprise,Furniture,Nordic Dining Table,East,Patna,15,3882.96,3615.9,267.06,0.2
+ORD-2026-10923,2025-05-11,CUST-438,Customer_438,Consumer,Office Supplies,Premium Notebook Pack,Central,Raipur,4,226.48,150.84,75.64,0.05
+ORD-2024-11068,2025-05-11,CUST-402,Customer_402,Consumer,Office Supplies,Whiteboard Marker Kit,East,Guwahati,7,212.88,140.0,72.88,0.1
+ORD-2026-10596,2025-05-12,CUST-391,Customer_391,Home Office,Electronics,Wireless Noise-Canceling Headphones,Central,Raipur,4,4471.84,2498.48,1973.36,0.0
+ORD-2026-11172,2025-05-13,CUST-220,Customer_220,Corporate,Office Supplies,Premium Notebook Pack,East,Bhubaneswar,15,1018.45,702.9,315.55,0.05
+ORD-2024-10018,2025-05-15,CUST-110,Customer_110,Enterprise,Office Supplies,Gel Pen Box (Set of 12),South,Kochi,1,47.45,34.53,12.92,0.0
+ORD-2026-10542,2025-05-15,CUST-244,Customer_244,Home Office,Clothing,Winter Knit Beanie,South,Chennai,4,621.98,406.92,215.06,0.05
+ORD-2025-10763,2025-05-15,CUST-329,Customer_329,Consumer,Furniture,Leather Recliner Sofa,South,Hyderabad,11,5113.29,3274.81,1838.48,0.05
+ORD-2025-10772,2025-05-16,CUST-230,Customer_230,Home Office,Clothing,Slim Fit Denim Jeans,West,Ahmedabad,5,469.44,323.6,145.84,0.2
+ORD-2024-10957,2025-05-18,CUST-378,Customer_378,Consumer,Electronics,Wireless Noise-Canceling Headphones,North,Delhi,3,2076.24,1342.2,734.04,0.0
+ORD-2026-10980,2025-05-19,CUST-408,Customer_408,Consumer,Furniture,Leather Recliner Sofa,Central,Nagpur,4,3179.2,1834.48,1344.72,0.0
+ORD-2024-10219,2025-05-20,CUST-241,Customer_241,Enterprise,Office Supplies,Whiteboard Marker Kit,West,Mumbai,11,378.84,219.23,159.61,0.0
+ORD-2025-10292,2025-05-20,CUST-236,Customer_236,Enterprise,Electronics,Wireless Noise-Canceling Headphones,Central,Nagpur,15,16636.16,9899.7,6736.46,0.05
+ORD-2025-10745,2025-05-20,CUST-254,Customer_254,Corporate,Electronics,Smartphone Pro Max,East,Guwahati,4,3627.52,2490.88,1136.64,0.0
+ORD-2026-10953,2025-05-21,CUST-380,Customer_380,Enterprise,Electronics,4K Ultra Monitor 32-inch,North,Lucknow,5,1628.35,1152.8,475.55,0.0
+ORD-2025-10211,2025-05-22,CUST-288,Customer_288,Corporate,Furniture,Modern Bookshelf 5-Tier,Central,Indore,6,2981.71,2481.54,500.17,0.15
+ORD-2026-11064,2025-05-22,CUST-213,Customer_213,Enterprise,Furniture,Modern Bookshelf 5-Tier,East,Patna,10,3667.0,2245.3,1421.7,0.0
+ORD-2024-11050,2025-05-24,CUST-102,Customer_102,Corporate,Clothing,Winter Knit Beanie,East,Guwahati,12,7096.68,1091.28,2428.8,0.0
+ORD-2024-11071,2025-05-24,CUST-367,Customer_367,Corporate,Furniture,Ergonomic Executive Chair,West,Surat,8,1269.52,763.52,506.0,0.0
+ORD-2024-10180,2025-05-25,CUST-351,Customer_351,Consumer,Office Supplies,Heavy Duty Stapler,East,Bhubaneswar,2,17.63,13.66,3.97,
+ORD-2026-10767,2025-05-25,CUST-167,Customer_167,Corporate,Clothing,Performance Thermal Jacket,South,Chennai,5,432.55,282.5,150.05,0.0
+ORD-2024-10774,2025-05-25,CUST-358,Customer_358,Home Office,Furniture,Modern Bookshelf 5-Tier,Central,Raipur,13,8214.97,6029.4,2185.57,0.05
+ORD-2026-10302,2025-05-26,CUST-432,Customer_432,Consumer,Electronics,Smartwatch Series X,South,Bengaluru,8,5219.76,3771.12,1448.64,0.0
+ORD-2026-10374,2025-05-26,CUST-290,Customer_290,Consumer,Furniture,Modern Bookshelf 5-Tier,West,Mumbai,12,7634.04,4617.0,3017.04,0.0
+ORD-2025-10985,2025-05-27,CUST-352,Customer_352,Home Office,Clothing,Performance Thermal Jacket,East,Bhubaneswar,11,765.27,471.57,293.7,0.0
+ORD-2026-11013,2025-05-27,CUST-386,Customer_386,Consumer,Furniture,Nordic Dining Table,East,Patna,7,3973.83,2776.34,1197.49,0.15
+ORD-2025-10412,2025-05-28,CUST-364,Customer_364,Enterprise,Office Supplies,Gel Pen Box (Set of 12),North,Lucknow,13,315.8,280.54,35.26,0.25
+ORD-2024-10528,2025-05-28,CUST-448,Customer_448,Home Office,Clothing,Performance Thermal Jacket,East,Bhubaneswar,1,138.27,107.38,30.89,0.05
+ORD-2025-10151,2025-05-29,CUST-150,Customer_150,Enterprise,Electronics,Smartwatch Series X,South,Chennai,3,2500.19,1709.16,791.03,0.05
+ORD-2025-10346,2025-05-29,CUST-291,Customer_291,Home Office,Office Supplies,Heavy Duty Stapler,East,Bhubaneswar,14,641.9,437.92,203.98,0.0
+ORD-2026-10515,2025-05-29,CUST-122,Customer_122,Enterprise,Furniture,Leather Recliner Sofa,East,Bhubaneswar,11,3943.75,3645.29,298.46,0.25
+ORD-2024-10546,2025-05-29,CUST-145,Customer_145,Consumer,Office Supplies,Premium Notebook Pack,West,Pune,13,747.76,502.84,244.92,0.0
+ORD-2026-10728,2025-05-29,CUST-217,Customer_217,Consumer,Clothing,Winter Knit Beanie,North,Jaipur,7,587.72,422.8,164.92,0.0
+ORD-2025-10658,2025-05-30,CUST-275,Customer_275,Home Office,Furniture,Modern Bookshelf 5-Tier,Central,Raipur,4,1234.2,711.48,522.72,0.0
+ORD-2025-10817,2025-05-30,CUST-321,Customer_321,Home Office,Furniture,Nordic Dining Table,East,Guwahati,14,7119.84,6081.04,1038.8,0.25
+ORD-2026-10749,2025-05-31,CUST-385,Customer_385,Consumer,Clothing,Winter Knit Beanie,South,Bengaluru,9,692.04,511.92,180.12,0.05
+ORD-2025-11048,2025-05-31,CUST-357,Customer_357,Consumer,Office Supplies,Heavy Duty Stapler,South,Bengaluru,15,690.6,622.35,68.25,0.2
+ORD-2025-11198,2025-05-31,CUST-348,Customer_348,Consumer,Electronics,4K Ultra Monitor 32-inch,South,Bengaluru,8,8206.2,6177.84,2028.36,0.1
+ORD-2026-10431,2025-06-01,CUST-333,Customer_333,Home Office,Clothing,Breathable Running Shoes,East,Kolkata,7,528.22,299.32,228.9,0.0
+ORD-2024-10438,2025-06-01,CUST-255,Customer_255,Corporate,Clothing,Breathable Running Shoes,East,Guwahati,7,503.16,341.04,162.12,0.0
+ORD-2026-10662,2025-06-01,CUST-275,Customer_275,Home Office,Furniture,Leather Recliner Sofa,West,Ahmedabad,9,4067.55,2606.85,1460.7,0.0
+ORD-2026-10743,2025-06-01,CUST-370,Customer_370,Enterprise,Electronics,Ergonomic Wireless Mouse,South,Bengaluru,9,6338.57,4919.94,1418.63,0.1
+ORD-2026-11103,2025-06-01,CUST-139,Customer_139,Enterprise,Furniture,Standing Height-Adjustable Desk,East,Kolkata,1,208.18,183.36,24.82,0.15
+ORD-2024-10021,2025-06-02,CUST-400,Customer_400,Corporate,Office Supplies,Premium Notebook Pack,West,Ahmedabad,10,404.48,323.2,81.28,0.2
+ORD-2026-10455,2025-06-02,CUST-345,Customer_345,Consumer,Electronics,Ergonomic Wireless Mouse,East,Guwahati,5,778.81,616.8,162.01,0.15
+ORD-2026-10806,2025-06-04,CUST-160,Customer_160,Consumer,Furniture,Modern Bookshelf 5-Tier,South,Bengaluru,6,3631.91,3193.14,438.77,0.15
+ORD-2025-10964,2025-06-04,CUST-151,Customer_151,Consumer,Furniture,Nordic Dining Table,North,Delhi,11,1983.26,1524.05,459.21,0.2
+ORD-2026-10731,2025-06-05,CUST-305,Customer_305,Corporate,Office Supplies,Premium Notebook Pack,East,Kolkata,7,372.68,219.87,152.81,0.0
+ORD-2026-10803,2025-06-05,CUST-310,Customer_310,Corporate,Electronics,Ergonomic Wireless Mouse,Central,Bhopal,13,12743.76,8095.36,4648.4,0.1
+ORD-2025-10862,2025-06-05,CUST-106,Customer_106,Home Office,Furniture,Nordic Dining Table,Central,Nagpur,6,2959.78,2752.14,207.64,0.25
+ORD-2025-10247,2025-06-06,CUST-103,Customer_103,Consumer,Office Supplies,Whiteboard Marker Kit,West,Pune,11,665.28,408.65,256.63,0.0
+ORD-2026-10476,2025-06-06,CUST-181,Customer_181,Corporate,Furniture,Modern Bookshelf 5-Tier,Central,Raipur,1,311.63,259.66,51.97,0.25
+ORD-2024-10612,2025-06-06,CUST-357,Customer_357,Corporate,Furniture,Ergonomic Executive Chair,East,Patna,1,222.4,149.71,72.69,0.15
+ORD-2024-10948,2025-06-08,CUST-424,Customer_424,Consumer,Clothing,Performance Thermal Jacket,West,Pune,12,1186.32,888.96,297.36,0.0
+ORD-2025-10631,2025-06-10,CUST-332,Customer_332,Home Office,Clothing,Slim Fit Denim Jeans,East,Bhubaneswar,1,64.27,35.44,28.83,0.0
+ORD-2024-11029,2025-06-10,CUST-438,Customer_438,Home Office,Office Supplies,Whiteboard Marker Kit,West,Ahmedabad,9,185.85,105.48,80.37,0.0
+ORD-2024-10801,2025-06-11,CUST-268,Customer_268,Corporate,Furniture,Standing Height-Adjustable Desk,South,Hyderabad,6,1754.55,1456.26,298.29,0.15
+ORD-2024-10012,2025-06-14,CUST-168,Customer_168,Home Office,Clothing,Breathable Running Shoes,Central,Raipur,13,1522.36,1490.71,31.65,0.25
+ORD-2024-10828,2025-06-14,CUST-249,Customer_249,Enterprise,Electronics,Smartphone Pro Max,South,Kochi,3,3460.05,1989.12,1470.93,0.0
+ORD-2025-10874,2025-06-15,CUST-144,Customer_144,Home Office,Furniture,Leather Recliner Sofa,East,Patna,1,171.23,101.05,70.18,0.0
+ORD-2025-10118,2025-06-16,CUST-324,Customer_324,Corporate,Furniture,Nordic Dining Table,East,Bhubaneswar,13,5581.58,4139.46,1442.12,0.15
+ORD-2026-10575,2025-06-17,CUST-138,Customer_138,Home Office,Furniture,Modern Bookshelf 5-Tier,East,Kolkata,14,10951.78,8096.48,2855.3,0.0
+ORD-2026-11025,2025-06-17,CUST-332,Customer_332,Home Office,Office Supplies,Whiteboard Marker Kit,Central,Indore,4,248.56,149.4,99.16,0.0
+ORD-2025-11081,2025-06-17,CUST-194,Customer_194,Home Office,Office Supplies,Heavy Duty Stapler,Central,Nagpur,4,108.4,73.6,34.8,0.1
+ORD-2025-10568,2025-06-18,CUST-312,Customer_312,Home Office,Office Supplies,Gel Pen Box (Set of 12),South,Chennai,8,485.44,319.12,166.32,0.0
+ORD-2026-10209,2025-06-19,CUST-261,Customer_261,Consumer,Furniture,Modern Bookshelf 5-Tier,Central,Raipur,15,5722.35,3781.2,1941.15,0.0
+ORD-2026-10491,2025-06-21,CUST-381,Customer_381,Consumer,Furniture,Ergonomic Executive Chair,West,Ahmedabad,4,1332.56,947.12,385.44,0.0
+ORD-2026-10851,2025-06-21,CUST-400,Customer_400,Consumer,Office Supplies,Premium Notebook Pack,South,Chennai,14,204.82,140.84,63.98,0.0
+ORD-2025-10652,2025-06-23,CUST-186,Customer_186,Enterprise,Clothing,Winter Knit Beanie,West,Pune,9,1212.62,1096.47,116.15,0.2
+ORD-2026-10788,2025-06-23,CUST-141,Customer_141,Enterprise,Electronics,4K Ultra Monitor 32-inch,South,Chennai,3,2284.67,1983.42,301.25,0.15
+ORD-2024-10060,2025-06-25,CUST-394,Customer_394,Consumer,Electronics,4K Ultra Monitor 32-inch,North,Chandigarh,1,1191.31,801.41,389.9,0.0
+ORD-2025-11042,2025-06-26,CUST-151,Customer_151,Corporate,Clothing,Performance Thermal Jacket,Central,Indore,5,150.34,92.65,57.69,0.05
+ORD-2024-10231,2025-06-27,CUST-238,Customer_238,Home Office,Office Supplies,Heavy Duty Stapler,East,Guwahati,12,726.3,514.68,211.62,0.1
+ORD-2026-10605,2025-06-27,CUST-237,Customer_237,Home Office,Office Supplies,Premium Notebook Pack,North,Delhi,8,479.04,333.04,146.0,0.0
+ORD-2025-10184,2025-06-29,CUST-202,Customer_202,Corporate,Furniture,Nordic Dining Table,West,Ahmedabad,2,576.22,399.18,177.04,0.1
+ORD-2026-10458,2025-06-29,CUST-130,Customer_130,Corporate,Furniture,Ergonomic Executive Chair,North,Jaipur,5,2453.0,1572.95,880.05,0.0
+ORD-2025-10943,2025-06-29,CUST-399,Customer_399,Consumer,Clothing,Breathable Running Shoes,East,Bhubaneswar,2,206.92,168.22,38.7,0.25
+ORD-2024-11092,2025-06-30,CUST-331,Customer_331,Consumer,Electronics,Ergonomic Wireless Mouse,South,Bengaluru,15,10624.28,10289.25,335.03,0.25
+ORD-2026-10236,2025-07-02,CUST-299,Customer_299,Corporate,Office Supplies,Gel Pen Box (Set of 12),South,Kochi,5,200.3,114.7,85.6,0.0
+ORD-2026-10611,2025-07-02,CUST-358,Customer_358,Home Office,Electronics,Smartwatch Series X,West,Surat,15,10431.45,6132.75,4298.7,0.0
+ORD-2025-10841,2025-07-03,CUST-176,Customer_176,Enterprise,Electronics,4K Ultra Monitor 32-inch,Central,Bhopal,8,5009.44,2806.88,2202.56,0.0
+ORD-2025-10589,2025-07-04,CUST-249,Customer_249,Home Office,Clothing,Breathable Running Shoes,West,Ahmedabad,15,1618.8,936.9,681.9,0.0
+ORD-2026-11142,2025-07-05,CUST-127,Customer_127,Consumer,Electronics,Mechanical Gaming Keyboard,South,Kochi,2,1363.28,770.1,593.18,0.0
+ORD-2026-11133,2025-07-07,CUST-104,Customer_104,Consumer,Electronics,4K Ultra Monitor 32-inch,South,Hyderabad,4,2474.42,1846.68,627.74,0.1
+ORD-2024-10429,2025-07-08,CUST-174,Customer_174,Home Office,Office Supplies,Heavy Duty Stapler,West,Pune,6,251.28,172.98,78.3,0.2
+ORD-2024-10669,2025-07-08,CUST-447,Customer_447,Corporate,Clothing,Winter Knit Beanie,Central,Nagpur,12,1497.6,1259.16,238.44,0.25
+ORD-2025-10754,2025-07-08,CUST-204,Customer_204,Consumer,Clothing,Performance Thermal Jacket,South,Hyderabad,13,658.06,385.32,272.74,0.0
+ORD-2026-10914,2025-07-08,CUST-234,Customer_234,Enterprise,Office Supplies,Whiteboard Marker Kit,Central,Bhopal,7,78.34,52.92,25.42,0.05
+ORD-2025-11006,2025-07-11,CUST-315,Customer_315,Home Office,Electronics,Ergonomic Wireless Mouse,South,Bengaluru,2,1743.52,1195.82,547.7,0.05
+ORD-2025-10406,2025-07-12,CUST-442,Customer_442,Enterprise,Furniture,Modern Bookshelf 5-Tier,East,Kolkata,8,2531.6,1526.56,1005.04,0.0
+ORD-2024-11173,2025-07-12,CUST-174,Customer_174,Corporate,Office Supplies,Gel Pen Box (Set of 12),West,Surat,7,521.85,390.11,131.74,0.0
+ORD-2025-10628,2025-07-13,CUST-283,Customer_283,Enterprise,Electronics,Mechanical Gaming Keyboard,East,Guwahati,10,8434.05,6846.1,1587.95,0.25
+ORD-2026-10428,2025-07-14,CUST-212,Customer_212,Corporate,Clothing,Performance Thermal Jacket,West,Mumbai,12,1474.92,1285.92,189.0,0.15
+ORD-2026-10092,2025-07-16,CUST-138,Customer_138,Consumer,Electronics,Mechanical Gaming Keyboard,Central,Nagpur,5,1934.81,1540.75,394.06,0.15
+ORD-2024-10402,2025-07-16,CUST-401,Customer_401,Consumer,Clothing,Performance Thermal Jacket,East,Patna,7,770.9,704.76,66.14,0.2
+ORD-2026-10005,2025-07-17,CUST-420,Customer_420,Enterprise,Furniture,Nordic Dining Table,West,Surat,3,669.61,488.85,180.76,0.05
+ORD-2024-10309,2025-07-17,CUST-266,Customer_266,Home Office,Electronics,Smartphone Pro Max,East,Guwahati,7,3393.3,2506.7,886.6,0.05
+ORD-2024-10741,2025-07-18,CUST-350,Customer_350,Consumer,Clothing,Performance Thermal Jacket,East,Guwahati,12,1768.61,1285.8,482.81,0.1
+ORD-2024-10450,2025-07-19,CUST-314,Customer_314,Consumer,Furniture,Standing Height-Adjustable Desk,North,Lucknow,9,4422.6,2791.08,1631.52,0.0
+ORD-2026-11076,2025-07-22,CUST-444,Customer_444,Consumer,Furniture,Nordic Dining Table,East,Guwahati,12,7102.06,4830.84,2271.22,0.15
+ORD-2026-10932,2025-07-23,CUST-278,Customer_278,Corporate,Office Supplies,Whiteboard Marker Kit,North,Lucknow,11,115.24,80.52,34.72,0.1
+ORD-2024-10255,2025-07-24,CUST-172,Customer_172,Corporate,Furniture,Standing Height-Adjustable Desk,North,Lucknow,3,2237.04,1476.69,760.35,0.0
+ORD-2026-10296,2025-07-24,CUST-312,Customer_312,Home Office,Office Supplies,Whiteboard Marker Kit,East,Bhubaneswar,8,534.72,311.6,223.12,0.0
+ORD-2024-10441,2025-07-27,CUST-223,Customer_223,Consumer,Office Supplies,Heavy Duty Stapler,East,Patna,5,286.55,170.55,116.0,0.0
+ORD-2025-10811,2025-07-27,CUST-126,Customer_126,Consumer,Electronics,Smartwatch Series X,North,Chandigarh,10,6729.99,4659.6,2070.39,0.05
+ORD-2025-11036,2025-07-28,CUST-396,Customer_396,Home Office,Clothing,Slim Fit Denim Jeans,North,Chandigarh,12,545.03,371.52,173.51,0.05
+ORD-2026-10008,2025-07-29,CUST-191,Customer_191,Home Office,Clothing,Performance Thermal Jacket,Central,Raipur,15,1093.4,699.15,394.25,0.05
+ORD-2026-10248,2025-07-30,CUST-230,Customer_230,Corporate,Electronics,Ergonomic Wireless Mouse,Central,Nagpur,14,13951.0,8911.84,5039.16,0.0
+ORD-2026-10650,2025-07-31,CUST-170,Customer_170,Home Office,Furniture,Modern Bookshelf 5-Tier,Central,Nagpur,3,1817.22,1108.32,708.9,0.0
+ORD-2024-10492,2025-08-02,CUST-445,Customer_445,Home Office,Office Supplies,Heavy Duty Stapler,West,Pune,4,194.04,110.0,84.04,0.0
+ORD-2026-10203,2025-08-06,CUST-187,Customer_187,Consumer,Furniture,Leather Recliner Sofa,West,Ahmedabad,4,2595.42,2307.72,287.7,0.2
+ORD-2025-10598,2025-08-06,CUST-441,Customer_441,Corporate,Clothing,Winter Knit Beanie,South,Kochi,12,931.8,675.48,256.32,0.0
+ORD-2025-10718,2025-08-06,CUST-208,Customer_208,Consumer,Office Supplies,Whiteboard Marker Kit,Central,Indore,14,183.4,125.44,57.96,0.0
+ORD-2024-11095,2025-08-07,CUST-159,Customer_159,Enterprise,Furniture,Leather Recliner Sofa,Central,Indore,11,3780.4,3139.73,640.67,0.25
+ORD-2024-11200,2025-08-07,CUST-231,Customer_231,Home Office,Clothing,Performance Thermal Jacket,West,Ahmedabad,11,475.69,360.69,115.0,0.25
+ORD-2026-10635,2025-08-08,CUST-236,Customer_236,Corporate,Clothing,Breathable Running Shoes,North,Delhi,5,433.8,400.75,33.05,0.2
+ORD-2026-10548,2025-08-09,CUST-216,Customer_216,Corporate,Clothing,Slim Fit Denim Jeans,North,Delhi,3,131.84,115.77,16.07,0.15
+ORD-2025-10064,2025-08-10,CUST-199,Customer_199,Consumer,Electronics,Smartphone Pro Max,South,Hyderabad,4,2139.35,1738.72,400.63,0.15
+ORD-2024-10144,2025-08-13,CUST-289,Customer_289,Enterprise,Office Supplies,Heavy Duty Stapler,East,Guwahati,5,205.15,177.1,28.05,0.15
+ORD-2026-10626,2025-08-13,CUST-176,Customer_176,Corporate,Furniture,Modern Bookshelf 5-Tier,North,Chandigarh,4,1234.61,1052.32,182.29,0.15
+ORD-2024-11122,2025-08-13,CUST-355,Customer_355,Consumer,Office Supplies,Desktop Document Organizer,South,Bengaluru,8,344.58,229.28,115.3,0.05
+ORD-2025-10823,2025-08-16,CUST-335,Customer_335,Consumer,Clothing,Performance Thermal Jacket,South,Kochi,7,1085.35,716.31,369.04,0.0
+ORD-2025-10403,2025-08-17,CUST-271,Customer_271,Home Office,Electronics,4K Ultra Monitor 32-inch,East,Kolkata,4,2078.14,1441.48,636.66,0.05
+ORD-2024-10015,2025-08-19,CUST-137,Customer_137,Enterprise,Electronics,4K Ultra Monitor 32-inch,East,Kolkata,9,2260.62,1522.17,738.45,0.0
+ORD-2025-10172,2025-08-21,CUST-434,Customer_434,Enterprise,Office Supplies,Gel Pen Box (Set of 12),Central,Bhopal,2,40.2,33.02,7.18,0.15
+ORD-2026-10437,2025-08-21,CUST-408,Customer_408,Corporate,Clothing,Slim Fit Denim Jeans,West,Mumbai,10,843.3,606.2,237.1,0.0
+ORD-2024-10873,2025-08-23,CUST-152,Customer_152,Corporate,Electronics,Smartphone Pro Max,West,Pune,4,491.04,350.68,140.36,0.0
+ORD-2026-10194,2025-08-26,CUST-347,Customer_347,Corporate,Office Supplies,Premium Notebook Pack,West,Ahmedabad,13,663.69,403.26,260.43,0.05
+ORD-2024-10639,2025-08-28,CUST-130,Customer_130,Enterprise,Office Supplies,Whiteboard Marker Kit,North,Delhi,13,135.72,97.5,38.22,0.0
+ORD-2024-10591,2025-08-29,CUST-443,Customer_443,Corporate,Office Supplies,Whiteboard Marker Kit,Central,Raipur,9,93.42,63.09,30.33,0.0
+ORD-2025-10469,2025-08-30,CUST-409,Customer_409,Enterprise,Furniture,Nordic Dining Table,North,Lucknow,3,1049.65,626.01,423.64,0.05
+ORD-2024-10552,2025-08-30,CUST-122,Customer_122,Consumer,Electronics,Mechanical Gaming Keyboard,West,Ahmedabad,5,1453.3,998.15,455.15,0.0
+ORD-2024-10687,2025-08-30,CUST-326,Customer_326,Home Office,Furniture,Nordic Dining Table,East,Patna,3,828.5,549.96,278.54,0.1
+ORD-2026-10191,2025-09-01,CUST-191,Customer_191,Home Office,Electronics,Smartwatch Series X,West,Ahmedabad,8,6795.01,4044.24,2750.77,0.05
+ORD-2025-10319,2025-09-02,CUST-185,Customer_185,Consumer,Electronics,Smartphone Pro Max,East,Bhubaneswar,5,4209.08,3459.3,749.78,0.2
+ORD-2024-10756,2025-09-02,CUST-125,Customer_125,Home Office,Electronics,Ergonomic Wireless Mouse,Central,Nagpur,1,794.41,577.12,217.29,0.0
+ORD-2024-11110,2025-09-02,CUST-263,Customer_263,Corporate,Electronics,4K Ultra Monitor 32-inch,West,Pune,8,3313.92,3032.96,280.96,0.25
+ORD-2025-11159,2025-09-02,CUST-121,Customer_121,Enterprise,Furniture,Nordic Dining Table,West,Pune,11,6594.97,5757.18,837.79,0.25
+ORD-2025-10520,2025-09-04,CUST-370,Customer_370,Enterprise,Furniture,Nordic Dining Table,West,Surat,4,3084.52,2183.8,900.72,0.0
+ORD-2024-10123,2025-09-06,CUST-400,Customer_400,Home Office,Electronics,Wireless Noise-Canceling Headphones,East,Patna,6,3210.12,2396.88,813.24,0.0
+ORD-2026-10797,2025-09-06,CUST-357,Customer_357,Consumer,Furniture,Leather Recliner Sofa,Central,Bhopal,9,5727.78,4358.34,1369.44,0.25
+ORD-2024-10846,2025-09-06,CUST-244,Customer_244,Consumer,Clothing,Cotton Oxford Shirt,West,Surat,1,144.71,100.43,44.28,0.0
+ORD-2024-10444,2025-09-07,CUST-406,Customer_406,Corporate,Clothing,Performance Thermal Jacket,South,Hyderabad,10,1050.7,689.9,360.8,0.05
+ORD-2026-10812,2025-09-09,CUST-276,Customer_276,Enterprise,Office Supplies,Premium Notebook Pack,Central,Indore,3,167.91,113.52,54.39,0.0
+ORD-2026-10119,2025-09-10,CUST-398,Customer_398,Corporate,Clothing,Winter Knit Beanie,South,Bengaluru,13,1352.32,1121.51,230.81,0.25
+ORD-2024-10354,2025-09-10,CUST-334,Customer_334,Consumer,Clothing,Performance Thermal Jacket,Central,Raipur,11,483.94,375.87,108.07,0.25
+ORD-2026-10995,2025-09-10,CUST-347,Customer_347,Corporate,Electronics,Smartwatch Series X,West,Mumbai,13,14540.24,10049.0,4491.24,0.0
+ORD-2026-10137,2025-09-11,CUST-193,Customer_193,Consumer,Furniture,Modern Bookshelf 5-Tier,South,Hyderabad,9,1861.27,1530.99,330.28,0.2
+ORD-2024-10228,2025-09-12,CUST-208,Customer_208,Home Office,Furniture,Standing Height-Adjustable Desk,South,Hyderabad,8,6585.36,4033.52,2551.84,0.0
+ORD-2026-10440,2025-09-14,CUST-355,Customer_355,Home Office,Office Supplies,Premium Notebook Pack,South,Hyderabad,1,13.4,7.45,5.95,0.0
+ORD-2026-10761,2025-09-14,CUST-396,Customer_396,Enterprise,Furniture,Nordic Dining Table,East,Bhubaneswar,7,3265.08,2069.62,1195.46,0.0
+ORD-2024-10117,2025-09-16,CUST-288,Customer_288,Enterprise,Office Supplies,Premium Notebook Pack,North,Lucknow,5,154.85,96.35,58.5,0.05
+ORD-2026-10518,2025-09-16,CUST-358,Customer_358,Home Office,Electronics,Ergonomic Wireless Mouse,East,Kolkata,13,9944.56,6716.19,3228.37,0.15
+ORD-2026-10629,2025-09-16,CUST-333,Customer_333,Enterprise,Office Supplies,Heavy Duty Stapler,West,Ahmedabad,8,124.72,92.72,32.0,0.0
+ORD-2026-10344,2025-09-17,CUST-326,Customer_326,Consumer,Furniture,Modern Bookshelf 5-Tier,West,Ahmedabad,15,6252.0,3774.15,2477.85,0.0
+ORD-2026-10083,2025-09-18,CUST-390,Customer_390,Enterprise,Clothing,Performance Thermal Jacket,West,Surat,6,989.7,642.42,347.28,0.0
+ORD-2024-10855,2025-09-18,CUST-388,Customer_388,Enterprise,Electronics,Smartphone Pro Max,North,Chandigarh,6,570.77,405.42,165.35,0.2
+ORD-2024-10975,2025-09-19,CUST-156,Customer_156,Corporate,Furniture,Nordic Dining Table,East,Guwahati,15,5331.16,3453.0,1878.16,0.15
+ORD-2025-10376,2025-09-20,CUST-388,Customer_388,Corporate,Electronics,Mechanical Gaming Keyboard,North,Delhi,11,1025.32,686.73,338.59,0.15
+ORD-2024-11089,2025-09-20,CUST-106,Customer_106,Home Office,Electronics,Smartwatch Series X,East,Kolkata,5,1467.32,881.95,585.37,0.05
+ORD-2025-10373,2025-09-22,CUST-265,Customer_265,Consumer,Clothing,Performance Thermal Jacket,West,Mumbai,1,117.71,74.71,43.0,0.0
+ORD-2024-11026,2025-09-22,CUST-165,Customer_165,Home Office,Clothing,Winter Knit Beanie,Central,Bhopal,11,1231.21,1004.96,226.25,0.2
+ORD-2026-11052,2025-09-22,CUST-348,Customer_348,Consumer,Furniture,Leather Recliner Sofa,East,Guwahati,14,5411.84,3160.5,2251.34,0.0
+ORD-2025-10073,2025-09-24,CUST-425,Customer_425,Corporate,Office Supplies,Premium Notebook Pack,South,Bengaluru,5,229.2,167.15,62.05,0.0
+ORD-2026-10764,2025-09-24,CUST-359,Customer_359,Enterprise,Electronics,4K Ultra Monitor 32-inch,West,Pune,7,4566.02,2860.83,1705.19,0.05
+ORD-2026-10554,2025-09-25,CUST-440,Customer_440,Corporate,Office Supplies,Desktop Document Organizer,East,Bhubaneswar,4,148.89,134.16,14.73,0.25
+ORD-2026-10113,2025-09-27,CUST-136,Customer_136,Home Office,Electronics,Mechanical Gaming Keyboard,North,Chandigarh,3,494.71,405.33,89.38,0.25
+ORD-2025-10676,2025-09-27,CUST-128,Customer_128,Enterprise,Furniture,Nordic Dining Table,East,Bhubaneswar,3,478.59,283.41,195.18,0.0
+ORD-2026-11184,2025-09-27,CUST-136,Customer_136,Enterprise,Electronics,Ergonomic Wireless Mouse,Central,Bhopal,3,538.35,332.52,205.83,0.0
+ORD-2025-10640,2025-09-28,CUST-118,Customer_118,Corporate,Electronics,4K Ultra Monitor 32-inch,Central,Raipur,8,4487.17,3287.12,1200.05,0.2
+ORD-2025-11192,2025-09-29,CUST-444,Customer_444,Consumer,Office Supplies,Desktop Document Organizer,Central,Indore,4,163.04,92.44,70.6,0.0
+ORD-2024-10825,2025-09-30,CUST-239,Customer_239,Corporate,Office Supplies,Premium Notebook Pack,West,Surat,1,19.51,16.83,2.68,0.2
+ORD-2026-10473,2025-10-01,CUST-250,Customer_250,Corporate,Electronics,Wireless Noise-Canceling Headphones,West,Pune,10,8100.72,6436.3,1664.42,0.1
+ORD-2025-11141,2025-10-01,CUST-441,Customer_441,Consumer,Electronics,Wireless Noise-Canceling Headphones,North,Chandigarh,5,1178.66,1025.7,152.96,0.25
+ORD-2026-10686,2025-10-02,CUST-209,Customer_209,Enterprise,Clothing,Winter Knit Beanie,East,Guwahati,2,248.03,182.2,65.83,0.05
+ORD-2026-10017,2025-10-04,CUST-421,Customer_421,Enterprise,Clothing,Slim Fit Denim Jeans,Central,Nagpur,4,312.72,231.0,81.72,0.0
+ORD-2026-10305,2025-10-06,CUST-313,Customer_313,Consumer,Electronics,Smartwatch Series X,South,Kochi,9,5799.96,5143.32,656.64,0.2
+ORD-2024-10804,2025-10-06,CUST-348,Customer_348,Home Office,Office Supplies,Gel Pen Box (Set of 12),North,Chandigarh,13,866.58,522.99,343.59,0.0
+ORD-2025-10910,2025-10-06,CUST-423,Customer_423,Consumer,Clothing,Performance Thermal Jacket,East,Guwahati,2,242.88,160.6,82.28,0.0
+ORD-2026-10398,2025-10-08,CUST-299,Customer_299,Home Office,Office Supplies,Whiteboard Marker Kit,North,Lucknow,12,709.63,622.92,86.71,0.2
+ORD-2026-10911,2025-10-10,CUST-229,Customer_229,Corporate,Clothing,Cotton Oxford Shirt,East,Guwahati,6,576.72,462.54,114.18,0.25
+ORD-2024-11137,2025-10-10,CUST-409,Customer_409,Corporate,Office Supplies,Desktop Document Organizer,North,Lucknow,9,476.77,365.94,110.83,0.1
+ORD-2024-10129,2025-10-11,CUST-425,Customer_425,Enterprise,Electronics,Ergonomic Wireless Mouse,North,Delhi,4,752.73,700.64,52.09,0.25
+ORD-2024-11062,2025-10-13,CUST-126,Customer_126,Enterprise,Electronics,Smartwatch Series X,West,Ahmedabad,10,2990.72,2601.8,388.92,0.2
+ORD-2024-10753,2025-10-14,CUST-387,Customer_387,Enterprise,Electronics,Smartphone Pro Max,West,Ahmedabad,12,2315.04,1607.88,707.16,0.0
+ORD-2025-11021,2025-10-17,CUST-189,Customer_189,Enterprise,Electronics,Ergonomic Wireless Mouse,South,Bengaluru,2,885.22,609.42,275.8,0.2
+ORD-2026-10857,2025-10-18,CUST-238,Customer_238,Home Office,Furniture,Nordic Dining Table,North,Chandigarh,2,703.74,437.1,266.64,0.0
+ORD-2024-10786,2025-10-21,CUST-302,Customer_302,Consumer,Clothing,Performance Thermal Jacket,North,Lucknow,14,552.44,339.78,212.66,0.0
+ORD-2025-10031,2025-10-22,CUST-222,Customer_222,Enterprise,Electronics,Mechanical Gaming Keyboard,South,Chennai,15,2538.15,1689.75,848.4,0.0
+ORD-2026-11061,2025-10-24,CUST-192,Customer_192,Enterprise,Clothing,Winter Knit Beanie,North,Jaipur,1,91.54,56.94,34.6,0.0
+ORD-2025-11195,2025-10-24,CUST-150,Customer_150,Enterprise,Furniture,Modern Bookshelf 5-Tier,West,Surat,8,3330.18,3197.76,132.42,0.25
+ORD-2025-10124,2025-10-26,CUST-102,Customer_102,Consumer,Office Supplies,Desktop Document Organizer,North,Lucknow,6,76.44,52.26,24.18,0.0
+ORD-2024-10468,2025-10-26,CUST-404,Customer_404,Consumer,Electronics,Ergonomic Wireless Mouse,North,Chandigarh,4,1013.47,708.8,304.67,0.15
+ORD-2024-10072,2025-10-27,CUST-209,Customer_209,Home Office,Electronics,Smartwatch Series X,East,Guwahati,7,6091.54,4528.3,1563.24,0.0
+ORD-2025-10190,2025-10-27,CUST-238,Customer_238,Enterprise,Furniture,Modern Bookshelf 5-Tier,Central,Nagpur,6,877.63,646.32,231.31,0.2
+ORD-2025-10580,2025-10-27,CUST-434,Customer_434,Home Office,Electronics,4K Ultra Monitor 32-inch,West,Ahmedabad,10,11744.7,7565.9,4178.8,0.0
+ORD-2024-10813,2025-10-27,CUST-137,Customer_137,Home Office,Furniture,Leather Recliner Sofa,West,Mumbai,15,11436.75,7344.15,4092.6,0.0
+ORD-2026-10893,2025-10-27,CUST-195,Customer_195,Enterprise,Office Supplies,Whiteboard Marker Kit,North,Jaipur,4,84.6,78.64,5.96,0.25
+ORD-2024-10201,2025-10-28,CUST-326,Customer_326,Corporate,Furniture,Ergonomic Executive Chair,East,Patna,12,7925.85,5863.2,2062.65,0.05
+ORD-2025-10499,2025-10-28,CUST-144,Customer_144,Consumer,Office Supplies,Premium Notebook Pack,West,Ahmedabad,5,147.11,135.45,11.66,0.25
+ORD-2026-11154,2025-10-28,CUST-427,Customer_427,Corporate,Electronics,Ergonomic Wireless Mouse,North,Chandigarh,2,588.64,364.24,224.4,0.0
+ORD-2025-10421,2025-10-29,CUST-393,Customer_393,Enterprise,Furniture,Nordic Dining Table,Central,Raipur,13,7063.81,3970.46,3093.35,0.0
+ORD-2024-10120,2025-10-31,CUST-109,Customer_109,Enterprise,Furniture,Nordic Dining Table,East,Patna,3,1602.84,994.71,608.13,0.0
+ORD-2026-10500,2025-10-31,CUST-200,Customer_200,,Furniture,Ergonomic Executive Chair,Central,Indore,5,3103.99,2113.05,990.94,0.15
+ORD-2024-10405,2025-11-02,CUST-235,Customer_235,Corporate,Clothing,Breathable Running Shoes,North,Chandigarh,11,1334.74,747.12,587.62,0.0
+ORD-2025-10154,2025-11-03,CUST-198,Customer_198,Enterprise,Electronics,Ergonomic Wireless Mouse,West,Mumbai,5,4102.27,3188.75,913.52,0.15
+ORD-2024-11083,2025-11-03,CUST-284,Customer_284,Consumer,Electronics,4K Ultra Monitor 32-inch,North,Lucknow,8,3789.84,2985.76,804.08,0.15
+ORD-2026-11151,2025-11-03,CUST-217,Customer_217,Enterprise,Office Supplies,Desktop Document Organizer,Central,Indore,9,395.28,231.39,163.89,0.0
+ORD-2025-10043,2025-11-04,CUST-245,Customer_245,Enterprise,Clothing,Breathable Running Shoes,East,Patna,7,968.12,654.15,313.97,0.15
+ORD-2024-11005,2025-11-05,CUST-313,Customer_313,Corporate,Office Supplies,Premium Notebook Pack,South,Kochi,15,149.72,118.35,31.37,0.1
+ORD-2026-10854,2025-11-06,CUST-349,Customer_349,Corporate,Clothing,Cotton Oxford Shirt,North,Lucknow,5,639.07,596.2,42.87,0.25
+ORD-2025-10544,2025-11-07,CUST-358,Customer_358,Enterprise,Furniture,Leather Recliner Sofa,North,Delhi,11,3192.47,1973.4,1219.07,0.05
+ORD-2025-10997,2025-11-07,CUST-307,Customer_307,Home Office,Office Supplies,Heavy Duty Stapler,Central,Indore,15,362.1,250.35,111.75,0.0
+ORD-2026-10131,2025-11-08,CUST-111,Customer_111,Home Office,Electronics,Smartwatch Series X,East,Kolkata,12,7436.9,5043.96,2392.94,0.05
+ORD-2026-10875,2025-11-08,CUST-217,Customer_217,Enterprise,Clothing,Cotton Oxford Shirt,Central,Indore,9,456.84,267.21,189.63,0.0
+ORD-2026-10659,2025-11-09,CUST-144,Customer_144,Enterprise,Electronics,4K Ultra Monitor 32-inch,Central,Raipur,13,1109.81,820.69,289.12,0.0
+ORD-2024-11059,2025-11-10,CUST-403,Customer_403,Corporate,Furniture,Modern Bookshelf 5-Tier,Central,Bhopal,1,151.81,104.5,47.31,0.1
+ORD-2024-11164,2025-11-11,CUST-319,Customer_319,Consumer,Office Supplies,Desktop Document Organizer,North,Lucknow,13,812.06,640.77,171.29,0.15
+ORD-2025-10328,2025-11-12,CUST-294,Customer_294,Corporate,Office Supplies,Gel Pen Box (Set of 12),North,Chandigarh,4,282.36,163.92,118.44,0.0
+ORD-2024-10369,2025-11-12,CUST-240,Customer_240,Home Office,Office Supplies,Heavy Duty Stapler,Central,Indore,15,456.9,341.4,115.5,0.0
+ORD-2026-10014,2025-11-14,CUST-181,Customer_181,Home Office,Office Supplies,Whiteboard Marker Kit,South,Bengaluru,6,79.68,58.26,21.42,0.2
+ORD-2024-10543,2025-11-15,CUST-111,Customer_111,Home Office,Electronics,4K Ultra Monitor 32-inch,Central,Nagpur,10,6505.72,5182.4,1323.32,0.25
+ORD-2025-10916,2025-11-15,CUST-190,Customer_190,Home Office,Office Supplies,Gel Pen Box (Set of 12),Central,Nagpur,12,300.59,240.48,60.11,0.15
+ORD-2025-10133,2025-11-16,CUST-364,Customer_364,Home Office,Office Supplies,Premium Notebook Pack,East,Patna,15,1030.5,662.1,368.4,0.0
+ORD-2025-10148,2025-11-16,CUST-443,Customer_443,Corporate,Office Supplies,Whiteboard Marker Kit,West,Ahmedabad,14,770.98,521.36,249.62,0.0
+ORD-2024-10750,2025-11-16,CUST-177,Customer_177,,Office Supplies,Premium Notebook Pack,Central,Indore,3,161.15,122.07,39.08,0.25
+ORD-2025-10034,2025-11-17,CUST-306,Customer_306,Consumer,Furniture,Leather Recliner Sofa,North,Delhi,12,4214.81,3329.52,885.29,0.1
+ORD-2024-10690,2025-11-17,CUST-425,Customer_425,Home Office,Clothing,Breathable Running Shoes,South,Kochi,13,1595.53,1224.73,370.8,0.1
+ORD-2026-10452,2025-11-18,CUST-106,Customer_106,Home Office,Office Supplies,Whiteboard Marker Kit,South,Chennai,2,131.44,93.44,38.0,0.05
+ORD-2025-10883,2025-11-18,CUST-214,Customer_214,Home Office,Office Supplies,Premium Notebook Pack,East,Bhubaneswar,8,278.91,224.64,54.27,0.2
+ORD-2026-11124,2025-11-18,CUST-386,Customer_386,Corporate,Office Supplies,Gel Pen Box (Set of 12),North,Jaipur,9,148.5,108.9,39.6,0.0
+ORD-2024-10375,2025-11-19,CUST-305,Customer_305,Consumer,Electronics,Smartwatch Series X,North,Delhi,9,8428.08,5502.6,2925.48,0.15
+ORD-2025-11078,2025-11-19,CUST-133,Customer_133,Home Office,Office Supplies,Desktop Document Organizer,West,Surat,5,150.72,107.1,43.62,0.2
+ORD-2025-11003,2025-11-20,CUST-313,Customer_313,Home Office,Office Supplies,Gel Pen Box (Set of 12),East,Guwahati,12,595.58,393.24,202.34,0.15
+ORD-2026-10311,2025-11-21,CUST-124,Customer_124,Enterprise,Clothing,Breathable Running Shoes,North,Delhi,7,1174.46,793.94,380.52,0.0
+ORD-2026-10464,2025-11-21,CUST-410,Customer_410,Consumer,Office Supplies,Whiteboard Marker Kit,South,Chennai,7,326.62,228.97,97.65,0.0
+ORD-2025-10634,2025-11-21,CUST-188,Customer_188,Corporate,Office Supplies,Premium Notebook Pack,South,Bengaluru,10,382.7,269.8,112.9,0.0
+ORD-2026-10059,2025-11-23,CUST-151,Customer_151,Consumer,Clothing,Cotton Oxford Shirt,South,Bengaluru,6,470.56,469.14,1.42,0.25
+ORD-2026-10098,2025-11-24,CUST-414,Customer_414,Home Office,Office Supplies,Whiteboard Marker Kit,South,Bengaluru,8,239.7,189.68,50.02,0.15
+ORD-2025-10661,2025-11-24,CUST-315,Customer_315,Corporate,Furniture,Ergonomic Executive Chair,North,Jaipur,4,2403.36,1421.92,981.44,0.0
+ORD-2024-10951,2025-11-25,CUST-134,Customer_134,Consumer,Furniture,Modern Bookshelf 5-Tier,North,Lucknow,1,254.83,167.01,87.82,0.15
+ORD-2026-10020,2025-11-27,CUST-237,Customer_237,Consumer,Clothing,Winter Knit Beanie,East,Kolkata,14,1931.02,1339.66,591.36,0.0
+ORD-2026-10380,2025-11-27,CUST-294,Customer_294,Enterprise,Furniture,Standing Height-Adjustable Desk,East,Patna,5,2358.55,1541.35,817.2,0.0
+ORD-2025-10460,2025-11-28,CUST-218,Customer_218,Consumer,Clothing,Winter Knit Beanie,North,Delhi,2,48.37,44.58,3.79,0.2
+ORD-2024-10063,2025-11-29,CUST-336,Customer_336,Corporate,Electronics,Smartwatch Series X,North,Jaipur,2,2360.42,1357.12,1003.3,0.0
+ORD-2025-10274,2025-11-29,CUST-139,Customer_139,Enterprise,Electronics,Wireless Noise-Canceling Headphones,East,Bhubaneswar,8,9428.16,6912.4,2515.76,0.0
+ORD-2024-10483,2025-12-01,CUST-122,Customer_122,Consumer,Clothing,Breathable Running Shoes,North,Chandigarh,9,1159.83,695.97,463.86,0.0
+ORD-2025-10487,2025-12-01,CUST-367,Customer_367,Home Office,Furniture,Modern Bookshelf 5-Tier,Central,Indore,12,7360.41,4934.28,2426.13,0.05
+ORD-2026-10821,2025-12-02,CUST-394,Customer_394,Home Office,Office Supplies,Heavy Duty Stapler,East,Bhubaneswar,15,1051.37,739.95,311.42,0.05
+ORD-2026-10947,2025-12-03,CUST-210,Customer_210,Home Office,Clothing,Breathable Running Shoes,East,Patna,7,760.76,517.09,243.67,0.0
+ORD-2025-10535,2025-12-04,CUST-150,Customer_150,Enterprise,Clothing,Performance Thermal Jacket,East,Guwahati,2,98.14,60.8,37.34,0.0
+ORD-2024-10732,2025-12-05,CUST-371,Customer_371,Home Office,Electronics,Wireless Noise-Canceling Headphones,Central,Indore,7,6720.28,4436.6,2283.68,0.0
+ORD-2025-11024,2025-12-05,CUST-379,Customer_379,Enterprise,Office Supplies,Desktop Document Organizer,Central,Nagpur,5,152.91,121.3,31.61,0.15
+ORD-2024-10666,2025-12-06,CUST-435,Customer_435,Corporate,Clothing,Cotton Oxford Shirt,East,Bhubaneswar,5,690.7,449.0,241.7,0.0
+ORD-2024-10456,2025-12-09,CUST-167,Customer_167,Home Office,Office Supplies,Heavy Duty Stapler,Central,Indore,2,87.98,50.56,37.42,0.0
+ORD-2025-10103,2025-12-11,CUST-441,Customer_441,Home Office,Electronics,Wireless Noise-Canceling Headphones,West,Mumbai,9,1957.97,1391.13,566.84,0.2
+ORD-2024-10141,2025-12-11,CUST-265,Customer_265,Home Office,Electronics,Mechanical Gaming Keyboard,East,Patna,10,2619.2,1699.2,920.0,0.0
+ORD-2026-11079,2025-12-11,CUST-273,Customer_273,Home Office,Clothing,Performance Thermal Jacket,East,Bhubaneswar,5,423.1,271.5,151.6,0.0
+ORD-2025-10268,2025-12-13,CUST-295,Customer_295,Home Office,Clothing,Winter Knit Beanie,South,Hyderabad,11,1662.21,1014.86,647.35,0.0
+ORD-2025-10364,2025-12-13,CUST-338,Customer_338,Corporate,Office Supplies,Whiteboard Marker Kit,South,Chennai,8,390.1,286.48,103.62,0.1
+ORD-2026-10446,2025-12-14,CUST-412,Customer_412,Corporate,Electronics,Ergonomic Wireless Mouse,North,Lucknow,10,4554.63,3332.7,1221.93,0.1
+ORD-2026-10899,2025-12-14,CUST-156,Customer_156,Home Office,Clothing,Breathable Running Shoes,North,Jaipur,7,1046.78,728.7,318.08,0.0
+ORD-2024-10357,2025-12-15,CUST-425,Customer_425,Home Office,Clothing,Slim Fit Denim Jeans,North,Delhi,4,557.44,381.28,176.16,0.0
+ORD-2026-10419,2025-12-16,CUST-385,Customer_385,Home Office,Clothing,Performance Thermal Jacket,North,Lucknow,6,653.26,611.76,41.5,0.25
+ORD-2026-10569,2025-12-18,CUST-227,Customer_227,Corporate,Furniture,Leather Recliner Sofa,West,Surat,10,4436.5,2999.6,1436.9,0.0
+ORD-2025-11150,2025-12-18,CUST-155,Customer_155,Enterprise,Furniture,Leather Recliner Sofa,East,Patna,10,2812.88,2404.2,408.68,0.25
+ORD-2024-10378,2025-12-20,CUST-362,Customer_362,Home Office,Clothing,Cotton Oxford Shirt,South,Kochi,11,549.36,400.51,148.85,0.05
+ORD-2024-10453,2025-12-20,CUST-383,Customer_383,Enterprise,Furniture,Leather Recliner Sofa,South,Chennai,2,1285.2,839.72,445.48,0.0
+ORD-2025-10886,2025-12-20,CUST-395,Customer_395,Enterprise,Office Supplies,Premium Notebook Pack,East,Patna,13,503.99,352.17,151.82,0.15
+ORD-2026-10470,2025-12-22,CUST-161,Customer_161,Corporate,Furniture,Standing Height-Adjustable Desk,Central,Nagpur,7,1825.49,1453.34,372.15,0.2
+ORD-2025-10739,2025-12-23,CUST-178,Customer_178,Home Office,Office Supplies,Whiteboard Marker Kit,South,Bengaluru,10,571.95,441.3,130.65,0.1
+ORD-2024-10156,2025-12-26,CUST-358,Customer_358,Home Office,Clothing,Winter Knit Beanie,East,Kolkata,4,441.15,323.2,117.95,0.2
+ORD-2025-10490,2025-12-26,CUST-393,Customer_393,Home Office,Office Supplies,Heavy Duty Stapler,South,Kochi,5,135.75,79.05,56.7,0.05
+ORD-2026-10677,2025-12-26,CUST-156,Customer_156,Corporate,Furniture,Standing Height-Adjustable Desk,East,Patna,14,5389.96,3124.52,2265.44,0.05
+ORD-2026-10755,2025-12-26,CUST-391,Customer_391,Consumer,Furniture,Standing Height-Adjustable Desk,East,Bhubaneswar,6,1352.04,845.34,506.7,0.05
+ORD-2026-10245,2025-12-27,CUST-252,Customer_252,Home Office,Electronics,4K Ultra Monitor 32-inch,West,Mumbai,3,1978.04,1675.32,302.72,0.25
+ORD-2025-10982,2025-12-27,CUST-239,Customer_239,Enterprise,Electronics,4K Ultra Monitor 32-inch,Central,Nagpur,6,5023.92,2840.7,2183.22,0.0
+ORD-2026-10299,2025-12-28,CUST-424,Customer_424,Consumer,Electronics,Ergonomic Wireless Mouse,Central,Bhopal,13,3255.93,2912.26,343.67,0.2
+ORD-2025-10682,2025-12-28,CUST-390,Customer_390,Home Office,Office Supplies,Desktop Document Organizer,Central,Raipur,4,137.26,102.08,35.18,0.05
+ORD-2025-10076,2025-12-29,CUST-236,Customer_236,Corporate,Clothing,Performance Thermal Jacket,South,Hyderabad,12,767.11,458.76,308.35,0.05
+ORD-2025-10574,2025-12-29,CUST-323,Customer_323,Enterprise,Clothing,Cotton Oxford Shirt,North,Chandigarh,14,1840.16,1256.22,583.94,0.0
+ORD-2024-10348,2025-12-30,CUST-314,Customer_314,Corporate,Clothing,Breathable Running Shoes,South,Chennai,6,331.74,238.62,93.12,0.05
+ORD-2026-11046,2025-12-30,CUST-214,Customer_214,Consumer,Office Supplies,Desktop Document Organizer,North,Chandigarh,1,66.93,40.75,26.18,0.0
+ORD-2026-10758,2025-12-31,CUST-351,Customer_351,Home Office,Office Supplies,Desktop Document Organizer,North,Lucknow,6,306.09,232.2,73.89,0.25
+ORD-2026-10770,2025-12-31,CUST-386,Customer_386,Consumer,Office Supplies,Desktop Document Organizer,East,Bhubaneswar,7,116.2,77.63,38.57,0.0
+ORD-2024-11074,2025-12-31,CUST-167,Customer_167,Corporate,Clothing,Winter Knit Beanie,East,Guwahati,9,989.17,607.23,381.94,0.1
+ORD-2025-10334,2026-01-02,CUST-101,Customer_101,Enterprise,Clothing,Breathable Running Shoes,West,Ahmedabad,11,305.42,188.87,116.55,0.1
+ORD-2026-10077,2026-01-03,CUST-174,Customer_174,Consumer,Office Supplies,Gel Pen Box (Set of 12),South,Hyderabad,9,611.55,430.92,180.63,0.0
+ORD-2024-10096,2026-01-03,CUST-105,Customer_105,Enterprise,Clothing,Slim Fit Denim Jeans,South,Hyderabad,10,1148.6,812.0,336.6,0.0
+ORD-2026-10734,2026-01-03,CUST-150,Customer_150,Corporate,Electronics,Wireless Noise-Canceling Headphones,North,Chandigarh,11,3031.27,1770.67,1260.6,0.0
+ORD-2026-10737,2026-01-03,CUST-122,Customer_122,Enterprise,Electronics,Smartwatch Series X,West,Pune,8,8051.2,5360.8,2690.4,0.0
+ORD-2024-10213,2026-01-04,CUST-331,Customer_331,Consumer,Office Supplies,Heavy Duty Stapler,Central,Indore,4,209.49,204.24,5.25,0.25
+ORD-2025-10577,2026-01-04,CUST-125,Customer_125,Enterprise,Furniture,Modern Bookshelf 5-Tier,North,Lucknow,13,7826.94,5357.17,2469.77,0.05
+ORD-2025-10709,2026-01-04,CUST-244,Customer_244,Enterprise,Clothing,Performance Thermal Jacket,West,Mumbai,9,1064.97,731.7,333.27,0.0
+ORD-2024-10723,2026-01-04,CUST-414,Customer_414,Enterprise,Electronics,Wireless Noise-Canceling Headphones,West,Pune,3,2137.08,1580.67,556.41,0.0
+ORD-2026-11127,2026-01-04,CUST-267,Customer_267,Home Office,Clothing,Slim Fit Denim Jeans,South,Kochi,14,2096.5,1317.68,778.82,0.0
+ORD-2024-11149,2026-01-04,CUST-287,Customer_287,Enterprise,Office Supplies,Whiteboard Marker Kit,North,Delhi,1,49.16,33.69,15.47,0.0
+ORD-2026-10539,2026-01-05,CUST-269,Customer_269,Enterprise,Clothing,Breathable Running Shoes,South,Kochi,12,1942.8,1087.68,855.12,0.0
+ORD-2024-10696,2026-01-05,CUST-332,Customer_332,Enterprise,Electronics,Ergonomic Wireless Mouse,East,Kolkata,13,11337.79,11274.77,63.02,0.25
+ORD-2025-10322,2026-01-06,CUST-405,Customer_405,Consumer,Furniture,Standing Height-Adjustable Desk,East,Kolkata,12,4707.83,3601.2,1106.63,0.1
+ORD-2024-10432,2026-01-06,CUST-284,Customer_284,Corporate,Office Supplies,Desktop Document Organizer,South,Hyderabad,7,185.82,130.9,54.92,0.15
+ORD-2026-10887,2026-01-06,CUST-194,Customer_194,Home Office,Electronics,Smartphone Pro Max,East,Patna,15,13351.2,8931.15,4420.05,0.0
+ORD-2024-10261,2026-01-08,CUST-160,Customer_160,Enterprise,Furniture,Standing Height-Adjustable Desk,Central,Raipur,7,5364.24,3045.56,2318.68,0.0
+ORD-2024-10387,2026-01-12,CUST-396,Customer_396,Enterprise,Office Supplies,Whiteboard Marker Kit,West,Surat,5,145.57,115.05,30.52,0.25
+ORD-2025-10703,2026-01-12,CUST-437,Customer_437,Enterprise,Clothing,Slim Fit Denim Jeans,North,Chandigarh,10,814.64,566.1,248.54,0.15
+ORD-2025-10529,2026-01-13,CUST-279,Customer_279,Consumer,Electronics,Ergonomic Wireless Mouse,South,Hyderabad,4,500.84,330.28,170.56,0.0
+ORD-2025-10748,2026-01-14,CUST-178,Customer_178,Home Office,Furniture,Modern Bookshelf 5-Tier,Central,Bhopal,9,7409.79,5031.54,2378.25,0.0
+ORD-2024-10882,2026-01-16,CUST-193,Customer_193,Corporate,Office Supplies,Whiteboard Marker Kit,North,Chandigarh,5,158.18,126.75,31.43,0.25
+ORD-2026-11043,2026-01-17,CUST-208,Customer_208,Enterprise,Furniture,Leather Recliner Sofa,Central,Bhopal,3,1637.66,1258.68,378.98,0.2
+ORD-2024-10249,2026-01-18,CUST-423,Customer_423,Corporate,Office Supplies,Gel Pen Box (Set of 12),North,Lucknow,10,224.7,139.6,85.1,0.0
+ORD-2024-10291,2026-01-19,CUST-373,Customer_373,Enterprise,Electronics,Smartwatch Series X,South,Kochi,9,1390.04,1059.21,330.83,0.1
+ORD-2025-10646,2026-01-19,CUST-104,Customer_104,Home Office,Furniture,Leather Recliner Sofa,North,Chandigarh,5,2908.9,1986.1,922.8,0.0
+ORD-2026-10524,2026-01-20,CUST-307,Customer_307,Home Office,Clothing,Breathable Running Shoes,Central,Raipur,2,224.75,197.56,27.19,0.2
+ORD-2024-11104,2026-01-21,CUST-385,Customer_385,Home Office,Furniture,Standing Height-Adjustable Desk,Central,Indore,14,4583.31,3372.88,1210.43,0.05
+ORD-2026-10314,2026-01-23,CUST-428,Customer_428,Enterprise,Office Supplies,Desktop Document Organizer,Central,Nagpur,7,164.29,116.76,47.53,0.0
+ORD-2025-10733,2026-01-23,CUST-139,Customer_139,Home Office,Clothing,Slim Fit Denim Jeans,South,Hyderabad,8,283.26,224.48,58.78,0.2
+ORD-2026-10845,2026-01-26,CUST-400,Customer_400,Consumer,Electronics,Wireless Noise-Canceling Headphones,Central,Bhopal,13,14885.26,10930.01,3955.25,0.0
+ORD-2024-11038,2026-01-26,CUST-329,Customer_329,Corporate,Electronics,Smartphone Pro Max,South,Bengaluru,6,985.38,666.3,319.08,0.0
+ORD-2025-10751,2026-01-27,CUST-447,Customer_447,Enterprise,Clothing,Performance Thermal Jacket,East,Patna,14,2497.04,1418.06,1078.98,0.0
+ORD-2024-10420,2026-01-29,CUST-251,Customer_251,Home Office,Electronics,Mechanical Gaming Keyboard,South,Chennai,11,38510.5,6244.48,11567.05,0.0
+ORD-2025-10004,2026-01-31,CUST-275,Customer_275,Home Office,Office Supplies,Desktop Document Organizer,East,Kolkata,15,346.5,345.75,0.75,0.25
+ORD-2025-10664,2026-01-31,CUST-276,Customer_276,Consumer,Office Supplies,Gel Pen Box (Set of 12),East,Guwahati,8,305.94,224.64,81.3,0.25
+ORD-2025-10793,2026-01-31,CUST-405,Customer_405,Enterprise,Electronics,Wireless Noise-Canceling Headphones,North,Delhi,9,2543.4,1696.32,847.08,0.0
+ORD-2024-10087,2026-02-02,CUST-264,Customer_264,Enterprise,Furniture,Leather Recliner Sofa,West,Ahmedabad,7,5097.4,3620.4,1477.0,0.0
+ORD-2024-10135,2026-02-02,CUST-163,Customer_163,Corporate,Clothing,Performance Thermal Jacket,South,Chennai,11,1574.99,1237.06,337.93,0.1
+ORD-2025-10835,2026-02-02,CUST-313,Customer_313,Enterprise,Clothing,Performance Thermal Jacket,North,Lucknow,9,247.95,144.9,103.05,0.05
+ORD-2025-10934,2026-02-02,CUST-434,Customer_434,Enterprise,Electronics,Smartwatch Series X,Central,Bhopal,13,10020.09,9014.72,1005.37,0.2
+ORD-2025-10781,2026-02-03,CUST-115,Customer_115,Home Office,Furniture,Ergonomic Executive Chair,East,Kolkata,12,8043.0,5195.52,2847.48,0.0
+ORD-2025-10028,2026-02-04,CUST-267,Customer_267,Consumer,Clothing,Winter Knit Beanie,West,Pune,15,2419.5,1393.2,1026.3,0.0
+ORD-2024-10597,2026-02-04,CUST-148,Customer_148,Corporate,Clothing,Slim Fit Denim Jeans,North,Jaipur,3,317.73,262.14,55.59,0.15
+ORD-2024-11143,2026-02-05,CUST-436,Customer_436,Home Office,Electronics,Smartwatch Series X,East,Bhubaneswar,13,3610.72,3068.65,542.07,0.25
+ORD-2025-11168,2026-02-06,CUST-281,Customer_281,Corporate,Electronics,Wireless Noise-Canceling Headphones,Central,Indore,5,4745.25,2991.25,1754.0,0.0
+ORD-2025-10337,2026-02-07,CUST-102,Customer_102,Consumer,Clothing,Breathable Running Shoes,West,Surat,7,769.8,508.55,261.25,0.1
+ORD-2026-10842,2026-02-07,CUST-442,Customer_442,Corporate,Clothing,Slim Fit Denim Jeans,Central,Bhopal,11,1646.15,1196.36,449.79,0.0
+ORD-2025-10187,2026-02-10,CUST-112,Customer_112,Home Office,Clothing,Cotton Oxford Shirt,Central,Bhopal,10,1323.9,1045.3,278.6,0.1
+ORD-2026-10443,2026-02-10,CUST-422,Customer_422,Corporate,Office Supplies,Gel Pen Box (Set of 12),North,Delhi,5,183.11,138.0,45.11,0.05
+ORD-2025-10712,2026-02-11,CUST-357,Customer_357,Consumer,Office Supplies,Whiteboard Marker Kit,West,Pune,5,303.0,193.05,109.95,0.0
+ORD-2026-10752,2026-02-11,CUST-384,Customer_384,Enterprise,Electronics,Smartwatch Series X,East,Kolkata,14,10764.94,8289.12,2475.82,0.1
+ORD-2025-11174,2026-02-12,CUST-173,Customer_173,Home Office,Office Supplies,Whiteboard Marker Kit,East,Patna,15,356.85,219.0,137.85,0.0
+ORD-2025-10061,2026-02-13,CUST-319,Customer_319,Consumer,Clothing,Cotton Oxford Shirt,South,Kochi,11,286.77,202.29,84.48,0.0
+ORD-2026-10152,2026-02-13,CUST-382,Customer_382,Home Office,Office Supplies,Heavy Duty Stapler,Central,Indore,2,87.76,49.28,38.48,0.0
+ORD-2025-10724,2026-02-15,CUST-248,Customer_248,Home Office,Electronics,Ergonomic Wireless Mouse,East,Bhubaneswar,6,4809.9,2902.92,1906.98,0.0
+ORD-2025-10205,2026-02-16,CUST-428,Customer_428,Consumer,Electronics,Ergonomic Wireless Mouse,Central,Bhopal,9,3444.86,2720.25,724.61,0.25
+ORD-2026-10671,2026-02-17,CUST-272,Customer_272,Enterprise,Office Supplies,Heavy Duty Stapler,North,Delhi,2,128.63,93.48,35.15,0.1
+ORD-2026-10830,2026-02-17,CUST-251,Customer_251,Corporate,Electronics,Smartwatch Series X,South,Chennai,12,7793.5,5456.88,2336.62,0.05
+ORD-2026-10041,2026-02-18,CUST-304,Customer_304,Enterprise,Furniture,Ergonomic Executive Chair,South,Kochi,15,8692.11,6304.65,2387.46,0.1
+ORD-2025-10217,2026-02-18,CUST-400,Customer_400,Consumer,Furniture,Standing Height-Adjustable Desk,South,Bengaluru,12,5405.64,3151.92,2253.72,0.0
+ORD-2025-11039,2026-02-19,CUST-231,Customer_231,Home Office,Furniture,Modern Bookshelf 5-Tier,North,Chandigarh,10,2710.5,1874.5,836.0,0.0
+ORD-2026-11121,2026-02-19,CUST-185,Customer_185,Enterprise,Electronics,Wireless Noise-Canceling Headphones,South,Bengaluru,14,13462.71,9887.22,3575.49,0.15
+ORD-2026-10206,2026-02-20,CUST-270,Customer_270,Consumer,Clothing,Breathable Running Shoes,Central,Raipur,2,202.35,158.7,43.65,0.15
+ORD-2026-10341,2026-02-21,CUST-387,Customer_387,Consumer,Furniture,Leather Recliner Sofa,West,Pune,4,1234.27,952.88,281.39,0.2
+ORD-2026-10617,2026-02-21,CUST-225,Customer_225,Corporate,Clothing,Slim Fit Denim Jeans,Central,Bhopal,8,501.84,328.16,173.68,0.0
+ORD-2024-10609,2026-02-22,CUST-176,Customer_176,Consumer,Furniture,Modern Bookshelf 5-Tier,South,Bengaluru,6,3408.32,2381.76,1026.56,0.05
+ORD-2025-10391,2026-02-25,CUST-420,Customer_420,Consumer,Clothing,Slim Fit Denim Jeans,Central,Bhopal,4,305.6,193.16,112.44,0.0
+ORD-2026-10983,2026-02-26,CUST-126,Customer_126,Enterprise,Furniture,Standing Height-Adjustable Desk,North,Jaipur,15,3505.61,2599.8,905.81,0.25
+ORD-2026-10503,2026-02-28,CUST-423,Customer_423,Home Office,Furniture,Modern Bookshelf 5-Tier,West,Surat,4,2049.68,1462.92,586.76,0.0
+ORD-2026-10002,2026-03-01,CUST-131,Customer_131,Home Office,Furniture,Standing Height-Adjustable Desk,West,Surat,3,1524.87,1111.2,413.67,0.0
+ORD-2025-10214,2026-03-01,CUST-117,Customer_117,Enterprise,Office Supplies,Whiteboard Marker Kit,North,Jaipur,1,40.99,33.92,7.07,0.1
+ORD-2025-10907,2026-03-01,CUST-105,Customer_105,Home Office,Office Supplies,Gel Pen Box (Set of 12),Central,Bhopal,4,45.93,39.76,6.17,0.15
+ORD-2026-10902,2026-03-03,CUST-237,Customer_237,Enterprise,Office Supplies,Desktop Document Organizer,North,Delhi,15,273.87,192.9,80.97,0.15
+ORD-2025-10730,2026-03-04,CUST-144,Customer_144,Home Office,Electronics,Mechanical Gaming Keyboard,East,Kolkata,4,1207.78,993.88,213.9,0.15
+ORD-2026-10290,2026-03-05,CUST-430,Customer_430,Enterprise,Electronics,Wireless Noise-Canceling Headphones,South,Chennai,9,3382.45,2259.27,1123.18,0.15
+ORD-2025-10775,2026-03-05,CUST-382,Customer_382,Home Office,Furniture,Ergonomic Executive Chair,North,Lucknow,4,1709.09,1396.4,312.69,0.2
+ORD-2025-10976,2026-03-06,CUST-423,Customer_423,Consumer,Clothing,Slim Fit Denim Jeans,East,Patna,7,235.62,156.52,79.1,0.1
+ORD-2024-11167,2026-03-07,CUST-401,Customer_401,Home Office,Office Supplies,Heavy Duty Stapler,North,Chandigarh,4,78.47,67.64,10.83,0.15
+ORD-2026-10188,2026-03-08,CUST-435,Customer_435,Consumer,Office Supplies,Whiteboard Marker Kit,West,Ahmedabad,11,699.93,412.28,287.65,0.0
+ORD-2026-10935,2026-03-08,CUST-229,Customer_229,Enterprise,Clothing,Cotton Oxford Shirt,Central,Bhopal,5,388.31,299.55,88.76,0.25
+ORD-2024-10999,2026-03-09,CUST-234,Customer_234,Home Office,Office Supplies,Whiteboard Marker Kit,South,Chennai,8,489.97,373.36,116.61,0.05
+ORD-2026-10590,2026-03-12,CUST-398,Customer_398,Enterprise,Furniture,Standing Height-Adjustable Desk,East,Bhubaneswar,10,1601.3,1112.9,488.4,0.0
+ORD-2026-11070,2026-03-12,CUST-217,Customer_217,Corporate,Office Supplies,Whiteboard Marker Kit,East,Bhubaneswar,15,205.95,124.35,81.6,0.0
+ORD-2026-10218,2026-03-16,CUST-385,Customer_385,Home Office,Clothing,Winter Knit Beanie,West,Mumbai,8,712.24,488.4,223.84,0.0
+ORD-2026-10521,2026-03-16,CUST-349,Customer_349,Consumer,Clothing,Breathable Running Shoes,South,Chennai,4,521.4,505.2,16.2,0.25
+ORD-2024-10093,2026-03-17,CUST-424,Customer_424,Enterprise,Furniture,Leather Recliner Sofa,North,Jaipur,13,5641.15,4433.13,1208.02,0.1
+ORD-2026-10536,2026-03-18,CUST-304,Customer_304,Home Office,Furniture,Standing Height-Adjustable Desk,West,Pune,13,3031.47,2429.83,601.64,0.1
+ORD-2024-10498,2026-03-19,CUST-416,Customer_416,Corporate,Electronics,Ergonomic Wireless Mouse,Central,Nagpur,10,9791.0,7261.2,2529.8,0.0
+ORD-2025-10022,2026-03-20,CUST-258,Customer_258,Home Office,Office Supplies,Gel Pen Box (Set of 12),Central,Bhopal,7,134.19,91.49,42.7,0.1
+ORD-2024-10510,2026-03-20,CUST-175,Customer_175,Home Office,Furniture,Leather Recliner Sofa,East,Bhubaneswar,7,2860.51,1803.55,1056.96,0.1
+ORD-2025-10550,2026-03-20,CUST-354,Customer_354,Consumer,Electronics,Smartwatch Series X,South,Hyderabad,2,1291.79,917.2,374.59,0.05
+ORD-2026-11181,2026-03-20,CUST-421,Customer_421,Home Office,Office Supplies,Whiteboard Marker Kit,South,Hyderabad,13,595.65,381.94,213.71,0.1
+ORD-2025-10415,2026-03-21,CUST-416,Customer_416,Corporate,Electronics,4K Ultra Monitor 32-inch,East,Bhubaneswar,2,2225.54,1355.58,869.96,0.0
+ORD-2026-10434,2026-03-23,CUST-191,Customer_191,Corporate,Clothing,Cotton Oxford Shirt,South,Chennai,1,51.84,44.29,7.55,0.25
+ORD-2024-10762,2026-03-23,CUST-238,Customer_238,Home Office,Electronics,Smartphone Pro Max,East,Kolkata,8,8275.52,5589.84,2685.68,0.0
+ORD-2025-10865,2026-03-23,CUST-125,Customer_125,Enterprise,Clothing,Winter Knit Beanie,East,Patna,8,409.52,302.72,106.8,0.0
+ORD-2025-10121,2026-03-25,CUST-243,Customer_243,Corporate,Electronics,Ergonomic Wireless Mouse,South,Kochi,2,1735.68,1278.0,457.68,0.0
+ORD-2026-10488,2026-03-26,CUST-226,Customer_226,Enterprise,Clothing,Winter Knit Beanie,North,Lucknow,12,913.92,753.72,160.2,0.2
+ORD-2024-10993,2026-03-27,CUST-272,Customer_272,Enterprise,Electronics,Wireless Noise-Canceling Headphones,East,Kolkata,5,1523.13,1011.05,512.08,0.05
+ORD-2024-10504,2026-03-31,CUST-177,Customer_177,Corporate,Electronics,Wireless Noise-Canceling Headphones,Central,Raipur,3,800.09,551.19,248.9,0.15
+ORD-2024-10738,2026-03-31,CUST-285,Customer_285,Corporate,Electronics,Smartwatch Series X,East,Kolkata,4,4068.56,2964.56,1104.0,0.0
+ORD-2025-10442,2026-04-01,CUST-281,Customer_281,Home Office,Clothing,Winter Knit Beanie,West,Pune,1,107.04,93.06,13.98,0.2
+ORD-2024-10936,2026-04-02,CUST-347,Customer_347,Home Office,Office Supplies,Desktop Document Organizer,Central,Bhopal,15,771.3,544.05,227.25,0.0
+ORD-2024-10294,2026-04-04,CUST-136,Customer_136,Corporate,Electronics,Smartphone Pro Max,North,Chandigarh,6,4754.88,3588.9,1165.98,0.25
+ORD-2024-10579,2026-04-06,CUST-161,Customer_161,Corporate,Clothing,Performance Thermal Jacket,North,Chandigarh,5,708.12,545.8,162.32,0.2
+ORD-2026-10884,2026-04-06,CUST-279,Customer_279,Corporate,Electronics,Ergonomic Wireless Mouse,Central,Indore,10,5121.0,3070.1,2050.9,0.0
+ORD-2026-10869,2026-04-07,CUST-419,Customer_419,Home Office,Clothing,Performance Thermal Jacket,South,Hyderabad,9,1049.77,825.57,224.2,0.05
+ORD-2025-10370,2026-04-09,CUST-255,Customer_255,Consumer,Office Supplies,Gel Pen Box (Set of 12),West,Mumbai,9,322.27,243.81,78.46,0.2
+ORD-2025-10655,2026-04-09,CUST-299,Customer_299,Consumer,Furniture,Leather Recliner Sofa,East,Patna,2,901.52,545.6,355.92,0.0
+ORD-2026-10956,2026-04-09,CUST-143,Customer_143,Enterprise,Furniture,Leather Recliner Sofa,North,Delhi,7,1997.8,1233.26,764.54,0.0
+ORD-2024-10465,2026-04-10,CUST-221,Customer_221,Enterprise,Clothing,Cotton Oxford Shirt,West,Mumbai,12,1238.88,683.04,555.84,0.0
+ORD-2026-10365,2026-04-12,CUST-148,Customer_148,Consumer,Office Supplies,Premium Notebook Pack,Central,Indore,6,165.84,99.3,66.54,0.0
+ORD-2026-10215,2026-04-13,CUST-111,Customer_111,Corporate,Office Supplies,Heavy Duty Stapler,East,Guwahati,4,139.65,103.08,36.57,0.25
+ORD-2025-10946,2026-04-13,CUST-381,Customer_381,Home Office,Office Supplies,Gel Pen Box (Set of 12),Central,Raipur,11,710.05,416.13,293.92,0.0
+ORD-2026-10371,2026-04-14,CUST-394,Customer_394,Corporate,Clothing,Performance Thermal Jacket,East,Patna,4,192.24,134.52,57.72,0.0
+ORD-2024-11056,2026-04-15,CUST-246,Customer_246,Consumer,Furniture,Ergonomic Executive Chair,East,Bhubaneswar,7,840.0,662.2,177.8,0.2
+ORD-2026-10074,2026-04-17,CUST-303,Customer_303,Consumer,Office Supplies,Heavy Duty Stapler,North,Chandigarh,9,344.97,256.59,88.38,0.0
+ORD-2025-10082,2026-04-17,CUST-309,Customer_309,Home Office,Office Supplies,Heavy Duty Stapler,Central,Indore,13,702.52,426.01,276.51,0.0
+ORD-2024-10333,2026-04-18,CUST-329,Customer_329,Consumer,Office Supplies,Heavy Duty Stapler,North,Chandigarh,8,392.8,292.4,100.4,0.0
+ORD-2024-10531,2026-04-18,CUST-284,Customer_284,Consumer,Office Supplies,Gel Pen Box (Set of 12),South,Hyderabad,15,616.8,440.4,176.4,0.0
+ORD-2024-10657,2026-04-18,CUST-123,Customer_123,Home Office,Clothing,Cotton Oxford Shirt,North,Jaipur,15,1094.85,723.0,371.85,0.0
+ORD-2026-10704,2026-04-21,CUST-356,Customer_356,Enterprise,Electronics,Wireless Noise-Canceling Headphones,East,Kolkata,2,1171.64,963.72,207.92,0.15
+ORD-2026-10122,2026-04-24,CUST-198,Customer_198,Consumer,Electronics,Mechanical Gaming Keyboard,North,Lucknow,15,8893.57,8690.7,202.87,0.25
+ORD-2026-10584,2026-04-24,CUST-215,Customer_215,Consumer,Office Supplies,Gel Pen Box (Set of 12),East,Kolkata,6,60.78,43.98,16.8,0.0
+ORD-2024-10630,2026-04-25,CUST-332,Customer_332,Consumer,Clothing,Winter Knit Beanie,Central,Indore,11,728.9,589.6,139.3,0.2
+ORD-2024-11116,2026-04-26,CUST-287,Customer_287,Home Office,Electronics,4K Ultra Monitor 32-inch,South,Kochi,4,3721.28,2708.92,1012.36,0.0
+ORD-2024-10282,2026-04-27,CUST-134,Customer_134,Home Office,Furniture,Nordic Dining Table,Central,Bhopal,7,4503.24,3180.31,1322.93,0.0
+ORD-2024-10816,2026-04-27,CUST-285,Customer_285,Consumer,Electronics,Ergonomic Wireless Mouse,West,Mumbai,13,7563.23,6067.36,1495.87,0.1
+ORD-2026-11073,2026-04-27,CUST-271,Customer_271,Enterprise,Office Supplies,Gel Pen Box (Set of 12),East,Patna,10,282.4,183.3,99.1,0.0
+ORD-2024-11140,2026-04-28,CUST-357,Customer_357,Enterprise,Electronics,Smartwatch Series X,North,Delhi,2,1283.28,865.86,417.42,0.0
+ORD-2026-10170,2026-04-29,CUST-237,Customer_237,Enterprise,Electronics,Mechanical Gaming Keyboard,West,Mumbai,10,3419.72,2355.5,1064.22,0.05
+ORD-2025-10388,2026-04-30,CUST-294,Customer_294,Enterprise,Furniture,Nordic Dining Table,South,Bengaluru,3,739.75,647.67,92.08,0.15
+ORD-2026-10566,2026-05-01,CUST-220,Customer_220,Home Office,Clothing,Breathable Running Shoes,East,Bhubaneswar,14,2035.6,1155.7,879.9,0.0
+ORD-2025-10085,2026-05-02,CUST-438,Customer_438,Consumer,Clothing,Cotton Oxford Shirt,Central,Bhopal,10,909.68,907.3,2.38,0.25
+ORD-2025-10112,2026-05-02,CUST-234,Customer_234,Enterprise,Electronics,Smartphone Pro Max,Central,Indore,12,2097.53,1779.72,317.81,0.15
+ORD-2025-10904,2026-05-02,CUST-406,Customer_406,Consumer,Electronics,Smartwatch Series X,North,Delhi,10,1710.7,1185.8,524.9,0.0
+ORD-2026-10146,2026-05-06,CUST-111,Customer_111,Corporate,Office Supplies,Premium Notebook Pack,West,Surat,8,186.48,102.8,83.68,0.0
+ORD-2024-10069,2026-05-07,CUST-123,Customer_123,Home Office,Furniture,Nordic Dining Table,North,Delhi,15,2323.08,1465.05,858.03,0.1
+ORD-2026-11049,2026-05-07,CUST-114,Customer_114,Enterprise,Office Supplies,Premium Notebook Pack,South,Chennai,5,264.35,176.4,87.95,0.15
+ORD-2024-10108,2026-05-08,CUST-160,Customer_160,Consumer,Furniture,Leather Recliner Sofa,South,Kochi,6,1383.33,873.96,509.37,0.05
+ORD-2026-10356,2026-05-08,CUST-353,Customer_353,Consumer,Clothing,Cotton Oxford Shirt,East,Patna,12,858.53,748.32,110.21,0.2
+ORD-2025-10400,2026-05-08,CUST-373,Customer_373,Home Office,Furniture,Leather Recliner Sofa,Central,Bhopal,7,1367.03,911.89,455.14,0.0
+ORD-2026-11196,2026-05-08,CUST-434,Customer_434,Home Office,Office Supplies,Gel Pen Box (Set of 12),South,Bengaluru,9,344.34,197.28,147.06,0.0
+ORD-2024-10744,2026-05-11,CUST-138,Customer_138,Corporate,Clothing,Winter Knit Beanie,East,Patna,13,426.66,282.62,144.04,0.0
+ORD-2025-10802,2026-05-11,CUST-361,Customer_361,Corporate,Office Supplies,Heavy Duty Stapler,South,Bengaluru,12,482.66,393.72,88.94,0.15
+ORD-2024-10126,2026-05-12,CUST-306,Customer_306,Consumer,Furniture,Leather Recliner Sofa,North,Chandigarh,13,10724.74,7340.71,3384.03,0.0
+ORD-2025-10451,2026-05-12,CUST-109,Customer_109,Enterprise,Office Supplies,Desktop Document Organizer,Central,Bhopal,8,405.18,372.72,32.46,0.2
+ORD-2026-10080,2026-05-13,CUST-201,Customer_201,Consumer,Furniture,Modern Bookshelf 5-Tier,Central,Bhopal,1,656.74,383.74,273.0,0.0
+ORD-2025-11132,2026-05-14,CUST-125,Customer_125,Enterprise,Office Supplies,Desktop Document Organizer,South,Kochi,10,518.16,352.9,165.26,0.15
+ORD-2024-10621,2026-05-15,CUST-309,Customer_309,Consumer,Furniture,Ergonomic Executive Chair,Central,Indore,9,5752.01,3736.98,2015.03,0.05
+ORD-2025-10979,2026-05-16,CUST-337,Customer_337,Consumer,Furniture,Standing Height-Adjustable Desk,Central,Bhopal,11,8389.85,5701.19,2688.66,0.1
+ORD-2025-11045,2026-05-16,CUST-310,Customer_310,Consumer,Office Supplies,Heavy Duty Stapler,Central,Raipur,13,586.43,345.41,241.02,0.0
+ORD-2026-10038,2026-05-19,CUST-204,Customer_204,Enterprise,Electronics,Ergonomic Wireless Mouse,Central,Raipur,15,15847.52,9954.9,5892.62,0.1
+ORD-2024-10273,2026-05-19,CUST-391,Customer_391,Consumer,Electronics,4K Ultra Monitor 32-inch,East,Patna,5,3042.35,1792.8,1249.55,0.0
+ORD-2025-10592,2026-05-19,CUST-172,Customer_172,Consumer,Office Supplies,Heavy Duty Stapler,East,Patna,6,386.34,245.34,141.0,0.0
+ORD-2024-10186,2026-05-20,CUST-184,Customer_184,Home Office,Furniture,Standing Height-Adjustable Desk,Central,Nagpur,14,2676.14,2223.62,452.52,0.25
+ORD-2025-10241,2026-05-20,CUST-101,Customer_101,Home Office,Furniture,Modern Bookshelf 5-Tier,South,Kochi,6,2460.51,2087.58,372.93,0.25
+ORD-2024-10903,2026-05-20,CUST-321,Customer_321,Consumer,Furniture,Standing Height-Adjustable Desk,Central,Indore,12,3606.39,2605.92,1000.47,0.05
+ORD-2026-10449,2026-05-22,CUST-337,Customer_337,Corporate,Furniture,Leather Recliner Sofa,North,Jaipur,14,10435.6,5845.14,4590.46,0.0
+ORD-2024-10876,2026-05-23,CUST-429,Customer_429,Enterprise,Office Supplies,Whiteboard Marker Kit,South,Hyderabad,11,573.76,330.0,243.76,0.0
+ORD-2024-10888,2026-05-25,CUST-351,Customer_351,Corporate,Furniture,Nordic Dining Table,Central,Bhopal,11,2361.92,1616.89,745.03,0.0
+ORD-2025-10454,2026-05-26,CUST-330,Customer_330,Corporate,Office Supplies,Gel Pen Box (Set of 12),North,Delhi,9,316.22,240.48,75.74,0.2
+ORD-2024-10411,2026-05-28,CUST-164,Customer_164,Consumer,Electronics,Smartwatch Series X,Central,Indore,5,481.6,359.45,122.15,0.0
+ORD-2026-10872,2026-05-28,CUST-221,Customer_221,Enterprise,Furniture,Leather Recliner Sofa,West,Pune,11,3719.57,2761.99,957.58,0.05
+ORD-2025-10355,2026-05-30,CUST-431,Customer_431,Home Office,Electronics,Smartwatch Series X,South,Kochi,5,2614.35,1857.55,756.8,0.0
+ORD-2025-11099,2026-05-30,CUST-111,Customer_111,Enterprise,Clothing,Winter Knit Beanie,Central,Bhopal,8,835.52,569.44,266.08,0.0
+ORD-2025-11108,2026-05-30,CUST-145,Customer_145,Corporate,Electronics,4K Ultra Monitor 32-inch,East,Guwahati,10,5162.0,2895.6,2266.4,0.0
+ORD-2025-10079,2026-05-31,CUST-321,Customer_321,Consumer,Electronics,4K Ultra Monitor 32-inch,Central,Nagpur,6,2849.34,1649.04,1200.3,0.0
+ORD-2024-10735,2026-05-31,CUST-196,Customer_196,Home Office,Clothing,Winter Knit Beanie,East,Guwahati,3,363.03,217.47,145.56,0.0
+ORD-2024-10366,2026-06-01,CUST-333,Customer_333,Consumer,Office Supplies,Gel Pen Box (Set of 12),Central,Raipur,12,415.32,253.92,161.4,0.0
+ORD-2025-10679,2026-06-01,CUST-268,Customer_268,Consumer,Furniture,Nordic Dining Table,West,Mumbai,5,2842.8,2175.55,667.25,0.2
+ORD-2026-10863,2026-06-01,CUST-178,Customer_178,Corporate,Electronics,Ergonomic Wireless Mouse,Central,Raipur,13,1919.01,1752.92,166.09,0.2
+ORD-2026-10725,2026-06-02,CUST-185,Customer_185,Corporate,Electronics,Smartphone Pro Max,South,Kochi,6,2973.25,2534.22,439.03,0.15
+ORD-2024-11191,2026-06-03,CUST-358,Customer_358,Home Office,Office Supplies,Desktop Document Organizer,North,Lucknow,1,36.05,20.85,15.2,0.0
+ORD-2024-11197,2026-06-03,CUST-343,Customer_343,Consumer,Electronics,Mechanical Gaming Keyboard,East,Bhubaneswar,2,442.7,330.44,112.26,0.15
+ORD-2024-10318,2026-06-06,CUST-450,Customer_450,Enterprise,Electronics,Smartphone Pro Max,Central,Indore,7,3808.35,2653.7,1154.65,0.0
+ORD-2025-10931,2026-06-06,CUST-345,Customer_345,Consumer,Furniture,Modern Bookshelf 5-Tier,South,Chennai,14,8316.0,6607.44,1708.56,0.1
+ORD-2024-10183,2026-06-07,CUST-234,Customer_234,Consumer,Electronics,4K Ultra Monitor 32-inch,North,Chandigarh,7,2099.47,1724.66,374.81,0.25
+ORD-2025-10595,2026-06-07,CUST-118,Customer_118,Enterprise,Clothing,Slim Fit Denim Jeans,West,Ahmedabad,11,628.13,532.73,95.4,0.15
+ORD-2026-10920,2026-06-07,CUST-262,Customer_262,Enterprise,Electronics,Smartwatch Series X,South,Chennai,10,8096.8,5752.8,2344.0,0.0
+ORD-2024-11008,2026-06-08,CUST-420,Customer_420,Corporate,Electronics,Ergonomic Wireless Mouse,East,Guwahati,13,1881.46,1616.03,265.43,0.25
+ORD-2024-10660,2026-06-10,CUST-421,Customer_421,Home Office,Furniture,Nordic Dining Table,West,Surat,14,3030.45,2036.58,993.87,0.15
+ORD-2026-10965,2026-06-11,CUST-224,Customer_224,Corporate,Clothing,Slim Fit Denim Jeans,East,Kolkata,10,807.07,752.0,55.07,0.25
+ORD-2026-10545,2026-06-12,CUST-194,Customer_194,Enterprise,Office Supplies,Whiteboard Marker Kit,North,Jaipur,13,238.89,187.46,51.43,0.2
+ORD-2026-10068,2026-06-14,CUST-294,Customer_294,Consumer,Electronics,Smartphone Pro Max,South,Kochi,7,2253.44,1552.67,700.77,0.15
+ORD-2024-10702,2026-06-14,CUST-317,Customer_317,Enterprise,Electronics,Wireless Noise-Canceling Headphones,Central,Bhopal,10,9900.81,7239.2,2661.61,0.1
+ORD-2026-10974,2026-06-15,CUST-253,Customer_253,Corporate,Office Supplies,Desktop Document Organizer,West,Mumbai,9,387.4,273.24,114.16,0.05
+ORD-2025-10052,2026-06-17,CUST-183,Customer_183,Consumer,Furniture,Ergonomic Executive Chair,North,Chandigarh,14,7800.69,5132.12,2668.57,0.15
+ORD-2025-10310,2026-06-17,CUST-169,Customer_169,Home Office,Office Supplies,Desktop Document Organizer,South,Kochi,3,118.28,107.7,10.58,0.25
+ORD-2026-10395,2026-06-18,CUST-162,Customer_162,Corporate,Clothing,Slim Fit Denim Jeans,East,Guwahati,5,322.3,225.7,96.6,0.0
+ORD-2025-10799,2026-06-21,CUST-339,Customer_339,Enterprise,Office Supplies,Whiteboard Marker Kit,North,Delhi,12,311.64,171.96,139.68,0.0
+ORD-2026-10197,2026-06-22,CUST-411,Customer_411,Enterprise,Furniture,Nordic Dining Table,South,Chennai,3,1080.66,771.87,308.79,0.15
+ORD-2026-10866,2026-06-22,CUST-183,Customer_183,Corporate,Electronics,Smartwatch Series X,North,Delhi,9,2060.91,1265.31,795.6,0.0
+ORD-2025-10784,2026-06-26,CUST-442,Customer_442,Consumer,Clothing,Winter Knit Beanie,South,Bengaluru,14,790.3,537.88,252.42,0.0
+ORD-2025-10955,2026-06-26,CUST-442,Customer_442,Home Office,Electronics,4K Ultra Monitor 32-inch,West,Mumbai,1,456.2,379.18,77.02,0.25
+ORD-2025-10049,2026-06-29,CUST-338,Customer_338,Corporate,Electronics,Mechanical Gaming Keyboard,Central,Raipur,1,541.41,367.97,173.44,0.05
+ORD-2024-10150,2026-07-01,CUST-161,Customer_161,Home Office,Electronics,Wireless Noise-Canceling Headphones,Central,Raipur,5,5054.4,684.95,2191.25,0.0
+ORD-2025-10298,2026-07-01,CUST-181,Customer_181,Home Office,Electronics,Smartwatch Series X,South,Hyderabad,13,10041.72,7417.41,2624.31,0.0
+ORD-2026-10407,2026-07-01,CUST-315,Customer_315,Home Office,Electronics,Ergonomic Wireless Mouse,South,Bengaluru,14,14684.6,8086.26,6598.34,0.0
+ORD-2026-11028,2026-07-02,CUST-415,Customer_415,Corporate,Clothing,Cotton Oxford Shirt,East,Guwahati,7,855.7,676.9,178.8,0.25
+ORD-2025-10058,2026-07-04,CUST-401,Customer_401,Enterprise,Furniture,Ergonomic Executive Chair,West,Surat,5,3267.75,2332.95,934.8,0.0
+ORD-2026-10719,2026-07-04,CUST-183,Customer_183,Corporate,Furniture,Ergonomic Executive Chair,South,Bengaluru,2,1393.38,1009.68,383.7,0.0
+ORD-2026-11007,2026-07-05,CUST-395,Customer_395,Enterprise,Furniture,Standing Height-Adjustable Desk,West,Surat,14,2025.06,1348.34,676.72,0.05
+ORD-2024-10927,2026-07-06,CUST-280,Customer_280,Corporate,Electronics,Mechanical Gaming Keyboard,West,Mumbai,5,4697.28,2993.45,1703.83,0.1
+ORD-2024-10600,2026-07-07,CUST-308,Customer_308,Home Office,Office Supplies,Desktop Document Organizer,North,Lucknow,11,673.86,435.05,238.81,0.0
+ORD-2025-10838,2026-07-09,CUST-145,Customer_145,Consumer,Clothing,Cotton Oxford Shirt,North,Lucknow,10,1173.53,732.6,440.93,0.05
+ORD-2026-10482,2026-07-10,CUST-120,Customer_120,Corporate,Office Supplies,Desktop Document Organizer,North,Jaipur,14,1045.1,582.26,462.84,0.0
+ORD-2026-11010,2026-07-10,CUST-189,Customer_189,Consumer,Clothing,Breathable Running Shoes,North,Delhi,2,105.74,69.94,35.8,0.15
+ORD-2024-10870,2026-07-11,CUST-292,Customer_292,Enterprise,Furniture,Modern Bookshelf 5-Tier,South,Hyderabad,3,452.14,350.73,101.41,0.2
+ORD-2024-11035,2026-07-11,CUST-431,Customer_431,Enterprise,Electronics,Mechanical Gaming Keyboard,South,Hyderabad,13,11822.59,7125.56,4697.03,0.0
+ORD-2024-10048,2026-07-14,CUST-416,Customer_416,Enterprise,Clothing,Breathable Running Shoes,West,Ahmedabad,11,1313.62,923.01,390.61,0.0
+ORD-2024-10693,2026-07-14,CUST-318,Customer_318,Corporate,Office Supplies,Whiteboard Marker Kit,South,Hyderabad,4,154.77,128.04,26.73,0.25
+ORD-2025-10853,2026-07-14,CUST-412,Customer_412,Home Office,Furniture,Standing Height-Adjustable Desk,Central,Raipur,8,4783.28,2908.32,1874.96,0.0
+ORD-2024-10447,2026-07-15,CUST-308,Customer_308,Home Office,Clothing,Cotton Oxford Shirt,East,Kolkata,13,359.19,242.32,116.87,0.0
+ORD-2025-10259,2026-07-16,CUST-251,Customer_251,Corporate,Electronics,Mechanical Gaming Keyboard,East,Guwahati,15,6975.4,5679.3,1296.1,0.15
+ORD-2025-10649,2026-07-16,CUST-242,Customer_242,Home Office,Clothing,Winter Knit Beanie,Central,Indore,4,339.42,252.8,86.62,0.25
+ORD-2026-10971,2026-07-16,CUST-425,Customer_425,Home Office,Furniture,Leather Recliner Sofa,South,Kochi,1,657.06,475.63,181.43,0.0
+ORD-2024-10234,2026-07-17,CUST-103,Customer_103,Enterprise,Clothing,Cotton Oxford Shirt,South,Kochi,14,1984.5,1253.28,731.22,0.0
+ORD-2025-10691,2026-07-17,CUST-202,Customer_202,Home Office,Clothing,Breathable Running Shoes,East,Bhubaneswar,8,328.56,239.92,88.64,0.0
+ORD-2025-10889,2026-07-17,CUST-150,Customer_150,Home Office,Clothing,Slim Fit Denim Jeans,West,Pune,13,1101.88,877.76,224.12,0.2
+ORD-2024-10189,2026-07-18,CUST-355,Customer_355,Corporate,Clothing,Performance Thermal Jacket,North,Delhi,2,161.84,113.36,48.48,0.15
+ORD-2026-10410,2026-07-19,CUST-217,Customer_217,Enterprise,Clothing,Slim Fit Denim Jeans,Central,Bhopal,2,173.25,149.76,23.49,0.25
+ORD-2025-10583,2026-07-19,CUST-322,Customer_322,Home Office,Furniture,Ergonomic Executive Chair,South,Hyderabad,14,2397.32,1784.16,613.16,0.05
+ORD-2025-10607,2026-07-19,CUST-369,Customer_369,Consumer,Office Supplies,Heavy Duty Stapler,West,Pune,14,772.67,545.02,227.65,0.15
+ORD-2024-11017,2026-07-19,CUST-404,Customer_404,Home Office,Furniture,Ergonomic Executive Chair,South,Chennai,4,1919.55,1516.44,403.11,0.2
+ORD-2025-11057,2026-07-19,CUST-233,Customer_233,Home Office,Electronics,4K Ultra Monitor 32-inch,South,Kochi,1,694.55,428.76,265.79,0.05
+ORD-2025-10820,2026-07-20,CUST-402,Customer_402,Corporate,Electronics,Smartwatch Series X,Central,Nagpur,2,838.46,654.02,184.44,0.2
+ORD-2026-10176,2026-07-21,CUST-169,Customer_169,Corporate,Office Supplies,Whiteboard Marker Kit,South,Chennai,9,424.65,370.8,53.85,0.15
+ORD-2024-10990,2026-07-21,CUST-429,Customer_429,Enterprise,Furniture,Ergonomic Executive Chair,South,Kochi,9,5558.02,5525.46,32.56,0.25
+ORD-2025-11138,2026-07-22,CUST-238,Customer_238,Consumer,Office Supplies,Heavy Duty Stapler,East,Guwahati,3,161.09,135.27,25.82,0.2
+ORD-2025-11183,2026-07-22,CUST-336,Customer_336,Corporate,Electronics,Smartphone Pro Max,Central,Nagpur,1,882.08,619.15,262.93,0.0
+ORD-2026-10692,2026-07-23,CUST-281,Customer_281,Enterprise,Electronics,Mechanical Gaming Keyboard,South,Kochi,12,10631.14,9193.08,1438.06,0.2
+ORD-2025-10970,2026-07-23,CUST-141,Customer_141,Home Office,Electronics,4K Ultra Monitor 32-inch,South,Bengaluru,2,1811.36,1123.34,688.02,0.0
+ORD-2025-10223,2026-07-25,CUST-163,Customer_163,Corporate,Clothing,Cotton Oxford Shirt,West,Ahmedabad,8,1381.76,965.6,416.16,0.0
+ORD-2025-10727,2026-07-25,CUST-449,Customer_449,Home Office,Electronics,Wireless Noise-Canceling Headphones,Central,Bhopal,10,7209.1,4048.4,3160.7,0.0
+ORD-2025-10778,2026-07-26,CUST-147,Customer_147,Home Office,Office Supplies,Heavy Duty Stapler,West,Pune,11,687.61,380.93,306.68,0.0
+ORD-2026-10707,2026-07-27,CUST-338,Customer_338,Enterprise,Clothing,Cotton Oxford Shirt,Central,Nagpur,8,846.48,501.28,345.2,0.0
+ORD-2026-10848,2026-07-29,CUST-266,Customer_266,Home Office,Electronics,Smartwatch Series X,Central,Nagpur,13,8163.87,4548.05,3615.82,0.0
+ORD-2024-10471,2026-07-30,CUST-383,Customer_383,Enterprise,Clothing,Winter Knit Beanie,North,Chandigarh,10,487.12,478.6,8.52,0.25
+ORD-2025-10814,2026-07-31,CUST-343,Customer_343,Enterprise,Office Supplies,Heavy Duty Stapler,West,Pune,5,248.04,223.6,24.44,0.2
+ORD-2025-11102,2026-07-31,CUST-149,Customer_149,Enterprise,Furniture,Standing Height-Adjustable Desk,East,Bhubaneswar,11,1438.88,1287.22,151.66,0.25
+ORD-2024-11134,2026-08-02,CUST-408,Customer_408,Consumer,Electronics,Mechanical Gaming Keyboard,Central,Bhopal,14,2532.32,2143.26,389.06,0.2
+ORD-2024-10966,2026-08-03,CUST-200,Customer_200,Enterprise,Office Supplies,Heavy Duty Stapler,Central,Nagpur,8,263.28,188.24,75.04,0.0
+ORD-2024-10474,2026-08-06,CUST-353,Customer_353,Consumer,Office Supplies,Desktop Document Organizer,West,Pune,6,272.27,191.82,80.45,0.1
+ORD-2026-10746,2026-08-06,CUST-214,Customer_214,Enterprise,Furniture,Ergonomic Executive Chair,South,Hyderabad,11,4854.19,3536.61,1317.58,0.0
+ORD-2025-11090,2026-08-06,CUST-217,Customer_217,Enterprise,Electronics,Smartphone Pro Max,East,Guwahati,7,2837.17,1894.41,942.76,0.0
+ORD-2025-11156,2026-08-06,CUST-238,Customer_238,Consumer,Electronics,Smartwatch Series X,Central,Nagpur,2,1440.77,966.96,473.81,0.05
+ORD-2026-10377,2026-08-07,CUST-326,Customer_326,Enterprise,Furniture,Ergonomic Executive Chair,West,Pune,4,1301.88,960.2,341.68,0.0
+ORD-2026-10599,2026-08-07,CUST-372,Customer_372,Enterprise,Clothing,Breathable Running Shoes,West,Mumbai,11,793.65,703.23,90.42,0.25
+ORD-2026-10998,2026-08-07,CUST-196,Customer_196,Enterprise,Office Supplies,Gel Pen Box (Set of 12),West,Ahmedabad,13,680.29,421.07,259.22,0.0
+ORD-2025-10409,2026-08-10,CUST-180,Customer_180,Corporate,Furniture,Standing Height-Adjustable Desk,Central,Indore,11,4149.31,2884.97,1264.34,0.0
+ORD-2026-10287,2026-08-11,CUST-158,Customer_158,Consumer,Clothing,Winter Knit Beanie,Central,Bhopal,8,1140.08,766.4,373.68,0.0
+ORD-2025-10358,2026-08-12,CUST-101,Customer_101,Corporate,Clothing,Slim Fit Denim Jeans,South,Bengaluru,10,1138.8,1081.0,57.8,0.25
+ORD-2025-10427,2026-08-12,CUST-181,Customer_181,Enterprise,Office Supplies,Gel Pen Box (Set of 12),East,Kolkata,14,495.16,374.64,120.52,0.05
+ORD-2025-10463,2026-08-12,CUST-106,Customer_106,Enterprise,Electronics,Smartwatch Series X,East,Kolkata,5,4194.04,3303.5,890.54,0.25
+ORD-2024-10879,2026-08-12,CUST-416,Customer_416,Corporate,Clothing,Winter Knit Beanie,North,Jaipur,15,1225.95,708.6,517.35,0.0
+ORD-2026-10173,2026-08-13,CUST-102,Customer_102,Corporate,Electronics,Smartwatch Series X,West,Ahmedabad,10,1259.7,933.9,325.8,0.05
+ORD-2024-10549,2026-08-13,CUST-355,Customer_355,Enterprise,Furniture,Standing Height-Adjustable Desk,Central,Nagpur,3,2081.46,1741.38,340.08,0.15
+ORD-2025-10670,2026-08-13,CUST-291,Customer_291,Enterprise,Furniture,Nordic Dining Table,North,Chandigarh,9,3858.93,2201.85,1657.08,0.0
+ORD-2026-11016,2026-08-13,CUST-267,Customer_267,Home Office,Electronics,Smartwatch Series X,South,Kochi,3,2995.62,1910.37,1085.25,0.0
+ORD-2025-10586,2026-08-14,CUST-311,Customer_311,Corporate,Furniture,Nordic Dining Table,West,Surat,14,7671.3,4375.84,3295.46,0.0
+ORD-2026-10800,2026-08-14,CUST-317,Customer_317,Home Office,Office Supplies,Gel Pen Box (Set of 12),East,Bhubaneswar,3,173.46,100.14,73.32,0.0
+ORD-2026-11130,2026-08-15,CUST-174,Customer_174,Consumer,Electronics,4K Ultra Monitor 32-inch,East,Patna,13,4274.89,3239.73,1035.16,0.25
+ORD-2024-10933,2026-08-17,CUST-434,Customer_434,Home Office,Electronics,Wireless Noise-Canceling Headphones,West,Mumbai,13,3765.35,3608.54,156.81,0.25
+ORD-2024-11065,2026-08-17,CUST-396,Customer_396,Home Office,Electronics,4K Ultra Monitor 32-inch,West,Ahmedabad,9,3537.56,2654.01,883.55,0.05
+ORD-2024-10564,2026-08-18,CUST-381,Customer_381,Enterprise,Office Supplies,Desktop Document Organizer,South,Kochi,13,923.78,568.75,355.03,0.0
+ORD-2025-11117,2026-08-20,CUST-181,Customer_181,Enterprise,Electronics,Mechanical Gaming Keyboard,South,Kochi,2,780.05,581.56,198.49,0.1
+ORD-2024-10114,2026-08-21,CUST-315,Customer_315,Consumer,Electronics,Smartphone Pro Max,East,Bhubaneswar,10,10056.6,5763.5,4293.1,0.0
+ORD-2026-10527,2026-08-21,CUST-118,Customer_118,Consumer,Office Supplies,Desktop Document Organizer,Central,Raipur,2,63.99,40.08,23.91,0.05
+ORD-2024-10153,2026-08-23,CUST-437,Customer_437,Enterprise,Electronics,Smartphone Pro Max,West,Ahmedabad,13,1460.16,1310.27,149.89,0.2
+ORD-2024-10252,2026-08-23,CUST-310,Customer_310,Home Office,Furniture,Modern Bookshelf 5-Tier,West,Pune,4,1778.58,1494.84,283.74,0.25
+ORD-2025-10436,2026-08-23,CUST-107,Customer_107,Corporate,Electronics,Wireless Noise-Canceling Headphones,Central,Indore,8,2607.05,2137.28,469.77,0.1
+ORD-2025-10478,2026-08-25,CUST-261,Customer_261,Consumer,Electronics,Ergonomic Wireless Mouse,East,Patna,9,5237.62,3784.23,1453.39,0.1
+ORD-2026-11118,2026-08-25,CUST-160,Customer_160,Home Office,Office Supplies,Heavy Duty Stapler,South,Kochi,5,340.1,241.7,98.4,0.0
+ORD-2024-10147,2026-08-26,CUST-321,Customer_321,Corporate,Office Supplies,Gel Pen Box (Set of 12),Central,Bhopal,11,629.31,429.11,200.2,0.0
+ORD-2025-10505,2026-08-26,CUST-421,Customer_421,Consumer,Clothing,Slim Fit Denim Jeans,Central,Raipur,8,538.62,386.16,152.46,0.2
+ORD-2024-10987,2026-08-26,CUST-194,Customer_194,Consumer,Electronics,Ergonomic Wireless Mouse,North,Delhi,6,2416.5,1566.36,850.14,0.0
+ORD-2024-10264,2026-08-27,CUST-186,Customer_186,Corporate,Electronics,Ergonomic Wireless Mouse,East,Bhubaneswar,11,10070.06,6663.69,3406.37,0.0
+ORD-2026-10668,2026-08-27,CUST-413,Customer_413,Consumer,Furniture,Leather Recliner Sofa,East,Patna,2,1425.32,830.46,594.86,0.0
+ORD-2024-10582,2026-08-28,CUST-183,Customer_183,Home Office,Furniture,Ergonomic Executive Chair,Central,Raipur,2,783.29,698.9,84.39,0.25
+ORD-2024-11053,2026-08-28,CUST-442,Customer_442,Corporate,Electronics,Ergonomic Wireless Mouse,South,Kochi,6,2830.92,1966.38,864.54,0.0
+ORD-2026-11190,2026-08-28,CUST-178,Customer_178,Corporate,Furniture,Ergonomic Executive Chair,South,Bengaluru,15,5864.62,4963.2,901.42,0.25
+ORD-2024-10099,2026-08-29,CUST-439,Customer_439,Corporate,Office Supplies,Heavy Duty Stapler,Central,Raipur,2,23.82,17.4,6.42,0.0
+ORD-2026-10368,2026-08-29,CUST-332,Customer_332,Enterprise,Clothing,Slim Fit Denim Jeans,East,Kolkata,12,1759.44,1074.72,684.72,0.0
+ORD-2025-11015,2026-08-29,CUST-290,Customer_290,Corporate,Furniture,Leather Recliner Sofa,Central,Nagpur,9,2575.07,1779.84,795.23,0.1
+ORD-2024-10594,2026-08-30,CUST-298,Customer_298,Corporate,Electronics,Mechanical Gaming Keyboard,South,Bengaluru,15,2927.14,2486.25,440.89,0.15
+ORD-2026-10881,2026-08-31,CUST-415,Customer_415,Corporate,Furniture,Ergonomic Executive Chair,East,Guwahati,10,5153.25,4958.5,194.75,0.25
